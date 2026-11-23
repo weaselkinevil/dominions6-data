@@ -1,0 +1,1001 @@
+id	name	rarity	description	requirements	effects	end
+0	A festival was held in the hon	-1	A festival was held in the honor of ##godname##. Everyone was celebrating and faith has increased in the province.	mydominion 1|minpop 50	incdom 3	
+1	A magnificent statue was raise	-1	A magnificent statue was raised in the honor of ##fullgodname##.	temple 1|mydominion 2|minpop 200	incdom 4|decscale Turmoil	
+2	The tax collection went unexpe	-1	The tax collection went unexpectedly well.	minpop 800	gold 300	
+3	A traders' guild has been esta	-2	A traders' guild has been established in the province, permanently increasing tax revenues from the province.	minpop 400	landgold 50	
+4	A group of zealots has joined 	-2	A group of zealots has joined your armies.	dominion 3|land 1	nation -2|10d6units 217	
+5	A wave of religious zeal has s	-2	A wave of religious zeal has swept the province and a group of followers committed to ##godname## has joined your armies.	dominion 2|land 1|minpop 50|unluck 0	nation -2|16d6units 30	
+6	Many commoners are volunteerin	-1	Many commoners are volunteering to serve in the militia.	maxunrest 3|minpop 100	defence 15	
+7	One of your bailiffs is afraid	-1	One of your bailiffs is afraid of bandits.	minunrest 5|minpop 50	defence 10	
+8	A prospector genius has found 	-1	A prospector genius has found a small gold deposit.		gold 200	
+9	A prospector genius has found 	-1	A prospector genius has found a small gold deposit.	luck 2	gold 400	
+10	A prospector genius has found 	-1	A prospector genius has found a small gold deposit.	luck 3	gold 800	
+11	A tribal chief from a distant 	-1	A tribal chief from a distant land has donated gold and a precious item to ##disname##.	dominion 5|era 1	gold 150|magicitem 2	
+12	One of the local nobles is afr	-1	One of the local nobles is afraid of uprisings.	minunrest 5|minpop 50	defence 15	
+13	A pedlar was peddling his ware	-1	A pedlar was peddling his wares in the province when one of your agents discovered a few magic gems of various types among his glass pearls and buttons. They were swiftly and forcefully bought at the price ##godname## intended.	minpop 50	1d3vis All|2A00 -1	
+14	A band of robbers has been roo	-1	A band of robbers has been rooted out and their treasures confiscated.	minunrest 3	gold 250|unrest -10	
+15	A band of robbers has been roo	-1	A band of robbers has been rooted out and their treasures confiscated.	minunrest 3|order 2	gold 350|unrest -20	
+16	A handful of gems have been fo	-1	A handful of gems have been found in a hot valley.	pop0ok 1|heat 1	1d6vis F	
+17	A handful of gems have been fo	-1	A handful of gems have been found in a hot valley.	pop0ok 1|heat 1|luck 0	1d6vis F	
+18	A handful of gems have been fo	-1	A handful of gems have been found in a hot valley.	pop0ok 1|heat 2|luck 0	2d6vis F	
+19	A local wizard has been lynche	-1	A local wizard has been lynched after allegations of turning a peasant into a frog. His magical resources have been transported to the lab.	chaos -1|minpop 10|land 1	1d6vis F|1d6vis F	
+20	A local mage has been lynched 	-1	A local mage has been lynched after allegations of turning a peasant into an oyster. His magical resources have been transported to the lab.	chaos -1|minpop 10|land 0	1d6vis F|1d6vis F	
+21	Lightning struck a large bould	-1	Lightning struck a large boulder and afterwards a handful of gems could be found where the boulder had been cracked.	pop0ok 1	1d6vis A	
+22	Lightning struck a large bould	-1	Lightning struck a large boulder and afterwards a handful of gems could be found where the boulder had been cracked.	pop0ok 1|luck 1	1d6vis A	
+23	Lightning struck a large bould	-1	Lightning struck a large boulder and afterwards a handful of gems could be found where the boulder had been cracked.	pop0ok 1|luck 2	2d6vis A	
+24	A handful of gems have been fo	-1	A handful of gems have been found in the shards of a broken mirror.	pop0ok 1	1d6vis G	
+25	A handful of gems have been fo	-1	A handful of gems have been found in the shards of a broken mirror.	pop0ok 1|luck 1	1d6vis G	
+26	A handful of gems have been fo	-1	A handful of gems have been found in the shards of a broken mirror.	pop0ok 1|luck 2	2d6vis G	
+27	A magical bird of wondrous col	-1	A magical bird of wondrous colors has been found. Small gems were hidden in its feathers.	land 1|unluck -1	1d3vis Elemental	
+28	A magical bird of wondrous col	-1	A magical bird of wondrous colors has been found. Small gems were hidden in its feathers.	land 1|luck 2	1d6vis Elemental	
+29	A magical bird of wondrous col	-1	A magical bird of wondrous colors has been found. Small gems were hidden in its gut.	land 1|luck 3	1d6vis Elemental	
+30	A magical fish of wondrous col	-1	A magical fish of wondrous colors has been caught. Small gems were found in its belly.	land 0|unluck -1	1d3vis Elemental	
+31	A magical fish of wondrous col	-1	A magical fish of wondrous colors has been caught. Small gems were found in its belly.	land 0|luck 2	1d6vis Elemental	
+32	A magical fish of wondrous col	-1	A magical fish of wondrous colors has been caught. A handful of small gems were found in its belly.	freshwater 1|luck 0|magic -1	1d6vis Elemental	
+33	A handful of gems have been fo	-1	A handful of gems have been found in a small stream.	land 1|unluck -1	1d3vis W	
+34	A handful of gems have been fo	-1	A handful of gems have been found in a small stream.	land 1|luck 1	1d6vis W	
+35	A few magic gems have been fou	-1	A few magic gems have been found in an enormous icicle.	pop0ok 1|land 1|cold 2	2d6vis W	
+36	A handful of magic gems have b	-1	A handful of magic gems have been found in a deep ravine.	pop0ok 1	1d6vis E	
+37	A handful of magic gems were f	-1	A handful of magic gems were found under a huge rock.	pop0ok 1|unluck -1	1d6vis E	
+38	A handful of magic gems were f	-1	A handful of magic gems were found under a huge rock.	pop0ok 1|luck 2	1d6vis E	
+39	A handful of magic gems were f	-1	A handful of magic gems were found under a huge rock.	pop0ok 1|luck 3	2d6vis E	
+40	A handful of magic gems have b	-1	A handful of magic gems have been found on a starry night.	pop0ok 1|magic 1	2d6vis S	
+41	A handful of magic gems have b	-1	A handful of magic gems have been found in an abandoned graveyard.	pop0ok 1|death 1	2d6vis D	
+42	A few magic gems have been fou	-1	A few magic gems have been found in the moss growing in a torture chamber.	pop0ok 1|land 0	nation 5|1d6vis F	
+43	A few magic gems have been fou	-1	A few magic gems have been found in the black algae covering the floors of a torture chamber.	pop0ok 1|land 0	1d6vis D	
+44	A handful of magic gems have b	-1	A handful of magic gems have been found in the verdant greenery.	growth 1	1d6vis N	
+45	A few gems have been found in 	-1	A few gems have been found in the split trunk of an oak.	land 1|unluck -1	1d6vis N	
+46	Magical gems have been found i	-1	Magical gems have been found in the split trunk of an oak.	land 1|luck 0	2d6vis N	
+47	A local slave-lord is seeking 	-1	A local slave-lord is seeking absolution for his sins. He has donated some virgins to your cause.	minpop 100|land 1|unluck -1	1d6vis B	
+48	A local slave-lord is seeking 	-1	A local slave-lord is seeking absolution for his sins. He has donated all his virgins and a chest of gold to your cause.	minpop 100|land 1|luck 2|9600 70	4d6vis B|gold 150	
+49	The tax collectors did a magni	-1	The tax collectors did a magnificent job and managed to tax the hidden reserves of the local lords.	minpop 800|order 1|turn 5	gold 1000	
+50	A magic item has been found an	-1	A magic item has been found and transported to the arcane laboratory.	maxunrest 50|magic 3|unluck -1	magicitem 2	
+51	A magic item has been found an	-1	A magic item has been found and transported to the arcane laboratory.	maxunrest 50|magic 3|luck 2	magicitem 3	
+52	A market was held in the provi	-1	A market was held in the province. Merchants from far and wide gathered and there was much commerce.	turn 4|noseason 3|minpop 100|order 1	gold 500	
+53	A market was held in the provi	-1	A market was held in the province. Merchants from far and wide gathered and there was much commerce.	turn 5|noseason 3|minpop 100|order 1|era 3	gold 1000	
+54	A wealthy merchant from a dist	-1	A wealthy merchant from a distant land has married his daughter to a prominent priest of ##godname##. A pile of gold and a remarkable item were accepted as offerings by the temple.	order 1|dominion 5|noera 1	gold 300|magicitem 2	
+55	A priest of ##godname## has be	-1	A priest of ##godname## has been blessing the crops throughout the province. People are happy, faith has increased and much wealth has been donated by merry farmers.	growth 1|dominion 3	gold 200|incdom 1	
+56	A priest of ##godname## has be	-1	A priest of ##godname## has been preaching and warning people of the end of the world. People are frightened and come to the temples to seek comfort. Faith has increased and much wealth has been donated to the temple.	chaos 0|dominion 3	gold 300|incdom 1|unrest 10	
+57	A wealthy merchant has donated	-1	A wealthy merchant has donated a sculpture of solid gold to the temple.	order 1|dominion 5|noera 1	gold 250	
+58	A famous circus has been touri	-1	A famous circus has been touring in the province. This resulted in extra taxes in addition to the good luck that a circus always brings.	minpop 500|order 0|growth 0|maxunrest 25|noera 1	gold 200|decscale2 Misfortune	
+59	A freak show with local talent	-1	A freak show with local talents has gained fame and is now known throughout the neighboring provinces as well. People are proud of their misfits and taxes have increased.	minpop 500|chaos 2|maxunrest 25	gold 150|decscale Turmoil|unrest -25	
+60	Playful winds have been captur	-1	Playful winds have been captured, distilled into diamonds and transported to your laboratory by your mages.	land 1|cave 0|season 0	2d6vis A	
+61	Playful winds have been captur	-1	Playful winds have been captured, distilled into diamonds by your mages.	land 1|cave 0|season 0|luck 3|magic 0	3d6vis A	
+62	A spring fairy has been sighte	-1	A spring fairy has been sighted, spreading joy and laughter in the land.	season 0|land 1|cave 0	unrest -50|decscale3 Death|decscale2 Misfortune	
+63	The summer heat has been disti	-1	The summer heat has been distilled into glowing rubies by a young mage.	land 1|cave 0|season 1	1d6vis F	
+64	This summer is unusually hot. 	-1	This summer is unusually hot. In the ashes of a burning bush a small amount of gems were found.	land 1|cave 0|season 1|heat -1	2d6vis F	
+65	This summer is unusually hot. 	-1	This summer is unusually hot. In the ashes of a burning bush a small amount of gems were found.	land 1|cave 0|season 1|heat -1|luck 3	4d6vis F	
+66	Fallen leaves and magic gems h	-1	Fallen leaves and magic gems have been found in a badger's den.	land 1|cave 0|season 2	2d6vis E	
+67	Heavy autumn rains caused a la	-1	Heavy autumn rains caused a landslide, revealing a buried cache of magic gems underneath the soil.	pop0ok 1|land 1|cave 0|season 2	1d3vis All	
+68	Heavy autumn rains caused a la	-1	Heavy autumn rains caused a landslide, revealing a buried cache of magic gems underneath the soil.	pop0ok 1|land 1|cave 0|season 2|luck 3	1d6vis All	
+69	A few ice crystals of fantasti	-1	A few ice crystals of fantastical proportions have fallen in the province.	pop0ok 1|land 1|season 3	2d6vis W	
+70	The hard working farmers of th	-1	The hard working farmers of the province managed to harvest some sturdy crops even during winter. The farmers were overjoyed and managed to pay some extra tax as well.	maxunrest 50|season 3|cave 0|prod 0|growth 0	unrest -15|gold 100	
+71	The hard working farmers of th	-1	The hard working farmers of the province managed to harvest some sturdy crops even during winter. The farmers were overjoyed and managed to pay some extra tax as well.	maxunrest 50|season 3|cave 0|prod 2|growth 1	unrest -15|taxboost 200	
+72	A mild winter has enabled your	-1	A mild winter has enabled your traders to travel extensively and livestock to survive the winter.	maxunrest 50|season 3|land 1|cave 0	unrest -20|gold 150	
+73	A young farmer stealing food f	-1	A young farmer stealing food from squirrels found some gems among the acorns and donated them to the temple.	season 3|land 1|cave 0|temple 1|growth 0	1d6vis N	
+74	A handful of magic fire gems w	-1	A handful of magic fire gems were found by digging in a spot where the snow would not settle.	season 3|land 1|cold 1|cave 0	1d6vis F	
+75	A handful of magic gems have b	-1	A handful of magic gems have been found in the prime of the season.	noseason 2|noseason 2	1d6vis N	
+76	Magic gems have been found in 	-1	Magic gems have been found in the prime of the season.	luck 2|noseason 2|noseason 2	4d6vis N	
+77	The harvest has been good.	-1	The harvest has been good.	maxunrest 50|noseason 0|noseason 0|growth -1	unrest -20|taxboost 100	
+78	The harvest has been truly exc	-1	The harvest has been truly exceptional.	maxunrest 50|noseason 0|noseason 0|growth 1	unrest -30|taxboost 250	
+79	A handful of magic gems have b	-1	A handful of magic gems have been found in the prime of the season.	noseason 0|noseason 0	1d6vis D	
+80	A handful of magic gems have b	-1	A handful of magic gems have been found in the prime of the season.	luck 3|noseason 0|noseason 0	4d6vis D	
+81	A handful of magic gems have b	-1	A handful of magic gems have been found in the hot waste.	pop0ok 1|waste 1|heat 2	2d6vis F	
+82	A handful of magic gems have b	-1	A handful of magic gems have been found among the old white bones of bold adventurers.	waste 1	2d6vis D	
+83	Some mystical gems have been f	-1	Some mystical gems have been found in a deep crevice.	pop0ok 1|waste 1	2d6vis E	
+84	A handful of magic gems have b	-1	A handful of magic gems have been found in the swamps.	pop0ok 1|swamp 1	2d6vis W	
+85	A handful of magic gems have b	-1	A handful of magic gems have been found in corpses floating in the stagnant waters of the swamp.	pop0ok 1|swamp 1	2d6vis D	
+86	A renegade wizard was found an	-1	A renegade wizard was found and staked in a bog. His laboratory along with a handful of gems are now yours.	lab 0|swamp 1	lab 1|2d6vis N	
+87	A handful of magic gems have b	-1	A handful of magic gems have been found in a grove in the forest.	forest 1	2d6vis N	
+88	A renegade wizard was found an	-1	A renegade wizard was found and hanged from an oak. His laboratory along with a handful of nature gems are now yours.	lab 0|forest 1	lab 1|2d6vis N	
+89	A spirit was found fettered in	-1	A spirit was found fettered in the split trunk of an ancient oak and offered some magic gems in return for its release.	forest 1	2d6vis N	
+90	A handful of magic gems have b	-1	A handful of magic gems have been found on a desolate mountaintop.	pop0ok 1|mountain 1	2d6vis A	
+91	A handful of magic gems have b	-1	A handful of magic gems have been found in an abandoned mine.	mountain 1	2d6vis E	
+92	Copper deposits have been foun	-1	Copper deposits have been found and a new mine is being built.	mountain 1|freesites 1	newsite 68	
+93	Silver deposits have been foun	-1	Silver deposits have been found and a new mine is being built.	mountain 1|luck 1|freesites 1	newsite 67	
+94	Gold deposits have been found 	-1	Gold deposits have been found and a new mine is being built.	mountain 1|luck 2|freesites 1	newsite 66	
+95	Ore deposits have been found a	-1	Ore deposits have been found and a boost in army production is expected.	mountain 1|freesites 1	newsite 69	
+96	A handful of magic gems were f	-1	A handful of magic gems were found in the belly of a dead whale.	pop0ok 1|land 0	2d6vis W	
+97	Some magic gems were found in 	-1	Some magic gems were found in wreck of a sunken ship	pop0ok 1|land 0	2d6vis D	
+98	Magical clams were found and h	-1	Magical clams were found and harvested for pearls	land 0	2d6vis S	
+99	A grand festival was held in t	-2	A grand festival was held in the honor of ##goddisname##. Everyone was celebrating and faith has increased in the province.	temple 1|mydominion 1	incdom 2	
+100	A celebrant of the faith is pr	-2	A celebrant of the faith is preaching justice and bringing hope to the people.	land 1	nation -2|unrest -100|com 241|B300 30	
+101	A pilgrim from a distant land 	-2	A pilgrim from a distant land has come to witness miracles in the temple of ##fullgodname##.	temple 1|mydominion 3|minpop 200|land 1	nation -2|com 2331	
+102	A local lord has employed slav	-2	A local lord has employed slave labor and resource production in the province has been greatly improved.		landprod 30	
+103	The people here have raised a 	-2	The people here have raised a temple in honor of ##godname##.	temple 0|maxunrest 5	temple 1	
+104	A local lord has built a fortr	-2	A local lord has built a fortress to defend his lands from revolting peasants.	fort 0|maxunrest 100|minunrest 10|land 1	fort 1	
+105	A magic item has been found an	-2	A magic item has been found and transported to the arcane laboratory.	pop0ok 1|maxunrest 50|magic -1	magicitem 3	
+106	An unknown benefactor donated 	-2	An unknown benefactor donated a gold statue crafted in the honor of ##goddisname## to the local temple. It was swiftly melted and stamped into gold coins.	turn 4|maxunrest 50|order 0|temple 1	gold 750	
+107	An unknown benefactor donated 	-2	An unknown benefactor donated a gold statue crafted in the honor of ##goddisname## to the local temple. Placing it outside the temple has increased faith and order.	maxunrest 50|order 0|temple 1|mydominion 1	incdom 4|decscale2 Turmoil	
+108	Peasants speak of ill omens an	-2	Peasants speak of ill omens and strange creatures that prowl the forests at night. A handful of death gems have been found in the belly of a goat.	maxunrest 50|minpop 10|land 1	3d6vis D|unrest 25|decscale2 Drain	
+109	A witch was drowned in the wel	-2	A witch was drowned in the well of a village. Thereafter the water has started glowing in the moonlight. This esoteric substance has been distilled into a large quantity of gems.	minpop 10|land 1	4d6vis W	
+110	Priests of the temple have fou	-2	Priests of the temple have found ancient and forgotten vaults containing rich offerings.	turn 4|temple 1	gold 500|magicitem 3	
+111	A gold nugget of legendary siz	-2	A gold nugget of legendary size has been found and brought to the treasury.	turn 4	gold 750	
+112	A peasants goose has laid seve	-2	A peasants goose has laid several eggs of gold! Unfortunately it was killed in an ensuing conflict of ownership. The gold eggs were confiscated by the local temple.	turn 3|land 1|temple 0	gold 500	
+113	A peasant's oyster has produce	-2	A peasant's oyster has produced several giant pearls! Unfortunately the oyster was smashed in an ensuing conflict of ownership. The pearls were confiscated by the local temple.	turn 3|land 0|temple 1	gold 500	
+114	Adventurers have plundered the	-2	Adventurers have plundered the lair of a hideous troll. Their leader has been hanged and all unlawfully acquired goods have been confiscated.	turn 5|9600 50	gold 1000|magicitem 1	
+115	The local merchants guild has 	-2	The local merchants guild has erected a glorious temple in the honor of ##godname##. Unfortunately costs were higher than expected and tax money had to be used for the last fittings. Consequently the province has not been able to pay any tax this month.	temple 0|maxunrest 5|minpop 50	temple 1|taxboost -100	
+116	The skull of a legendary mage 	-2	The skull of a legendary mage has been unearthed and transported to the lab. [Skull Mentor]	pop0ok 1	magicitem 9	
+117	A limping man in a black coat 	-2	A limping man in a black coat has appeared at the gates of the local stronghold. He offered a deal to anyone willing to sign his contract in blood. ##fulltargname## signed it, unable to resist the temptation. [Soul Contract]	turn 20|unique 1|EA00 0|EB00 0|F600 15|F400 1|E700 0	addequip 9	
+118	An adventurer returning from r	-2	An adventurer returning from ruins deep in the mountains has returned insane, carrying a magical lantern that the lord of the land immediately sent to the treasury. [Lightless Lantern]	unique 3|land 1	magicitem 9	
+119	An adventurer returning from t	-2	An adventurer returning from the deep seas has returned insane, carrying a magical lantern that the lord of the land immediately sent to the treasury. [Lightless Lantern]	unique 2|land 0	magicitem 9	
+120	A cunning wizard has donated a	-2	A cunning wizard has donated a magical object to the local lord in return for protection against the superstitious peasantry. It was immediately transported to the treasury.		magicitem 1	
+121	Much of the recent unrest was 	-2	Much of the recent unrest was probably caused by an unpopular local baron. He was executed and wealth including a magic item was confiscated.	minunrest 50	unrest -50|gold 500|magicitem 1	
+122	The construction of a new ring	-2	The construction of a new ring wall to defend a major city is complete. People from near and far are gathering to seek comfort and commerce in the city. Tax revenues have been permanently increased.	land 1|minpop 500|fort 0|order 1	fort 12|landgold 40	
+123	One of your administrators fea	-2	One of your administrators fears a revolution.	minunrest 5|chaos 1	defence 20	
+124	A prudent administrator fears 	-2	A prudent administrator fears your neighbors.	order 2	defence 25	
+125	One of your bailiffs is afraid	-2	One of your bailiffs is afraid of monsters.	magic 2	defence 15	
+126	An annoying leprechaun was cap	-2	An annoying leprechaun was captured by a simple cobbler who sold him to you for a little gold. When persuaded with burning iron, the leprechaun revealed the location of his treasure trove. A magic item and a pile of gold coins were found underneath a dung heap.	luck 1|magic 1|fullowner 57|land 1	magicitem 3|gold 99	
+127	A great treasure has been foun	-2	A great treasure has been found! A fortune in gold, one magic item and a huge amount of magic gems have been found and transported to the arcane laboratory.	luck 3|maxunrest 50|turn 10	gold 3000|magicitem 3|4d6vis F|1d3vis All	
+128	A great treasure has been foun	-2	A great treasure has been found! A fortune in gold, magic items and a huge amount of magic gems have been found and transported to the arcane laboratory.	luck 4|maxunrest 50|turn 15	gold 3000|magicitem 2|magicitem 2|2d6vis S|1d6vis All	
+129	A great treasure has been foun	-2	A great treasure has been found! A fortune in gold, magic items and a huge amount of magic gems have been found and transported to the arcane laboratory.	luck 5|maxunrest 50|turn 15	gold 3000|magicitem 1|magicitem 1|magicitem 1|3d6vis F|1d6vis All	
+130	A great caravan from a distant	-2	A great caravan from a distant land arrived in the province. Merchants from far and wide gathered and there was much commerce.	turn 6|noseason 3|minpop 200|order 1	gold 1500	
+131	A great market was held in the	-2	A great market was held in the province. Merchants from far and wide gathered and there was much commerce.	turn 3|noseason 3|minpop 200|order 1	gold 600	
+132	Ravagus, the Master of Flames,	-2	Ravagus, the Master of Flames, has sent his man-born son to serve you. In return he expects you to set the world on fire.	pop0ok 1|waste 1|magic 2|heat 3|land 1|unique 1	nation -2|com 389|A100 527|A100 527	
+133	A helpful necromancer has deci	-2	A helpful necromancer has decided to aid you. He brought his soulless minions with him.	pop0ok 1|land 1|magic 2|death 1	nation -2|com 310|B300 197	
+134	Rumors of your reputation and 	-2	Rumors of your reputation and promises of an eternal afterlife has caused an amazon priestess from a distant land to lead her tribe to you. In return for service. They expect you to display your mastery over death itself.	pop0ok 1|land 1|magic 1|death 2|dominion 4|noera 3	nation -2|com 356|A100 369|A700 357	
+135	One of your commanders found a	-2	One of your commanders found an old dungeon guarded by strange seals. After days of arcane studies, the seals were broken and a wizened old man was released. The old lore master gratefully accepted you as his new master in return for his freedom.	land 1|magic 2|mountain 1	nation -2|com 479	
+136	Your path to ascension has bee	-2	Your path to ascension has been foreseen at the Grey Tower of Nexus and one of the Shadow Seers has been given the task of guiding you.	pop0ok 1|land 1|magic 3	nation -2|com 106	
+137	One of your gardeners has been	-2	One of your gardeners has been feeding the royal gardens with the blood of animals and condemned criminals. Unaware of the danger to himself, he entered the tainted garden and was killed by the awakened vines. For a week no one dared enter the gardens, but then a strange wanderer of the woods arrived and proclaimed that he would tame the garden, should he be made royal gardener. Now, both he and the dark vines serve you with the strength of the bloodthirsty wild.	land 1|magic 2|growth 2|chaos 1|unique 3	nation -2|com 122|9E00 330	
+138	A fugitive from the hidden kin	-2	A fugitive from the hidden kingdom of Elludia has arrived in your capital. He brings with him a handful of diamonds and swears to serve if you protect him from his former masters.	pop0ok 1|land 1|magic 2|order 2	nation -2|com 629|1d6vis G	
+139	An emissary from the Shadow Se	-2	An emissary from the Shadow Seers of Nexus has arrived in the province. He brings you three gifts from the hidden tower: Astral pearls, a magic item and a pot filled with gold coins.	pop0ok 1|land 1|magic 3|order 0	nation -2|magicitem 2|2d6vis S|gold 200	
+140	An enormously wealthy prince f	-2	An enormously wealthy prince from a distant land arrived in your province searching for his beloved lady. Unfortunately for him, he was infected by the plague and died in your care. His riches, a fortune in gold and a number of magic items, were confiscated and transported to your treasury.	turn 5|land 1|death 3|luck 2	gold 1500|magicitem 1|magicitem 1	
+141	Oleg, an incredibly old alchem	-2	Oleg, an incredibly old alchemist working in one of your laboratories has managed to construct a huge device that transforms base metals into gold. Unfortunately, he died from heart attack when the device actually worked. The device is operational and produces huge amounts of gold each month.	land 1|prod 2|magic 2|lab 1|freesites 1|unique 1	newsite 36	
+142	An unnatural plague has swept 	-2	An unnatural plague has swept the province, killing thousands. Magical gems were found in the decaying corpses. Rumors of the mythical Crown of Darkness have circulated in the province ever since.	land 1|minpop 200|death 2|magic 3|turn 15	4d6vis D|4d6vis D|kill 50|unrest 10	
+143	Caspar of the Cave has arrived	-2	Caspar of the Cave has arrived in your province and told you where to find the deepest cave in the province. Unfortunately he also awakened some strange beings in the deeps.	pop0ok 1|land 1|luck 2|magic 2|freesites 1|nositenbr 37	newsite 37|com 447|2d6units 447	
+144	A young scholar has discovered	-2	A young scholar has discovered the tomb of an ancient king.	luck 1|turn 5|noera 1	gold 500|magicitem 1	
+145	The tomb of an ancient priest-	-2	The tomb of an ancient priest-king was discovered.	pop0ok 1|luck 2|turn 10|noera 1	gold 500|magicitem 2	
+146	An old scholar has discovered 	-2	An old scholar has discovered the tomb of an ancient hero, holding ancient treasures.	luck 1|magic 1|turn 5	gold 500|magicitem 3|magicitem 3	
+147	The tomb of an ancient king wa	-2	The tomb of an ancient king was discovered by a young scholar. Ignoring the glyphs of warning, he entered the tomb and claimed an artifact of old. Unfortunately, he also released the guardians of the tomb!.	magic 2|turn 10|noera 1	magicitem 3|com 329|AB00 191|4d6units 189	
+148	A wealthy merchant has found s	-2	A wealthy merchant has found salvation and donated a huge sum of gold to the temple.	turn 3|luck 1|order 1|dominion 5|noera 1	gold 500	
+149	A wealthy merchant has been su	-2	A wealthy merchant has been suffering from a dread disease and donated all his gold to get rid of the affliction.	turn 5|luck 1|order 1|era 2	gold 1000	
+150	A wealthy and faithful noble h	-2	A wealthy and faithful noble has died from old age and willed his fortunes to ##disname##. The gold was collected by the temple.	turn 3|death 1|luck 1|dominion 5	gold 750	
+151	A tribal king from a distant l	-2	A tribal king from a distant land has donated a golden plow and a magic item to ##disname##.	luck 1|dominion 5|era 1	gold 300|magicitem 2	
+152	There was a trade boom in the 	-2	There was a trade boom in the province.	noseason 3|noseason 3|minpop 200	gold 200	
+153	A great fertility festival was	-2	A great fertility festival was celebrated in the province.	temple 1|mydominion 1	decscale2 Death|landgold 5	
+154	A great summer festival was ce	-2	A great summer festival was celebrated in the province.	temple 1|mydominion 1|season 1	incdom 1	
+155	A great harvest festival was c	-2	A great harvest festival was celebrated in the province. Faith has increased and bumper harvests are expected.	temple 1|mydominion 1|season 2|growth 0	incdom 1|decscale2 Turmoil	
+156	Instead of falling off, the le	-2	Instead of falling off, the leaves on an ancient oak turned into gems.	land 1|cave 0|season 2|growth 3	4d6vis N	
+157	Midwinter was celebrated in th	-2	Midwinter was celebrated in the province.	temple 1|mydominion 1|season 3|cave 0	incdom 1	
+158	One cold winter night there wa	-2	One cold winter night there was a storm. A man with a frozen beard and robes of silver and ice emerged. He claimed to be the last of his order and now he wishes to serve the one whose dominion is ice and darkness.	land 1|cave 0|cold 2|dominion 3|season 3|cave 0	nation -2|com 309|e3 0	
+159	An old hut was found in a deep	-2	An old hut was found in a deep forest. The owner, an old animist, preferred to serve rather than being staked in a bog.	land 1|magic 2|forest 1	nation -2|com 552|A900 284	
+160	The cousin of a local lord has	-2	The cousin of a local lord has been bitten by a werewolf and now wishes your protection from the superstitious peasantry. He has donated his gold to the treasury.	land 1|forest 1|minpop 50	nation -2|com 633|gold 200	
+161	A vampire that has been rooted	-2	A vampire that has been rooted out of his nest by local fanatics now seeks your protection.	land 1|forest 1|minpop 50	nation -2|com 405|addequip 3	
+162	A Vampire Count has been drive	-2	A Vampire Count has been driven from his lands by local fanatics and now seeks your protection.	land 1|forest 1|minpop 50|death 1|pathdeath 3|unique 2	nation -2|com 3274|addequip 3	
+163	Gold deposits have been found 	-2	Gold deposits have been found and a new mine is being built.	mountain 1|freesites 1	newsite 66	
+164	Gold deposits have been found 	-2	Gold deposits have been found and a new mine is being built.	mountain 1|freesites 1|luck 2	newsite 66	
+165	An old tower surrounded by wis	-2	An old tower surrounded by wisps of mist was found on a high mountaintop. The owner of the tower agreed to help you for a small sum of gold and a couple of virgins.	land 1|magic 2|mountain 1|gem 8	nation -2|com 93|gold -50|gemloss B	
+166	A large amount of magic gems h	-2	A large amount of magic gems have floated ashore in this province.	pop0ok 1|coast 1	4d6vis W	
+167	A slave ship has been discover	-2	A slave ship has been discovered and the cargo confiscated. Several virgins were transported to your blood slave dungeons.	coast 1	4d6vis B	
+168	A pirate ship has been discove	-2	A pirate ship has been discovered and the cargo confiscated.	coast 1	gold 600|unrest -5	
+169	A wayward siren was found by a	-2	A wayward siren was found by a lonely fisherman. He helped her mend her broken wing and gained her trust. Being a man of faith, he converted her and she is now willing to serve ##disname##.	coast 1|magic 0|luck 1	nation -2|com 1054	
+170	A sunken ship filled with trea	-2	A sunken ship filled with treasure has been discovered in a deep gorge. All its wealth has been transported to your treasury.	luck 1|maxunrest 50|turn 5|land 0	gold 1000	
+171	A black sunken ship has been d	-2	A black sunken ship has been discovered in a deep gorge. The ship contained a huge amount of magic gems and two magic items.	pop0ok 1|luck 1|maxunrest 50|turn 5|land 0	1d6vis All|magicitem 1|magicitem 1	
+172	A large amount of magic water 	-2	A large amount of magic water gems has been found in the deeps.	pop0ok 1|land 0	4d6vis W	
+173	A triton prince has come to yo	-2	A triton prince has come to you in search of the fabled Orb of Atlantis. He was so impressed by your wondrous palaces that he and his retinue swore their allegiance to you.	land 0|luck 3|magic 2|fort 1	nation -2|com 575|A300 573|com 575|6d6units 574	
+174	A hydromancer from the Academy	-2	A hydromancer from the Academy Underneath has arrived with great gifts. He is on a secret mission, but has agreed to help you.	land 0|magic 2	nation -2|com 103|magicitem 3	
+175	A triton mage from the Forest 	-2	A triton mage from the Forest of Amber Kelp has arrived with his menagerie. He was attacked by sea trolls and is now seeking refuge in your lands.	land 0|magic 1|growth 1	nation -2|com 575|A400 1062	
+176	An envoy from the Cerulean Mah	-1	An envoy from the Cerulean Maharajah has arrived with sad news. The Maharajah is dying and his one hundred and seven sons are gathering to attend his funeral. One of your Cerulean Warriors has left your service, apparently being one of the heirs. In gratitude he left a bag of gold for your treasury and his personal advisor to serve you.	monster 1556|land 1|unique 1	nation -2|com 1143|killmon 1556|gold 200	
+177	Azazel has sired an offspring.	-1	Azazel has sired an offspring.	land 1|monster 2062	nation -2|com 2075	
+178	Semyaza has sired an offspring	-1	Semyaza has sired an offspring.	land 1|monster 2063	nation -2|com 2075	
+179	Ezekiel has sired an offspring	-1	Ezekiel has sired an offspring.	land 1|monster 2064	nation -2|com 2075	
+180	Shamshiel has sired an offspri	-1	Shamshiel has sired an offspring.	land 1|monster 2065	nation -2|com 2075	
+181	Kokabel has sired an offspring	-1	Kokabel has sired an offspring.	land 1|monster 2066	nation -2|com 2075	
+182	Arakiel has sired an offspring	-1	Arakiel has sired an offspring.	land 1|monster 2067	nation -2|com 2075	
+183	One of your Melqarts has reali	0	One of your Melqarts has realized the power inherent in the blood of his brethren. Inviting a Ba'al to a grisly banquet, he slew his guest and feasted upon his heart to gain power.	9600 5|unique 1|turn 15|monster 2032|land 1|monster 2032	nation -2|killcom 2032|holyboost 2031	
+184	One of your Zamzummim and an A	0	One of your Zamzummim and an Adon have organized a great banquet for Ditan, greatest of the deified Rephaite Lords. By sacrificing himself at the feast, the Zamzummite has traded life for life and passed into Sheol, allowing Ditan and his assembly to manifest in the world of the living.	9600 4|unique 1|turn 25|monster 2011|land 1|monster 2011|dominion 8|nomnr 2046	nation -2|killcom 2011|com 2046|1d6units 2045	
+185	One of your eunuchs has miracu	0	One of your eunuchs has miraculously fathered a child. Faith in your healing powers has increased.	9600 1|land 1|monster 805|dominion 2|unique 3	incdom 3	
+186	One of your Ceremonial Masters	-1	One of your Ceremonial Masters has interpreted the ceremonial calendar of the Ministry.	land 1|monster 807|minpop 500|order 1	gold 250	
+187	One of your Ministers has inte	-1	One of your Ministers has interpreted the signs and made a remarkably accurate calendar for the province.	land 1|monster 804|minpop 500|order 1	gold 500	
+188	One of your Ministers has inte	-1	One of your Ministers has interpreted the signs and made a remarkably accurate calendar for the province.	land 1|monster 804|minpop 100|order 1	gold 250	
+189	One of your Ministers has inte	-1	One of your Ministers has interpreted the signs and made a remarkably accurate calendar for the province. Order was brought to the troubled province.	land 1|monster 804|chaos 1	unrest -25|decscale3 Turmoil	
+190	Farbaute has organized a great	-1	Farbaute has organized a great drinking contest and champions from near and far are gathering to show off.	land 1|monster 544|turn 10|luck 1	nation -2|2d6units 146|4d6units 145	
+191	A handful of black onis were m	-1	A handful of black onis were molesting a group of red onis and refused to stop. Not until Tsunekage slew one of the black onis and ate his heart did they stop. Another group of red onis witnessed the event and joined your army.	monster 1673|chaos 1|monster 1673|monster 1673|land 1	nation -2|killmon 1274|2d6units 1266	
+192	Daidalos, the great inventor, 	-1	Daidalos, the great inventor, Maker of the Maze, has unveiled his latest masterpiece, an army of mechanical servants. A clever engineer quickly found a use for the servants and placed armaments in their hands.	land 1|monster 1073|unique 1	nation -2|2d6units 532	
+193	The Mother of Monsters has giv	-1	The Mother of Monsters has given birth.	land 1|monster 157|turn 10|growth 2	nation -2|2d6units 394	
+194	Angerboda, the Great Hag, moth	-1	Angerboda, the Great Hag, mother of monsters, has given birth to a great serpent of exceptional cunning.	land 1|monster 586|unique 1	nation -2|com 403	
+195	Angerboda, the Great Hag, moth	-1	Angerboda, the Great Hag, mother of monsters, has given birth to a great wolf of exceptional cunning.	land 1|monster 586|unique 1	nation -2|com 1309	
+196	Klaus has convinced the Empero	-1	Klaus has convinced the Emperor of Pythium that he needs further funding to conquer the Underworld. The Emerald Emperor sent a Pythian legion and a chest filled with gold to strengthen the human position in the Underworld.	land 1|monster 1848|turn 10|luck 1	nation -2|6d6units 686|com 683|gold 400	
+197	In her misery and solitude, De	-1	In her misery and solitude, Delgnat, the last Partholonian, has reenacted the last battle of Sera, her father. Some of the corpses reanimated for the charade were not destroyed and have been put to other use.	unique 1|land 1|monster 1794|turn 10|death 1	nation -2|A300 1810|4d6units 189|6d6units 197	
+198	A brigand leader and his follo	-1	A brigand leader and his followers have been rounded up and delivered to one of your bailiffs by a striking woman astride a unicorn. Peasants are now able to toil the land again.	land 1|nomnr 381|minunrest 10|fornation 57	unrest -25	
+199	One of your Knights of the Sto	-1	One of your Knights of the Stone has embarked upon a quest and returned with enchanted treasure.	land 1|monster 58	magicitem 1|magicitem 1	
+200	One of your Knights of the Sto	-1	One of your Knights of the Stone has embarked upon a quest. In a deep forest he met an enchantress of great power, fell in love with her and wooed her for a month. Being quite lonely, she grew fond of him and accepted his offer of marriage.	unique 1|land 1|monster 58	nation -2|com 363	
+201	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 110|unluck -1	nation -2|10d6units 1238	
+202	Your troubled province has bee	-1	Your troubled province has been terrorized by a group of renegade ronin. Fortunately an influential and wise kannushi convinced the bandits to quit the meaningless slaughter and fight where there is honor.	dominion 2|chaos 1|land 1|fullowner 110	nation -2|4d6units 1270	
+203	Rumors of your might have swep	-1	Rumors of your might have swept the province and a group of loud-mouthed bakemono-sho praising your greatness has joined your armies.	dominion 2|land 1|fullowner 70	nation -2|16d6units 1393	
+204	Rumors of your might have swep	-1	Rumors of your might have swept the province and a group of loud-mouthed bakemono-sho praising your greatness has joined your armies.	dominion 2|land 1|fullowner 23	nation -2|16d6units 1393	
+205	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of warriors committed to your cause has joined your armies.	dominion 2|land 1|fullowner 76	nation -2|12d6units 1599	
+206	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of villagers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 76	nation -2|16d6units 878	
+207	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 5	nation -2|10d6units 199	
+208	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 50	nation -2|10d6units 199	
+209	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 95	nation -2|10d6units 199	
+210	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 109	nation -2|10d6units 794	
+211	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 22	nation -2|10d6units 794	
+212	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 69	nation -2|10d6units 794	
+213	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 27	nation -2|16d6units 168	
+214	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 113	nation -2|16d6units 168	
+215	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 75	nation -2|16d6units 168	
+216	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of satyrs committed to your cause has joined your armies.	dominion 2|land 1|fullowner 52|forest 1	nation -2|12d6units 229	
+217	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of satyrs committed to your cause has joined your armies.	dominion 2|land 1|fullowner 7|forest 1	nation -2|12d6units 229	
+218	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of satyrs committed to your cause has joined your armies.	dominion 2|land 1|fullowner 97|forest 1	nation -2|12d6units 229	
+219	Naked people have been seen da	-1	Naked people have been seen dancing and singing in the woods. This was seen as a good omen and faith has increased.	dominion 1|forest 1|fullowner 52	incdom 3	
+220	Naked people have been seen da	-1	Naked people have been seen dancing and singing in the woods. This was seen as a good omen and faith has increased.	dominion 1|forest 1|fullowner 7	incdom 3	
+221	Naked people have been seen da	-1	Naked people have been seen dancing and singing in the woods. This was seen as a good omen and faith has increased.	dominion 1|forest 1|fullowner 97	incdom 3	
+222	Naked people have been seen da	1	Naked people have been seen dancing and singing in the woods. This was seen as an ill omen and faith has decreased.	dominion 1|forest 1|notnation 52|notnation 52|notnation 52	incdom -2	
+223	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of humanbreds committed to your cause has joined your armies.	dominion 2|land 1|fullowner 104	nation -2|AB00 984	
+224	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of humanbreds committed to your cause has joined your armies.	dominion 2|land 1|fullowner 63	nation -2|AB00 372	
+225	A wave of religious zeal has s	-1	A wave of religious zeal has swept the markata population in the province and a chittering group of the annoying creatures has joined your armies.	dominion 2|land 1|fullowner 108	nation -2|16d6units 1118	
+226	A wave of religious zeal has s	-1	A wave of religious zeal has swept the markata population in the province and a chittering group of the annoying creatures has joined your armies.	dominion 2|land 1|fullowner 68	nation -2|16d6units 1118	
+227	A wave of religious zeal has s	-1	A wave of religious zeal has swept the markata population in the province and a chittering group of the annoying creatures has joined your armies.	dominion 2|land 1|fullowner 20	nation -2|16d6units 1118	
+228	A wave of religious zeal has s	-1	A wave of religious zeal has swept the markata population in the province and a chittering group of the annoying creatures has joined your armies.	dominion 2|land 1|fullowner 21	nation -2|16d6units 1118	
+229	Rumors of possible sightings o	-1	Rumors of possible sightings of the fabled White Seal have led a great hunting party to the province. Plenty of seals and the occasional whale were caught, but the White Seal eluded the hunters, who decided to join you armies instead.	dominion 2|coast 1|fullowner 126|cold 2	nation -2|com 1631|12d6units 1617	
+230	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 98	nation -2|10d6units 1862	
+231	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 56	nation -2|10d6units 684	
+232	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 55	nation -2|10d6units 662	
+233	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 8	nation -2|12d6units 1101	
+234	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 116	nation -2|10d6units 1929	
+235	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 116	nation -2|10d6units 1930	
+236	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 100	nation -2|10d6units 61	
+237	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 57	nation -2|10d6units 61	
+238	A wave of religious zeal has s	-1	A wave of religious zeal has swept the province and a group of lowborn soldiers committed to your cause has joined your armies.	dominion 2|land 1|fullowner 58	nation -2|10d6units 1780	
+239	A wave of religious zeal has s	-1	A wave of religious zeal has swept the Spire Horn and a group of warriors committed to your cause has joined your armies.	dominion 2|land 1|fullowner 71	nation -2|12d6units 129	
+240	A wave of religious zeal has s	-1	A wave of religious zeal has swept the Spire Horn and a group of warriors committed to your cause has joined your armies.	dominion 2|land 1|fullowner 24	nation -2|12d6units 129	
+241	A wave of religious zeal has s	-1	A wave of religious zeal has swept the Spire Horn and a group of warriors committed to your cause has joined your armies.	dominion 2|land 1|fullowner 106	nation -2|12d6units 129	
+242	A wave of human immigrants has	-1	A wave of human immigrants has swept in from a neighboring province. They were herded into a valley, enslaved and equipped with crude spears and slings.	chaos 0|land 1|fullowner 64	nation -2|6d6units 2003|6d6units 2003	
+243	A Nabi has emerged in one of y	-2	A Nabi has emerged in one of your provinces with a band of Levite zealots, preaching the Word of ##godname##.	dominion 3|land 1|fullowner 107	nation -2|com 1985|A300 1989|incdom 2	
+244	Strange lights have appeared i	-1	Strange lights have appeared in the dark depths and a host of Deep Ones has emerged to gorge on fish and tritons.	magic 1|land 0|fullowner 43	nation -2|12d6units 1686	
+245	An influential Coral Queen has	-1	An influential Coral Queen has opened the gates to her coral castle. Atlantians from near and far have gathered to hear her sermons. A large number of them decided to heed her call and take up arms for ##disname##.	dominion 2|land 0|fullowner 88	nation -2|16d6units 110	
+246	The Once and Future Queen has 	-1	The Once and Future Queen has entered a ruined basalt city of the deeps and shattered the dark crystal at its center, freeing the sleeping pillars bound by its eerie lights.	land 0|fullowner 126|monster 2085	nation -2|2d6units 2086	
+247	A reclusive and singularly pow	-2	A reclusive and singularly powerful Mind Lord has decided to release his slaves to fight for your cause. A group of powerful slave trolls has joined your armies.	magic 2|land 0|fullowner 44	nation -2|2d6units 1529	
+248	A reclusive and singularly pow	-1	A reclusive and singularly powerful Mind Lord has decided to release his slaves to fight for your cause. A host of enslaved mermen has joined your armies.	magic 1|land 0|fullowner 44	nation -2|16d6units 1515	
+249	The Council of Three has decid	-1	The Council of Three has decided to work with you. The ancient starspawns have allowed some of their enslaved Atlantians to join your armies. They also gave you a strange artifact.	magic 2|land 0|fullowner 89	nation -2|12d6units 335|magicitem 1	
+250	A wave of religious zeal has s	-1	A wave of religious zeal has swept the ocean and a group of warriors committed to your cause has joined your armies.	dominion 2|land 0|fullowner 40	nation -2|10d6units 1056	
+251	A wave of religious zeal has s	-1	A wave of religious zeal has swept the ocean and a group of warriors committed to your cause has joined your armies.	dominion 2|land 0|fullowner 86	nation -2|10d6units 1056	
+252	A wave of religious zeal has s	-1	A wave of religious zeal has swept the ocean and a group of ichtysatyrs committed to your cause has joined your armies.	dominion 2|land 0|fullowner 41	nation -2|16d6units 1041	
+253	A wave of religious zeal has s	-1	A wave of religious zeal has swept the ocean and a group of ichtysatyrs committed to your cause has joined your armies.	dominion 2|land 0|fullowner 87	nation -2|16d6units 1041	
+254	A sectarian movement has emerg	1	A sectarian movement has emerged in the province. Their false prophet is preaching and gathering his flock. Faith will decrease until you root them out.	land 1|turn 8	incdom -2|stealthcom 2275|4d6units 2276	
+255	A brigand leader has emerged i	1	A brigand leader has emerged in the province, uniting the robbers and leading them on daring raids against your tax collectors. Unrest will increase until you root him out.	minunrest 30|land 1	unrest 30|stealthcom 1912|AB00 482	
+256	Brigands have taken up residen	1	Brigands have taken up residence in a ruin.		unrest 35	
+257	People here are very unruly an	1	People here are very unruly and have destroyed valuable equipment that is necessary for us.	minunrest 20|minpop 100|maxtroops 20	unrest 15|gold -200	
+258	The people have revolted and y	1	The people have revolted and you have lost control of this province.	commander 0|minunrest 10|maxtroops 0|maxdef 10|land 1	revolt 1|2com 18|6d6units 18	
+259	Merchants have established the	1	Merchants have established themselves in your temple. Faith is decreasing, but the merchants prosper.	temple 1|maxdominion 5|turn 3|mydominion 1	incdom -2	
+260	A large group of people have s	1	A large group of people have started to worship a false pretender. The leaders of the group were swiftly killed, but faith has decreased and unrest is rising.	maxdominion 8|mydominion 1|turn 8	incdom -2|unrest 10	
+261	People are starting to worship	1	People are starting to worship false pretenders in the secrecy of their homes.	maxdominion 6|mydominion 1|turn 8	incdom -2	
+262	Your temple has been vandalize	1	Your temple has been vandalized, several statues have been smashed.	maxdominion 6|mydominion 1|temple 1|turn 8	incdom -2|gold -100	
+263	An earthquake has struck, kill	1	An earthquake has struck, killing many people and destroying our temple.	land 1|temple 1|turn 17	kill 5|temple 0	
+264	An earthquake has struck, kill	1	An earthquake has struck, killing many people and destroying our temple.	land 1|temple 1|turn 17|unluck 2	kill 15|temple 0	
+265	A fire has destroyed the arcan	1	A fire has destroyed the arcane laboratory.	land 1|lab 1|heat -1|turn 10	lab 0	
+266	A very ill omen was seen and r	1	A very ill omen was seen and rumors of it have spread through the entire province.		id 5|unrest 30|incscale3 Misfortune|curse 10	
+267	An omen was seen that spoke of	1	An omen was seen that spoke of the decline of ##godname##. Rumors of this ill omen has spread widely.	mydominion 1|maxdominion 5|turn 8	incdom -3	
+268	Suddenly Bogus and his fellow 	1	Suddenly Bogus and his fellow adventurers decided to aid an old wise man whose daughter was held captive by your blood mages. The young girl and a couple of other blood slaves were liberated in a daring attack on your dungeon.	lab 1|gem 8|nomnr 646|nomnr 646|land 1	gemloss B	
+269	Children are disappearing at n	1	Children are disappearing at night. Strange creatures skulk the wilderness.	minpop 20	unrest 20|decscale Drain	
+270	A charismatic preacher has app	1	A charismatic preacher has appeared, carrying the word of a rival pretender who now has dominion of the land.	mydominion 1|maxdominion 3|turn 8	nation -1|newdom 2	
+271	A local sect has flourished. T	1	A local sect has flourished. Their leader preaches that labor is for the wicked.	mydominion 1|turn 8	incdom -2|incscale3 Sloth|landprod -5	
+272	A vengeful crone has cursed th	1	A vengeful crone has cursed the land	growth -2|land 1|9600 66	incscale3 Misfortune|curse 10	
+273	Strange events are occurring a	1	Strange events are occurring and superstition among the commoners is increasing.	magic 1|turn 5|mydominion 1	unrest 30|incdom -3	
+274	People here are suddenly very 	1	People here are suddenly very restless and a substantial part of the population has left their homes in search of adventure and a better place to live.	chaos 2|7200 9	emigration 20|unrest 20	
+275	Famine has struck the land. Pe	1	Famine has struck the land. People are starving and begging in the streets, blaming their cruel masters.	death 2|turn 10	unrest 100|kill 20|gold -100	
+276	A plague has struck the land. 	1	A plague has struck the land. Empty cabins and rotting corpses litter the landscape.	death 3|turn 15	kill 50|unrest 10|disease 10|id 1	
+277	A vengeful witch has cursed so	1	A vengeful witch has cursed some of your troops after they destroyed her home and took her magical gems.	land 1|magic 1|mintroops 5	curse 5|1d3vis N	
+278	A barbarian horde has unexpect	1	A barbarian horde has unexpectedly attacked and pillaged our province.	land 1|cave 0|unluck 1|turn 8	nation 4|com 141|A700 140|com 141|A700 140|kill 10	
+279	A group of knights has unexpec	1	A group of knights has unexpectedly attacked the province in an attempt to take control.	land 1|unluck 2|turn 8|era 2	com 23|4d6units 22|com 23|A300 18	
+280	A group of tritons has unexpec	1	A group of tritons has unexpectedly attacked the province in an attempt to take control.	land 0|unluck 1|turn 5	com 406|6d6units 174|com 406|A300 175	
+281	A huge barbarian horde has une	1	A huge barbarian horde has unexpectedly attacked and pillaged the province.	capital 0|land 1|cave 0|unluck 3|turn 10|land 1	nation 4|com 147|B300 140|com 147|A900 139|kill 20	
+282	An evil necromancer and his ho	1	An evil necromancer and his host suddenly attacked the province in search of magical resources.	capital 0|pop0ok 1|land 1|death 1|turn 5|magic 2|lab 1	com 310|10d6units 197|10d6units 197|kill 5|gemloss D	
+283	Magic is fading.	1	Magic is fading.	pop0ok 1|lab 1|unmagic 3|unluck 1	gemloss All	
+284	A large group of non faithfuls	1	A large group of non faithfuls have decided to emigrate. Part of the population has left their homes in search of a better place to live and faith has increased in the rightful god, ##godname##.	maxdominion 2|mydominion 1|chaos 0	emigration 10|incdom 1	
+285	People here are very displease	1	People here are very displeased and a substantial part of the population has left their homes in search of a better place to live.	7200 9|minunrest 20|chaos -2	emigration 20|unrest 20	
+286	Woods of the fairy court have 	1	Woods of the fairy court have been burned by a local lord.	growth 1|magic 1|land 1	incscale2 Drain|incscale Death|incscale3 Misfortune|1d3vis A	
+287	Local lords are feuding.	1	Local lords are feuding.	turn 5|chaos 1	unrest 45|taxboost -100	
+288	Diarrhea has spread among the 	1	Diarrhea has spread among the militia.	mindef 7|death 0	defence -10	
+289	Warring tribes cause unrest. P	1	Warring tribes cause unrest. Part of the population has been killed in the raids.	chaos 1|minpop 100|capital 0	unrest 30|kill 5	
+290	A festival celebrating the res	1	A festival celebrating the resurrection of a local fertility god was held in the province. Faith is decreasing, but the crops seems to grow quicker.	maxdominion 3|turn 5|mydominion 1|season 0|minpop 50	incdom -4|decscale2 Death	
+291	Spring floods have destroyed c	1	Spring floods have destroyed crops and buildings.	farm 1|cave 0|season 0	2A00 -200|C300 0	
+292	A harvest festival was held in	1	A harvest festival was held in the province. During the festival a huge number of goats were sacrificed to a local bloodthirsty deity. Faith is decreasing, but the harvest was very good and tax collection increased.	maxdominion 3|mydominion 1|season 1|minpop 50|turn 8|land 1	incdom -4|decscale2 Death|taxboost 100	
+293	A fairy court of summer has be	1	A fairy court of summer has been traveling through the land. Growth and luck have increased but frolicking peasants have left the fields untended, causing a fall in productivity.	turn 5|season 1|minpop 20|land 1|cave 0	decscale Death|decscale Death|incscale3 Sloth|taxboost -100	
+294	A strange kind of purple and p	1	A strange kind of purple and poisonous mushroom seems to thrive in the province. Unfortunately livestock like eating it and many animals have died.	season 2|minpop 50|magic 1|growth 1	incscale3 Death|gold -100	
+295	Bad harvest.	1	Bad harvest.	season 2|minpop 10|permonth 1	taxboost -100	
+296	Heavy snowfalls have blocked i	1	Heavy snowfalls have blocked important trade routes.	cold 1|season 3|land 1|cave 0	gold -200	
+297	The harsh winter has killed ma	1	The harsh winter has killed many poor folks.	cold 0|season 3|land 1|cave 0	kill 10	
+298	The wolves are hungry this win	1	The wolves are hungry this winter and locals are being attacked and killed by the score.	land 1|cave 0|season 3	com 1224|1d6units 1224|A600 284|kill 2|unrest 10	
+299	Numerous sharks have caused wi	1	Numerous sharks have caused widespread panic in the sea.	land 0|turn 10	unrest 40|kill 1	
+300	A hurricane has struck the lan	1	A hurricane has struck the land, devastating the coastline.	coast 1|turn 10	unrest 25|kill 3	
+301	Raiders from the sea are harry	1	Raiders from the sea are harrying coastal settlements.	coast 1	unrest 35	
+302	An entire village has been dev	1	An entire village has been devoured by Vine Men that are now spreading over the rest of the province.	land 1|growth 1|turn 8|forest 1|magic 1	com 105|A100 361|com 105|A100 361|com 105|A100 361|kill 10	
+303	Heavy snowfalls have blocked i	1	Heavy snowfalls have blocked important mountain roads.	cold 0|cave 0|mountain 1	gold -100	
+304	A plague has struck the land. 	2	A plague has struck the land. Empty cabins and rotting corpses litter the landscape.	turn 15|capital 0	kill 50|unrest 10	
+305	Famine has struck the land. Pe	2	Famine has struck the land. People are starving and begging in the streets. Many have died and the people are blaming their cruel masters for their suffering.	death 0|turn 10	unrest 40|kill 20|gold -80	
+306	A blight has struck the land. 	2	A blight has struck the land. People are starving and begging in the streets.	death 0|turn 10	id 9|unrest 15|kill 5|gold -80	
+307	A hailstorm has devastated the	2	A hailstorm has devastated the countryside, killing cattle and shepherds.	land 1|cave 0|turn 10	kill 3|unrest 5|gold -80	
+308	Young raging rebels have start	2	Young raging rebels have started riots and uprisings in the province. Everyone is on the edge, ready to kill and plunder.	heat -2|chaos -1|turn 10	id 2|unrest 60|kill 5	
+309	An enormous earthquake has str	2	An enormous earthquake has struck! Later, when the earth settled, horrible monsters appeared from the cracks in the ground.	land 1|turn 10|chaos -1	com 447|6d6units 447|kill 25	
+310	A heatwave has struck the land	2	A heatwave has struck the land. Drought is expected.	land 1	decscale3 Cold	
+311	A demon has possessed a herd o	2	A demon has possessed a herd of swine and ravaged the province for a week.	land 1	incscale3 Misfortune|unrest 15	
+312	Careless containment of your f	2	Careless containment of your fire gems has caused a conflagration in your laboratory. Fortunately you could harvest a large number of fire gems from the smoldering embers.	lab 1|gem 0|chaos 1|turn 12	4d6vis F|lab 0	
+313	A magical disaster has destroy	2	A magical disaster has destroyed your lab.	lab 1|turn 8|unluck -1	lab 0	
+314	A thief has stolen some of you	2	A thief has stolen some of your magic gems.	lab 1|gem 0	gemloss F	
+315	A thief has stolen some of you	2	A thief has stolen some of your magic gems.	lab 1|gem 1	gemloss A	
+316	A thief has stolen some of you	2	A thief has stolen some of your magic gems.	lab 1|gem 2	gemloss W	
+317	A thief has stolen some of you	2	A thief has stolen some of your magic gems.	lab 1|gem 3	gemloss E	
+318	A thief has stolen some of you	2	A thief has stolen some of your magic pearls.	lab 1|gem 4	gemloss S	
+319	A thief has stolen some of you	2	A thief has stolen some of your magic gems.	lab 1|gem 7	gemloss G	
+320	Undisciplined jailers have def	2	Undisciplined jailers have defiled your blood slaves.	lab 1|gem 8	gemloss B	
+321	A master thief has stolen many	2	A master thief has stolen many of your magic gems.	lab 1|unluck -1	gemloss All	
+322	Magic is fading.	2	Magic is fading.	pop0ok 1|lab 1|unmagic 1	gemloss All|incscale Drain	
+323	Magic is fading.	2	Magic is fading.	pop0ok 1|lab 1|unmagic 3	gemloss All	
+324	A disaster while researching r	2	A disaster while researching resulted in a lost eye for one of your mages.	lab 1|humanoidres 1	researchaff 524288	
+325	A disaster while researching r	2	A disaster while researching resulted in an explosion that tore off an arm from one of your mages.	pop0ok 1|lab 1|humanoidres 1	researchaff 1073741824	
+326	A disaster while researching r	2	A disaster while researching resulted in one of your mages getting a severe chest wound.	pop0ok 1|lab 1|humanoidres 1	researchaff 8388608	
+327	Villains have tried to seize c	2	Villains have tried to seize control of the province.	land 1|maxtroops 20	com 482|6d6units 482|com 482|6d6units 482	
+328	A group of visiting heroes hav	2	A group of visiting heroes have decided to rid this province of its unfair rulership.	land 1|turn 10|nomnr 646|nomnr 646|capital 0	visitors 0	
+329	An assassin tried to eliminate	2	An assassin tried to eliminate one of the commanders.	pop0ok 1|land 1|commander 1|turn 6	assassin 428	
+330	A stealthy ninja tried to elim	2	A stealthy ninja tried to eliminate one of the commanders.	land 1|commander 1|era 3|turn 6	assassin 1257	
+331	A large group of ronin has tri	2	A large group of ronin has tried to seize control of the province.	land 1|era 3|turn 8	com 1270|10d6units 1270	
+332	The people have been led astra	2	The people have been led astray by the prophets of a false god.	maxdominion 5|mydominion 1|turn 8	nation -1|newdom 5	
+333	A sect of dark cultists have g	2	A sect of dark cultists have grown influential and now claim dominion of the province in the name of the Lord of Death!	unluck 0|death 0|maxdominion 5|land 1|1200 54|nation 54|turn 15	nation 54|newdom 2|4com 554|6d6units -2|4d6units -15|8A00 54	
+334	A traveling sorcerer was stake	2	A traveling sorcerer was staked by upset peasants. Before his death he cursed the land and everyone in it.	chaos -1	incscale Death|curse 10	
+335	The local lawman has been foun	2	The local lawman has been found frolicking with faeries in the wilderness instead of carrying out his duties.	growth 0|magic 1|minpop 20|land 1	incscale Turmoil|unrest 10	
+336	A grotesque idol has been unea	2	A grotesque idol has been unearthed. The locals are rumored to pay it offerings when the moon is dark. ##godname## no longer has dominion of the land.	mydominion 1|turn 8|capital 0	nation -1|newdom 3|decscale Drain	
+337	For a few days the animals see	2	For a few days the animals seemed determined to cause bad luck. Snakes and rabbits were crossing peoples paths all the time.	growth -2|land 1	incscale3 Misfortune	
+338	Locust swarms are eating the c	2	Locust swarms are eating the crops and causing widespread panic.	growth 0|land 1	id 8|unrest 20|taxboost -50	
+339	Hordes of peasants have left t	2	Hordes of peasants have left their homes in search of a better place to live.	7200 12|chaos 0	emigration 30	
+340	A hurricane has struck the lan	2	A hurricane has struck the land, devastating the countryside.	land 1|cave 0|chaos 1|turn 10	id 7|unrest 25|kill 3	
+341	A horrible tempest has struck 	2	A horrible tempest has struck the land. The servants of Pazuzu could be heard bellowing in the storm. Unrest has increased	land 1|cave 0|chaos 3|unluck 2	id 14|unrest 35|kill 4	
+342	A plague has struck the land. 	2	A plague has struck the land. Empty cabins and rotting corpses litter the landscape.	death 1|turn 15|unluck -1	kill 50|unrest 10	
+343	A blizzard has struck the prov	2	A blizzard has struck the province, killing animals and young. The heavy snowfalls hampered trade and production.	cold 2|land 1|cave 0|turn 10	kill 5|unrest 5|gold -150	
+344	Insect swarms are eating the c	2	Insect swarms are eating the crops and annoying the populace.	growth 2|land 1	unrest 5|gold -50	
+345	A volcano has erupted in the p	2	A volcano has erupted in the province, destroying many of the largest settlements. Survivors have fled the devastation in panic. [Smoking Mountain]	chaos 2|turn 10|capital 0	id 4|CA00 -1|unrest 125|kill 30|decscale2 Cold|C100 50|lab 0|C100 50|temple 0	
+346	Toads have fallen from the ski	2	Toads have fallen from the skies. The omen has upset the populace.	land 1|magic 2	id 6|unrest 30|incscale3 Misfortune|disease 4	
+347	Trolls living under bridges ha	2	Trolls living under bridges have killed and eaten travelers.	magic 0|land 1|noera 3	unrest 10|gold -50	
+348	One of your researchers discov	2	One of your researchers discovered something so unspeakable that he turned mute.	lab 1|magic 1|researcher 1	researchaff 4194304	
+349	A well known count has reveale	2	A well known count has revealed himself as a vampire. He and his minions have tried to take control over the province.	magic 0|land 1|turn 15	com 3274|addequip 2|4d6units 405|6d6units 30|A600 1022	
+350	A scorching desert wind has sw	2	A scorching desert wind has swept over the land. Many have died from drought and wildfires.	cold -2|land 1|turn 10	id 13|decscale3 Cold|kill 5	
+351	Temperatures are rising and th	2	Temperatures are rising and the very ground seems to burn with unnatural heat. Many have died from the scorching heat and widespread wildfires. 	land 1|turn 10	id 16|decscale3 Cold|incscale Death|kill 10|unrest 20	
+352	The temperature has dropped dr	2	The temperature has dropped dramatically and blizzards have devastated the land. Many have died from starvation.	cold 1|land 1|turn 10	id 3|incscale3 Cold|kill 5	
+353	A superstitious lord has roote	2	A superstitious lord has rooted out witches, wizards, mongrels, strangers and half-wits. All have been put to the pyre. Magic has decreased and a substantial portion of the populace has been lost.	land 1|minpop 100|chaos -2|magic 2|turn 10	incscale3 Drain|kill 10	
+354	War has broken out among the l	1	War has broken out among the lords of the land. There is great turmoil and a large part of the population has been killed or fled.	chaos 2|minpop 200|turn 15|capital 0	unrest 25|kill 10|emigration 15	
+355	The weather is getting increas	2	The weather is getting increasingly colder and an unseasonal winter is expected.	land 1|cave 0|season 2	incscale3 Cold	
+356	The temperature has dropped co	2	The temperature has dropped considerably and the winter is going to be the coldest ever!	season 3|land 1|cave 0	incscale3 Cold	
+357	Frost has destroyed the crops.	2	Frost has destroyed the crops. Starvation is expected.	cold 0|land 1|cave 0|noseason 3|noseason 3|turn 10	unrest 10|kill 1|gold -80|incscale Cold	
+358	Rain has been pouring down and	2	Rain has been pouring down and the entire province is severely flooded.	land 1|cave 0|heat -1|growth -1|season 1|freshwater 1|cave 0|turn 12	kill 25|C300 0	
+359	A Kraken King has come out of 	2	A Kraken King has come out of his old hiding place and attacked the province.	land 0|magic 1|turn 5|7200 15	com 639|4d6units 438	
+360	Enemies of the faith have dest	2	Enemies of the faith have destroyed the holy temple.	temple 1|maxdominion 5|turn 7|capital 0	temple 0	
+361	One of SkallhÃ¶gg's viceroys h	2	One of SkallhÃ¶gg's viceroys has attacked our province.	land 0|turn 10|7200 20	com 580|6d6units 564	
+362	A small but powerful shambler 	2	A small but powerful shambler society has decided to take control of the province.	land 0|turn 5|7200 20	com 207|4d6units 208|2d6units 208	
+363	A lonely Hydra is terrorizing 	2	A lonely Hydra is terrorizing the province. At night it shrieks in agonized solitude.	heat 0|land 1|turn 5|swamp 1	com 1831	
+364	An enormous tidal wave has hit	2	An enormous tidal wave has hit. Everyone living near the shore has died. People are very distraught.	coast 1|turn 10	id 10|unrest 50|kill 30	
+365	A Troll King has unexpectedly 	2	A Troll King has unexpectedly attacked.	land 1|turn 8|mountain 1	com 519|6d6units 518	
+366	Some ancient Power has been di	2	Some ancient Power has been disturbed, turning everyone in the province into mindless plant beings!	capital 0|land 1|turn 10|nomnr 641|forest 1|growth 1	com 641|16d6units 313|10d6units 314|kill 95|addequip 3	
+367	The Dark Slumber has befallen 	2	The Dark Slumber has befallen a village in the woods. The villagers disappeared during the night, but soon emerged from the woods reanimated by roots and vines.	capital 0|land 1|turn 10|nomnr 641|forest 1|growth 0	nation 53|com 1005|6d6units 313|2d6units 314|unrest 10|kill 3|id 17	
+368	A malicious druid and his comp	2	A malicious druid and his companions are trying to take control of the land!	cold 2|land 1|turn 8|forest 1	com 309|4d6units 50|2d6units 579|A300 31|addequip 1	
+369	A malicious druid and his comp	2	A malicious druid and his companions are trying to take control of the land! Their aim is to restore it to growth and health.	pop0ok 1|maxpop 1|cold 2|land 1|turn 8|forest 1	com 309|4d6units 50|2d6units 579|A300 31|addequip 1	
+370	Realizing the power of the bea	2	Realizing the power of the beautiful and ever growing nature, the entire female population of this province has gone into a frenzy of Pangaean worship!	minpop 100|forest 1|1200 52|nation 52|growth 3|turn 8	nation 52|newdom 5|com 237|A700 435|com 237|A700 435|8A00 52	
+371	A group of huge Scorpion Beast	2	A group of huge Scorpion Beasts are terrorizing the province.	pop0ok 1|waste 1|land 1|turn 7	com 524|2d6units 524	
+372	A Gadite rebel has managed to 	2	A Gadite rebel has managed to sneak past your temple guard and set the temple ablaze. An Abysian conspiracy is suspected.	turn 10|land 1|temple 1|monster 1991	temple 0	
+373	A Gadite rebel has managed to 	1	A Gadite rebel has managed to sneak past your temple guard and set some of your blood slaves free.	lab 1|temple 1|gem 8|monster 1991	gemloss B	
+374	The people in the province hav	2	The people in the province have been awakened by the holy power of Marignon. They are now in a fanatic state and kill everything undead.	minpop 100|land 1|1200 61|fullowner 54|turn 7	nation 61|newdom 5|4com 148|AB00 217|8A00 61	
+375	A group of drunken Yamabushi p	1	A group of drunken Yamabushi picked a fight with some of your Sohei. After a vicious brawl, one Sohei and one Yamabushi were dead.	land 1|monster 1247|monster 1247	killmon 1247|killmon 1247	
+376	One of your Revelers was found	1	One of your Revelers was found and slain by a Serpent Assassin.	land 1|monster 1879|monster 1879	killcom 1880	
+377	One of your Epoptes was found 	1	One of your Epoptes was found and slain by a Serpent Assassin.	land 1|monster 1879|monster 1879	killcom 1875	
+378	One of your Heliodromii was fo	1	One of your Heliodromii was found and slain by a Serpent Assassin.	land 1|monster 1879|monster 1879	killcom 1873	
+379	One of your Kohanim has discov	1	One of your Kohanim has discovered an Abba in his army camp. The heretic was quickly caught and stoned to death.	monster 2012|land 1|monster 2012	nation -2|killcom 2012	
+380	A Melqart of prodigious appeti	1	A Melqart of prodigious appetite has devoured one of your Rephaites.	monster 2031|land 1|monster 2031	nation -2|killmon 2030	
+381	A Rephaite of prodigious appet	1	A Rephaite of prodigious appetite has devoured an Avvite charioteer along with his horses.	monster 2030|land 1|monster 2030	nation -2|killmon 2035	
+382	The chains of your Juggernaut 	2	The chains of your Juggernaut burst when it was being pulled uphill. It accidentally crushed a young member of the militia. The event was seen as an evil omen and faith in ##godname## has decreased.	land 1|monster 781|mindef 2	defence -1|incdom -2	
+383	Suddenly the Roc swooped down 	2	Suddenly the Roc swooped down and flew away with one of your elephants.	monster 150	killmon 150	
+384	The Dragon couldn't control hi	2	The Dragon couldn't control his hunger and has eaten a handful of your blood slaves.	monster 216|lab 1|gem 8	gemloss B	
+385	The Dragon couldn't control hi	2	The Dragon couldn't control his hunger and has eaten a handful of your blood slaves.	monster 265|lab 1|gem 8	gemloss B	
+386	The Dragon couldn't control hi	2	The Dragon couldn't control his hunger and has eaten a handful of your blood slaves.	monster 266|lab 1|gem 8	gemloss B	
+387	The wailing of the blood fount	1	The wailing of the blood fountain has driven part of the population insane. Ten percent of the population has died.	monster 656|minpop 10	kill 10|unrest 20	
+388	SkÃ¶gu was struck by a fell mo	1	SkÃ¶gu was struck by a fell mood and held a grisly banquet in honor of himself. The guests feasted upon some of your blood slaves.	lab 1|gem 8|monster 1589	gemloss B	
+389	Having waited for hundreds of 	2	Having waited for hundreds of years, SkÃ¶gu was finally approached by his former lover. Filled with rage and lust and hunger, he slew her, ate her and mourned her by killing a significant part of the population.	land 1|monster 1589|monster 1589	killcom 1228|kill 10|holyboost 1589	
+390	Sporsnjall and his wolf riders	1	Sporsnjall and his wolf riders have ravished women all around the province. Your bailiffs suggest that you patrol the province to find the culprit.	land 1|monster 508	unrest 30	
+391	Sporsnjall and his wolf riders	1	Sporsnjall and his wolf riders have burned crop fields all around the province. Your bailiffs suggest that you patrol the province to find the culprit.	land 1|monster 508	unrest 30	
+392	Cattle all around the province	1	Cattle all around the province is being attacked by wolves. Rumors claim that Sporsnjall, the Wolf Lord, is causing the trouble. Your bailiffs suggest that you patrol the province to find the culprit.	land 1|monster 508	unrest 20	
+393	Your farmers have angered a ve	2	Your farmers have angered a vengeful entity of the wild. A monster boar is now ravaging the province. Farmers are afraid to enter their fields and refuse to work. Unrest is slowly growing. You must send a group of hunters to find the dire pig and slay it lest unrest will continue to rise.	growth 1|land 1	id 11|unrest 15|stealthcom 1910	
+394	Horrible dreams of vivisection	2	Horrible dreams of vivisections and children flayed by their mothers are afflicting the population. Fear of a horror infestation is causing widespread panic.	magic 2|land 1|turn 5|chaos 1	id 12|stealthcom 1911|unrest 30	
+395	A major disturbance in the Ast	13	A major disturbance in the Astral Plane has resulted in a wave of magic overflowing into the world.	9600 0	id 18|worlddecscale Drain|worldmark 2	
+396	A major disturbance in the Ast	13	A major disturbance in the Astral Plane has resulted in a wave of magic overflowing into the world.	9600 0	id 19|worlddecscale Drain|worldmark 4|BF00 1	
+397	The moon turned red for a nigh	11	The moon turned red for a night, an omen of misfortune. Luck has decreased worldwide.		worldincscale Misfortune	
+398	One night there were three moo	11	One night there were three moons, an omen of great fortune to come. Luck has increased worldwide.		worlddecscale Misfortune	
+399	During nighttime green lights 	11	During nighttime green lights can be seen dancing in the sky and mages have reported a worldwide surge of magic.		worlddecscale Drain	
+400	For unknown reasons magic seem	11	For unknown reasons magic seems to be leaking from the world.		worldincscale Drain	
+401	A cluster of five stars could 	11	A cluster of five stars could be seen shining more brightly than usual for a week. This is interpreted as an omen of good luck and fertility.		worlddecscale Misfortune|worlddecscale Misfortune	
+402	The climate has grown unnatura	11	The climate has grown unnaturally cold. People fear the Rimtursar are awakening. Unrest has increased worldwide.		worldincscale Cold|worldunrest 5	
+403	The sun seems to have grown la	11	The sun seems to have grown larger and the climate unnaturally warm. Unrest has increased worldwide.		worlddecscale Cold|worldunrest 5	
+404	The moon hangs ripe and pregna	11	The moon hangs ripe and pregnant in the sky. The fields and orchards share their bounties before the coming winter.	season 2|cave 0	worlddecscale Death	
+405	The stars are right for conjur	11	The stars are right for conjurations.		worldritrebate 0|linger 3	
+406	The stars are right for altera	11	The stars are right for alterations.		worldritrebate 1|linger 3	
+407	The stars are right for evocat	11	The stars are right for evocations.		worldritrebate 2|linger 3	
+408	The stars are right for constr	11	The stars are right for constructions.		worldritrebate 3|linger 3	
+409	The stars are right for enchan	11	The stars are right for enchantments.		worldritrebate 4|linger 3	
+410	The stars are right for thauma	11	The stars are right for thaumaturgy.		worldritrebate 5|linger 3	
+411	The stars are right for blood 	11	The stars are right for blood magic.		worldritrebate 6|linger 3	
+412	The cold is unusually harsh th	15	The cold is unusually harsh this winter.	6500 9	worldincscale Cold	
+413	The heat is unusually severe t	15	The heat is unusually severe this summer.	6500 3	worlddecscale Cold	
+414	Word is spreading that Astrolo	12	Word is spreading that Astrologers have spotted a comet headed straight for Earth!	capital 0|code 0|cave 0	code 30000|worldunrest 5	
+415	A comet can be seen clearly in	10	A comet can be seen clearly in the sky, heading straight for Earth. Panic is spreading worldwide.	code 30000	worldunrest 15|code 30001	
+416	The comet has struck ##landnam	10	The comet has struck ##landname##! The impact could be seen from the other side of the world. Luckily it hit in a remote area and even though half the province was devastated, most of the population survived. [Huge Crater]	code 30001|9600 50	revealprov 1|unrest 75|code 0|kill 10|incscale2 Death|newsite -1	
+417	The comet has struck ##landnam	10	The comet has struck ##landname##! The impact could be seen from the other side of the world. The province has been devastated and most of the population annihilated. [Huge Crater]	code 30001	revealprov 1|unrest 75|code 0|kill 75|incscale2 Death|strikeunits 100|lab 0|temple 0|newsite -1	
+418	For a single day all water had	12	For a single day all water had a tone of red, as if tainted by blood. This is obviously a very bad omen and unrest has increased worldwide.		worldunrest 10	
+419	The most malicious stars are a	12	The most malicious stars are ascendant. The celestial spheres are disturbed by singularly bad omens. The night winds carry gibbering messages from the cruel stars. The insane call out names they should not know and spiders spin webs in patterns that should not be.		worldincscale2 Misfortune|worlddecscale Drain	
+420	A forgotten decree of the Pant	12	A forgotten decree of the Pantokrator has suddenly taken effect. The decree of the almighty fills the usurper gods and their minions with terror. Faith in the new weakling gods is diminished all over the world.	unique 1	worldincdom -1	
+421	A strange dark rent has appear	12	A strange dark rent has appeared in the sky. Hope, Wonder and Magic drains away through it.		worldincscale2 Drain|worldincscale Misfortune	
+422	Strange occurrences plague all	12	Strange occurrences plague all lands. Children are being born with two heads, pots of gold are found laying about, hurricanes strike the coasts and strange and terrible beasts emerge to haunt the land.		worldincscale2 Turmoil|worlddecscale Drain	
+423	An ancient treasure has been u	-1	An ancient treasure has been unearthed!	land 1|luck 1|pop0ok 1	gold 350	
+424	An ancient treasure has been u	-1	An ancient treasure has been unearthed!	land 1|unluck 0|pop0ok 1	gold 50	
+425	A sunken treasure has been fou	-1	A sunken treasure has been found!	pop0ok 1|land 0|luck 0	gold 150	
+426	A witch was caught. While suff	1	A witch was caught. While suffering her sentence of death by lapidation, she uttered a dark curse over the land.	magic 0|minpop 50|land 1	incscale3 Misfortune|decscale2 Drain	
+427	A triton witch master was caug	1	A triton witch master was caught. While suffering his sentence of death staked on the shore of an island, he uttered a dark curse over the land.	magic 0|minpop 50|land 0	incscale3 Misfortune|decscale2 Drain	
+428	A martyr has died. The faithfu	-1	A martyr has died. The faithful rejoice and flock to the temple.	minpop 50|temple 1	incdom 2	
+429	A warlock has been caught red-	-2	A warlock has been caught red-handed. His virgin followers are now kept in your dungeon.	minpop 50|land 1	4d6vis B	
+430	Nature gems have been distille	-1	Nature gems have been distilled from the droppings of a magical beast.	magic 1|land 1|growth 0	1d6vis N	
+431	The local lawgiver has caught 	-1	The local lawgiver has caught a traitor. After summary trial and execution his belongings have been confiscated.	chaos 2	unrest 20|gold 150|magicitem 1	
+432	A local wizard was found conso	-2	A local wizard was found consorting with demons and -far worse- with rival nations. The foreign agent has been put under the axe and his lab plundered.	chaos 1	1d6vis 53	
+433	Crystallized urine from a magi	-1	Crystallized urine from a magical beast has been found in the melting snow.	land 1|cave 0|season 0|cold 0	1d6vis N	
+434	Crystallized urine from a magi	-1	Crystallized urine from a magical beast has been found in the melting snow.	land 1|cave 0|season 0|cold 0|luck 2	3d6vis N	
+435	One of your lords is fond of h	-2	One of your lords is fond of hunting. While on such an endeavor he stumbled upon the lair of a hideous troll. After having swiftly slain the creature, the brave nobleman ventured further into its lair. There he found, among rotting refuse, a small purse with a few smallish coins. He donated these to the benefit of the nation, but kept all the nice magic stuff for himself.	land 1|magic 0|forest 1|unluck 1	gold 8	
+436	A stranger was washed ashore f	-2	A stranger was washed ashore from the sea. He remembers nothing of his past, but seems to retain his formidable skills and has joined your cause.	coast 1|noseason 3	nation -2|com 629	
+437	Carnivorous apes are causing u	1	Carnivorous apes are causing unrest in the region.	fornation 20|8100 30|land 1	unrest 20	
+438	A little known sect of carnivo	1	A little known sect of carnivorous apes are sacrificing humans in the woods.	fornation 20|turn 15|8100 35|land 1	kill 1|unrest 5|incdom 1	
+439	Humans have disappeared at nig	1	Humans have disappeared at night, never to return.	fornation 20|turn 1|8100 50|land 1	kill 1|unrest 5	
+440	A malevolent conjurer, jealous	2	A malevolent conjurer, jealous of your power, sent a demon to slay one of your commanders.	fornation 68|turn 30|commander 1|magic 5|lab 0	assassin 1738	
+441	A mob of monkeys has beaten th	1	A mob of monkeys has beaten the local human sheriff to death.	fornation 20|turn 25|land 1|minpop 50	unrest 20	
+442	Humans have been killed or dri	1	Humans have been killed or driven from the province in large numbers. 	fornation 20|turn 25|land 1|minpop 50	kill 10	
+443	A demon summoned by local bloo	2	A demon summoned by local blood-cultists has run amok.	fornation 20|turn 25|land 1	nation 0|com 1714	
+444	A foreign tribe of apes have a	2	A foreign tribe of apes have attacked the province. They seem to be capturing commoners and transporting them into the jungle for unknown -probably hideous- ends.	fornation 20|turn 25|8100 50|land 1	nation 0|2com 1762|4d6units 1763|com 1735|kill 5	
+445	Volunteers have collected virg	-2	Volunteers have collected virgin humans for sacrifice.	fornation 20|turn 35|land 1|minpop 100	2d6vis B	
+446	Followers of the local blood c	-1	Followers of the local blood cult have summoned forest demons into your service.	fornation 20|turn 30|land 1|forest 1	nation -2|1d6units 1737	
+447	People of the province are rev	2	People of the province are revolting against the local practice of blood magic and have liberated some blood slaves.	fornation 20|turn 35|gem 8|minpop 100	gemloss B	
+448	A gang of vengeful rakshas has	2	A gang of vengeful rakshas has sought out one of your faithful devatas. Trying to slay him, the have attacked the province in force.	fornation 20|turn 30|commander 1336|land 1	nation 0|2com 1738|4d6units 1737|1d6units 1747	
+449	A wise old mage was rumored to	-2	A wise old mage was rumored to have discovered the secret of transmuting lead into gold. Alas, despite attempts of persuasion, he arrogantly refused to share his discoveries and was at last decapitated. His executors were surprised to find his loosened head still muttering. It has now been preserved and transported to the laboratory. [Skull Mentor]	unique 1|magic 0|chaos 0	magicitem 9	
+450	An ancient guru has transcende	-2	An ancient guru has transcended. His skull continues to provide wisdom and guidance and has been added to your collection of magic wonders. [Skull Mentor]	magic 0|fornation 20	magicitem 9	
+451	A mob of monkeys has beaten th	1	A mob of monkeys has beaten the local human sheriff to death.	fornation 68|chaos 1|land 1|minpop 50	unrest 20	
+452	A little known sect of dark ap	1	A little known sect of dark apes are sacrificing humans in the woods. It may be just a rumor.	fornation 68|land 1	kill 1|unrest 5|incdom 1	
+453	An ancient guru has transcende	-2	An ancient guru has transcended. His skull continues to provide wisdom and guidance and has been added to your collection of magic wonders. [Skull Mentor]	magic 0|fornation 68	magicitem 9	
+454	The carcass of a dead shambler	-2	The carcass of a dead shambler washed ashore during one of the worst storms in memory. The creatures skin was fashioned into a piece of armor. [Shambler Skin Armor]	coast 1|noseason 3	magicitem 9|kill 1	
+455	An industrious clan has migrat	-2	An industrious clan has migrated into the area. They mine for gold but are also making people angry with their bad ale-drinking habits and boisterous demeanor.	mountain 1	landgold 20|incpop 20|unrest 10	
+456	Magic is suffusing this realm.	-2	Magic is suffusing this realm. The very air is crystallizing into gems of magic.	pop0ok 1|magic 3|land 1	3d6vis A	
+457	Magic is suffusing this realm.	-2	Magic is suffusing this realm. The very sea is crystallizing into gems of magic.	pop0ok 1|magic 3|land 0	3d6vis W	
+458	A malevolent conjurer, jealous	2	A malevolent conjurer, jealous of your power, has sent a demon to slay one of your commanders.	pop0ok 1|turn 30|commander 1|magic 0|land 1	assassin 526	
+459	An alien being has been sighte	2	An alien being has been sighted, skulking near sites of mystical power.	magic 1|notnation 89	unrest 10|stealthcom 443|decscale Drain	
+460	The wise ruler of the realm ha	-1	The wise ruler of the realm has invested in roads and bridges.	order 3|land 1|minpop 100	landgold 25|landprod 20	
+461	A law has been decreed against	-2	A law has been decreed against sodomy.	chaos 2|minpop 10	unrest 5|decscale2 Turmoil	
+462	The tax collector has indulged	2	The tax collector has indulged in gluttonous orgies at the expense of the treasury.	turn 4|chaos 2	taxboost -100	
+463	A charismatic preacher of fore	2	A charismatic preacher of foreign faith has turned many away from ##godname##. Pogroms against the defectors have been initiated.	dominion 1|turn 10|minpop 10	incdom -3|kill 2	
+464	Epidemic dysentery is spreadin	2	Epidemic dysentery is spreading.		incscale2 Sloth	
+465	A harsh law against vagrancy h	-1	A harsh law against vagrancy has been decreed.	order 1|minpop 10	landprod 25|kill 1	
+466	The ruler of the province has 	-2	The ruler of the province has been able to enforce an existing law, giving the government monopoly on gambling.	order 2|minpop 10	landgold 15|unrest 10	
+467	A successful traders guild has	-2	A successful traders guild has moved their headquarters here.	luck 2|minpop 150	landgold 15	
+468	A tribe of subterranean goblin	-2	A tribe of subterranean goblins have emerged. They are wealthy and spendthrift with their silver, but cause trouble wherever they go.	chaos 1|minpop 150|mountain 1|magic 0	landgold 15|unrest 10|incscale Turmoil	
+469	People have been investing in 	2	People have been investing in a pyramid game, that has now deflated.	turn 4|chaos 1|minpop 150|unluck 1	taxboost -100|unrest 30	
+470	One of your researchers stumbl	1	One of your researchers stumbled upon an ancient skin-bound tome and read a passage aloud. Unfortunately all those who happened to listen have been cursed for the rest of their miserable lives.	researcher 1	curse 5	
+471	Some of your followers were se	-1	Some of your followers were sent to retrieve the rumored riches of an ancient tomb situated in the eastern parts of this realm. They returned, carrying a meager sum of gold, cursed by its undead wardens.	pop0ok 1|mintroops 10|unluck 1	curse 10|gold 34	
+472	Miasmatic fumes have risen fro	1	Miasmatic fumes have risen from the swamp, bringing pestilence to those living or traveling in the surrounding area.	swamp 1|unluck 1|turn 10	disease 10|kill 10	
+473	A failed experiment caused a f	1	A failed experiment caused a fire in the lab. It was dowsed with the most quickly available fluid, a barrel of goats blood. Unfortunately, the malignant fumes thus created spread quite far from the building. Those exposed have suffered diverse unnatural effects.	9C00 1|pop0ok 1|lab 1|magic 1|land 1|targorder 4	disease 5|curse 3|gainaff 4096|gainaff 4096	
+474	Something has gone wrong in th	2	Something has gone wrong in the arcane laboratory	9C00 1|pop0ok 1|lab 1|targorder 4|E900 1|turn 15	gainaff 4096	
+475	Something has gone horribly wr	2	Something has gone horribly wrong in the arcane laboratory	9C00 1|pop0ok 1|lab 1|unluck 1|targorder 4|turn 15	gainaff 4194304|gainaff 4194304	
+476	There was an accident in the a	2	There was an accident in the arcane laboratory.	9C00 1|pop0ok 1|lab 1|researcher 1|turn 15	researchaff 1073741824	
+477	One of your researchers stumbl	1	One of your researchers stumbled upon forbidden lore.	9C00 1|pop0ok 1|lab 1|researcher 1|turn 15	researchaff 2	
+478	A mage happened to mistake one	1	A mage happened to mistake one elixir for the other.	9C00 1|pop0ok 1|lab 1|researcher 1|turn 5	researchaff 0	
+479	Something has gone quite wrong	1	Something has gone quite wrong in the arcane laboratory. Magical energies were released, shrinking one of your mages!	9C00 1|pop0ok 1|lab 1|researcher 1|turn 15	researchaff 0	
+480	Something has gone quite wrong	1	Something has gone quite wrong in the arcane laboratory. A rift in the fabric of reality was briefly opened and one of your mages glimpsed the horror beyond!	lab 1|researcher 1|turn 15	researchaff 2097152	
+481	Something has gone horribly wr	2	Something has gone horribly wrong in the arcane laboratory.	lab 1|unluck 2|researcher 1|turn 15	researchaff 0|researchaff 0	
+482	Something went wrong when one 	2	Something went wrong when one of your mages attempted a ritual spell. A rift in the fabric of reality was created and a malevolent being from beyond slipped through.	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 15	2700 6|assassin 753	
+483	Something went horribly wrong 	2	Something went horribly wrong when one of your mages attempted a newly researched conjuring spell.	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 15|land 1|noera 0	2700 6|assassin 467	
+484	One of your researchers discov	2	One of your researchers discovered forbidden knowledge and has attracted unwanted attention.	researcher 1|turn 15	2700 3|assassin 307	
+485	Bad omens.	1	Bad omens.	9C00 1|pop0ok 1|unluck 1	incscale Misfortune	
+486	Good omens.	-1	Good omens.	9C00 1|pop0ok 1|luck 0	decscale Misfortune	
+487	People are taking some extra t	1	People are taking some extra time off from their chores.	lazy 1|minpop 20	incscale Sloth	
+488	People here are realizing they	2	People here are realizing they don't like to work.	lazy 1|minpop 20	incscale3 Sloth	
+489	This is truly a land of plenty	2	This is truly a land of plenty. Since people no longer have to work for food, they are becoming less industrious. Some just hang around, waiting for something to happen.	lazy 1|minpop 30|heat 1|growth 1	incscale3 Sloth|landprod -10	
+490	People have not bothered to ho	1	People have not bothered to hoard food for winter. Dire consequences now follow.	lazy 3|season 3|cave 0	kill 10	
+491	Fields have not been tended pr	1	Fields have not been tended properly.	lazy 2|season 1|land 1	incscale Death	
+492	Taxes have been lowered in an 	2	Taxes have been lowered in an attempt to appease the unruly commoners.	minunrest 20|lazy 1	landgold -8|unrest -6	
+493	One of your mages has been toi	-1	One of your mages has been toiling diligently outside working hours, fashioning a wondrous gift.	researcher 1|prod 2	magicitem 1	
+494	People are working hard, to th	-2	People are working hard, to the benefit of the realm. Taxes have been raised.	prod 2|maxunrest 0|minpop 80	landprod 5|landgold 10	
+495	Taxes have been raised by the 	-1	Taxes have been raised by the righteous governor of the realm. He wisely aims to improve defenses.	order 1|prod 1|minpop 20	landgold 10|defence 10	
+496	The lawgivers of this land are	-2	The lawgivers of this land are effectively rooting out unlawful elements. A famous criminal leader has recently been tried and hanged.	order 3|minpop 20	landgold 15|unrest -10	
+497	Tax collectors have been threa	2	Tax collectors have been threatened and, in some cases, mysteriously disappeared.	chaos 3	landgold -10	
+498	Disease is spreading.	1	Disease is spreading.	death 1|minpop 20|turn 10	kill 10|disease 1	
+499	Rivers have swollen, flooding 	1	Rivers have swollen, flooding parts of the land.	freshwater 1|land 1|season 2|heat 0	kill 10|C300 0	
+500	Famine has struck the land.	1	Famine has struck the land.	death 0|turn 10	kill 5|incscale Death	
+501	Severe famine has struck the l	1	Severe famine has struck the land.	death 0|unluck 1|turn 10	kill 15|incscale Death	
+502	Rivers have swollen, flooding 	1	Rivers have swollen, flooding parts of the land.	freshwater 1|land 1|season 2|unluck 1	kill 10|C300 0	
+503	Disease is spreading.	1	Disease is spreading.	death 1|minpop 20|unluck 1|turn 10	kill 10|disease 2	
+504	The sea is being polluted by t	1	The sea is being polluted by the crowded settlements in this province.	minpop 300|land 0	incscale Death|emigration 5	
+505	A new breed of mosquitoes are 	1	A new breed of mosquitoes are infesting the swamps, spreading disease in the area.	swamp 1|heat 0	kill 1|disease 3	
+506	Some of your magic pearls turn	2	Some of your magic pearls turned out to be fake!	9C00 1|pop0ok 1|gem 4|unluck 1	gemloss S	
+507	One of your dwarven smiths has	-2	One of your dwarven smiths has been working diligently to fashion a magic item [Star of Heroes].	monster 323|prod 1	magicitem 9	
+508	One of your smiths has been wo	-2	One of your smiths has been working diligently to fashion a magic item [Faithful].	monster 325|prod 1	magicitem 9	
+509	An old dwarf in your service h	-2	An old dwarf in your service has fashioned a smith's hammer imbued with his power and skill.[Dwarven Hammer]	monster 323|prod 1	magicitem 9	
+510	An old dwarf in your service h	-2	An old dwarf in your service has forged a hammer.[Hammer of the Mountains]	monster 323|prod 1	magicitem 9	
+511	The tax collector has been way	1	The tax collector has been waylaid!	turn 4|chaos 2	taxboost -100|unrest 15	
+512	Meddling with dark arts, your 	1	Meddling with dark arts, your necromancer has attracted unwanted attention. Spirits from the nether realms now haunt this land in search for the mage. They attack indiscriminately.	pop0ok 1|turn 12|pathdeath 1	assassin 566	
+513	One of your mages has befriend	-1	One of your mages has befriended some magic beings.	pathnature 1|magic 1|land 1	nation -2|1d6units 394	
+514	One of your mages has befriend	-1	One of your mages has befriended some magic beings.	pathwater 1|magic 1|land 0	nation -2|1d6units 1058	
+515	One of your mages is being har	-1	One of your mages is being harassed by a gang of imps. They are annoying but might be put to some use.	pop0ok 1|pathblood 1|magic 1|land 1	nation -2|1d6units 303	
+516	One of your mages has befriend	-1	One of your mages has befriended some magic beings.	pathearth 1|magic 1|land 1	nation -2|1d6units 345	
+517	One of your trolls has fetched	-1	One of your trolls has fetched his cousins.	pop0ok 1|land 1|monster 518	nation -2|2d6units 518	
+518	One of your trolls has fetched	-1	One of your trolls has fetched his cousins.	pop0ok 1|land 0|monster 564	nation -2|2d6units 564	
+519	Long live the King of Old! A K	2	Long live the King of Old! A King of the Mound and his host rises to claim what was once their domain.	death 1|unluck 1|turn 16|land 1	incdom 1|com 188|addequip 2|6d6units 194|A600 195|2d6units 189	
+520	Long live the King of Old! A K	2	Long live the King of Old! A King of the Mound rises to claim what was once his.	pop0ok 1|death 1|unluck 0|turn 16|land 1	com 188|addequip 2|4d6units 194|4d6units 194	
+521	Long live the King of Old! A K	-1	Long live the King of Old! A King of the Mound rises to join your cause.	death 1|fornation 54|turn 16|land 1|pop0ok 1	nation -2|com 188|addequip 2|4d6units 194|A300 189	
+522	Long live the King of Old! A K	-2	Long live the King of Old! A King of the Mound rises to join your cause.	death 3|luck 1|turn 16|land 1|pop0ok 1	nation -2|com 188|addequip 2|4d6units 194|A300 189	
+523	Dabbling in blood magic is fra	2	Dabbling in blood magic is fraught with dangers. A horde of vicious imps have managed to escape the summoning circle!	pathblood 1|turn 20|lab 1|land 1	assassin 303|assassin 303|assassin 303|assassin 303	
+524	A mage in your service has str	-2	A mage in your service has struck a deal with infernal powers.	9C00 1|pop0ok 1|pathblood 1|land 1|chaos 1|turn 10	nation -2|1d6units 304|kill 10	
+525	When traveling through the woo	-1	When traveling through the woods, one of your mages liberated some faeries held captive by a hideous troll.	pathnature 1|forest 1|lab 0|fort 0	nation -2|2d6units 592	
+526	When investigating the swamp, 	-1	When investigating the swamp, one of your commanders rescued a traveling adventurer from quicksand.	pathnature 1|swamp 1|lab 0|fort 0	nation -2|com -13|addequip 1	
+527	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 20	2700 6|assassin 750	
+528	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 20	2700 6|assassin 751	
+529	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 20	2700 6|assassin 752	
+530	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 20	2700 6|assassin 753	
+531	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages ignored the runes of warning on its front and attempted a spell gleaned from a forbidden tome. 	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 20	2700 6|assassin 754	
+532	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	9C00 1|pop0ok 1|researcher 1|unluck 2|turn 20	2700 6|assassin 755	
+533	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	researcher 1|unluck 2|turn 20	2700 6|assassin 756	
+534	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a most forbidden tome. 	researcher 1|unluck 2|turn 20	2700 6|assassin 757	
+535	Something went horribly wrong 	2	Something went horribly wrong when one of your unfortunate mages attempted a spell gleaned from a forbidden tome. 	researcher 1|unluck 2|turn 20	2700 6|assassin 758	
+536	Tired of the strict laws and m	2	Tired of the strict laws and multitude of regulations governing their lives, the people of this province has embraced a foreign faith, hoping for liberty.	order 3|minpop 20|turn 8	nation -1|newdom 3	
+537	Sick of harsh laws and repress	2	Sick of harsh laws and repressive taxation, a large part of of the inhabitants have migrated elsewhere.	7200 9|order 3|minpop 20	emigration 20	
+538	The over-zealous governor has 	-1	The over-zealous governor has struck down hard on unruly elements in the society.	order 1|minunrest 15|minpop 20	kill 2|decscale2 Turmoil|unrest -20	
+539	Some unnecessary laws have bee	1	Some unnecessary laws have been abolished.	chaos 2|minpop 20	incscale3 Turmoil|unrest 10	
+540	The governor of the province h	2	The governor of the province has died from a wasting disease. His incompetent brother-in-law has now taken over the administrative duties.	order 0|minpop 20|capital 0	incscale3 Turmoil|landgold -5|landprod -5	
+541	Corruption flourishes, diminis	2	Corruption flourishes, diminishing tax returns.	chaos 2|minpop 20	landgold -10	
+542	The effective government of th	-2	The effective government of this province is giving increased tax returns.	order 2|minpop 100	landgold 10	
+543	An atheistic movement has gain	2	An atheistic movement has gained followers. They claim that the current efficiency of production only enrichens those in power and demands that the produce of society be returned to the people.	prod 2|dominion 2|minpop 20|turn 8	unrest 10|incdom -2	
+544	Foreign priests have infiltrat	1	Foreign priests have infiltrated the local church of ##godname## and corrupted central tenets of faith!	dominion 1|maxdominion 4|turn 8	nation -1|newdom 5	
+545	A huge copper bull was excavat	2	A huge copper bull was excavated from an ancient buried settlement. The proud locals put it in the shrine, somewhat covering your effigy. A visiting leper was cured and now a cult has formed around the foreign idol.	dominion 1|maxdominion 3|minpop 20|turn 8	nation -1|newdom 3	
+546	A miracle has been performed! 	2	A miracle has been performed! Unfortunately the miracle worker adheres to a rival faith.	dominion 1|maxdominion 4|minpop 20|turn 8	incdom -3	
+547	People are being sacrificed in	1	People are being sacrificed in the woods. It may be just a rumor.	forest 1|minpop 5	kill 1|unrest 5	
+548	An enterprising taskmaster has	-1	An enterprising taskmaster has rounded up some renegade slaves and forced them back into service. He was paid handsomely from the treasury.	fornation 27|order 1|land 1|turn 8	nation -2|A600 172|com 169|gold -100	
+549	A Marshmaster has tamed some b	-1	A Marshmaster has tamed some beasts from the swamp.	swamp 1|monster 937|turn 8	nation -2|1d6units 1358	
+550	Some serpents from the swamp h	-1	Some serpents from the swamp have been tamed.	swamp 1|monster 937|turn 8	nation -2|1d6units 403	
+551	A skillful Marshmaster has man	-1	A skillful Marshmaster has managed to catch and tame a beast from the swamp.	swamp 1|monster 937|turn 8	nation -2|1d6units 2196	
+552	An enterprising taskmaster has	-1	An enterprising taskmaster has rounded up some renegade slaves and forced them back into service. He was paid handsomely from the treasury.	fornation 75|order 1|land 1|turn 8	nation -2|A600 172|com 169|gold -100	
+553	A Marshmaster has tamed some b	-1	A Marshmaster has tamed some beast from the swamp.	fornation 75|swamp 1|monster 937|turn 8	nation -2|1d6units 1358	
+554	Some serpents from the swamp h	-2	Some serpents from the swamp have been tamed.	fornation 75|swamp 1|monster 937|turn 8	nation -2|1d6units 403	
+555	A Marshmaster has managed to c	-2	A Marshmaster has managed to catch and tame a beast from the swamp.	fornation 75|swamp 1|monster 937|turn 8	nation -2|1d6units 2196	
+556	Swamp-fever has swept the huma	1	Swamp-fever has swept the human population.	fornation 75|swamp 1|turn 10	kill 25	
+557	The autumn has been extraordin	1	The autumn has been extraordinarily wet, expanding the marshlands. Toads proliferate and a vicious breed has been attacking travelers.	season 2|swamp 1|fort 0|lab 0|commander 1	2700 2|assassin 1358	
+558	A swamp drake has been ravagin	1	A swamp drake has been ravaging the borders of the marshland. Gnawed remains of unfortunate travelers have been found.	season 2|swamp 1|fort 0|lab 0|commander 1	2700 2|assassin 2196	
+559	An animist and his followers a	2	An animist and his followers are trying to reclaim their land. [Snake Ring]	swamp 1|turn 7|fort 0	com 552|addequip 9|A300 1358|1d6units 578	
+560	People have been found drowned	1	People have been found drowned in the swamp. Some say they are the victims of human sacrifice performed to appease spirits of the wetlands.	swamp 1|minpop 5	kill 1|unrest 5	
+561	A ragged traveler appeared on 	-2	A ragged traveler appeared on the borders of the waste. He claimed to have found the ruins of the fabled city of K'leng. Before he was driven back into the waste by villagers offended by his preposterous statement, he offered as proof an item he supposedly found on the gilded altar of a temple in the ruined city.	waste 1|magic 1	magicitem 3	
+562	Your servant dabbles in arts b	2	Your servant dabbles in arts both dark and dangerous. The vengeful dead have been stirred!	turn 20|land 1|pathdeath 1	incscale3 Death|com 676|addequip 3|AB00 675|AB00 675	
+563	A hunter stumbled upon some st	-2	A hunter stumbled upon some strange creatures feasting in a sunlit glen in the woods. When he approached, they vanished in the blink of an eye. Left on the ground were some unnaturally large acorns. [Handful of Acorns]	forest 1|order 0|magic 0|noseason 3	magicitem 9	
+564	Strange creatures have been se	-1	Strange creatures have been seen in the borderlands. Some say they must have come by magical means from other worlds. [Gateway]	9C00 1|pop0ok 1|hiddensite 1	decscale Drain	
+565	The Monolith has attracted a g	-1	The Monolith has attracted a group of worshipers. [Monolith]	foundsite 1	nation -2|4d6units 107|com 104	
+566	A mage has come to study the m	-1	A mage has come to study the magics of the Mirror Palace. [Mirror Palace]	foundsite 1	nation -2|com 341|incdom 1	
+567	A creature has emerged from th	1	A creature has emerged from the Tar Pits to wreak havoc. [Tar Pits]	pop0ok 1|foundsite 1|pop0ok 1	com 3714	
+568	The Gold Apple Tree has borne 	-1	The Gold Apple Tree has borne fruit this autumn! [Gold Apple Tree]	foundsite 1|season 2|cave 0	gold 600|3d6vis F	
+569	A farmer has found a golden ap	-1	A farmer has found a golden apple. [Gold Apple Tree]	hiddensite 1	gold 300	
+570	The power of the earth is stro	-2	The power of the earth is strong in this land. The Gold Apple Tree is bearing ample fruit! [Gold Apple Tree]	foundsite 1|growth 1	landgold 100	
+571	Hot winds are sweeping from th	1	Hot winds are sweeping from the Plain of Perpetual Drought. [Plain of Perpetual Drought]	pop0ok 1|site 1|noseason 3|heat 0	decscale2 Cold	
+572	There has been an explosion at	1	There has been an explosion at the Alchemists Guild! Repairs have been costly and one of the researchers was injured. [Alchemists Guild]	pop0ok 1|foundsite 1|researcher 1|turn 15	researchaff 4096|gold -200	
+573	There has been an explosion at	1	There has been an explosion at the Alchemists Guild! Repairs have been costly. [Alchemists Guild]	foundsite 1	gold -200	
+574	There has been an explosion at	-1	There has been an explosion at the Alchemists Guild! Interestingly, an unpredicted reaction produced a huge amount of magical gems. [Alchemists Guild]	foundsite 1	2d6vis Elemental	
+575	Some alchemists have gathered 	-1	Some alchemists have gathered to trade secrets and find ingredients for their research. One of them has been recruited into service. [Alchemists Guild]	hiddensite 1|land 1	nation -2|com 551|gold -30	
+576	Strange lights have been seen 	-1	Strange lights have been seen in the boglands. [Bog of Strange Lights]	hiddensite 1	decscale Drain	
+577	A sage has been studying the f	-1	A sage has been studying the flowers of the wetlands. He claims to have attracted the attention of some strange beings that now follow him around. [Bog of Strange Lights]	hiddensite 1	nation -2|com 478|A300 527	
+578	A villager claims to have seen	-1	A villager claims to have seen a cliff of pure copper in the wilderness. [Copper Cliff]	hiddensite 1		
+579	A villager claims to have seen	2	A villager claims to have seen a cliff of pure copper in the wilderness.	9600 1		
+580	There has been a volcanic erup	1	There has been a volcanic eruption! [Volcano]	site 1	kill 10|unrest 10	
+581	There has been a catastrophic 	1	There has been a catastrophic volcanic eruption! Smoke is blotting out the sun and falling ashes are destroying the crops and making people sick. [Volcano]	site 1|minpop 10|noseason 3	kill 20|unrest 20|incscale Cold|incscale Cold	
+582	The volcano has stirred. Creat	1	The volcano has stirred. Creatures of fire and molten stone are laying waste to the surrounding land! [Volcano]	pop0ok 1|site 1	com 640|A300 640|decscale Cold	
+583	An adept of Pyriphlegeton has 	-1	An adept of Pyriphlegeton has arrived to study the volcanic activity in the area. He was persuaded to swear allegiance after having examined the volcano. [Volcano]	pop0ok 1|site 1	nation -2|com 99	
+584	A powerful mage has arrived in	-2	A powerful mage has arrived in the province. He is traveling to his fellow brothers of the Golden Order but has been persuaded to serve your will.[Tower of the Golden Order]	pop0ok 1|nearbysite 1|dominion 2|land 1	nation -2|com 101	
+585	There has been a schism among 	2	There has been a schism among the Adepts of the Golden Order, escalating to a full-blown sorcerors' enfilade! [Tower of the Golden Order]	pop0ok 1|foundsite 1	com 101|addequip 3|com 101|com 101	
+586	A powerful mage has arrived in	-1	A powerful mage has arrived in the province. He is traveling to his fellow brothers of the Silver Order. [Tower of the Silver Order]	pop0ok 1|nearbysite 1|land 1		
+587	A powerful mage has arrived in	-2	A powerful mage has arrived in the province. He is traveling to his fellow brothers of the Silver Order but has been persuaded to serve your will. [Tower of the Silver Order]	pop0ok 1|nearbysite 1|dominion 2|land 1	nation -2|com 100	
+588	There has been a schism among 	2	There has been a schism among the Adepts of the Silver Order, escalating to a full-blown sorcerors' enfilade! [Tower of the Silver Order]	pop0ok 1|foundsite 1	com 100|addequip 3|com 100|com 100	
+589	A Wizard has been traveling th	2	A Wizard has been traveling the province in search of a hidden Academy of Magics.	pop0ok 1|land 1|9600 2		
+590	A Wizard has been traveling th	-1	A Wizard has been traveling the province in search of a hidden Academy of Magics. [Academy of High Magics]	pop0ok 1|hiddensite 1		
+591	A mighty wizard from the local	-2	A mighty wizard from the local academy has come to serve. [Academy of High Magics]	pop0ok 1|site 1	nation -2|com 312|1d6units 527	
+592	Magical beings have escaped fr	2	Magical beings have escaped from the Academy! [Academy of High Magics]	pop0ok 1|foundsite 1	com 466|1d6units 2159|A300 297|com 466	
+593	Some magical beings have escap	1	Some magical beings have escaped from the Academy! [Academy of High Magics]	pop0ok 1|foundsite 1	com 466|1d6units 466	
+594	Some magical beings have escap	1	Some magical beings have escaped from the Academy! [Academy of High Magics]	foundsite 1	com 514|1d6units 514	
+595	Some magical beings have escap	1	Some magical beings have escaped from the Academy! [Academy of High Magics]	foundsite 1	com 532|1d6units 532	
+596	Enormous storm clouds have gat	2	Enormous storm clouds have gathered, unleashing deadly bolts of lightning. [Cloud Abode]	hiddensite 1	kill 1	
+597	There are rumors of a hidden s	-1	There are rumors of a hidden site of mystical power. Strange cloud formations have gathered. [Cloud Abode]	hiddensite 1		
+598	A mage has appeared in the mid	-1	A mage has appeared in the midst of a thunderstorm. He seeks a site of power. [Cloud Abode]	pop0ok 1|hiddensite 1|noseason 3	nation -2|com 92|addequip 1	
+599	Hideous creatures have come fr	-1	Hideous creatures have come from a marshland known by locals as the Witches Bog. [Witches Bog]	site 1|land 1	com 578|2d6units 578|com 578	
+600	Malevolent Conjurers have unle	1	Malevolent Conjurers have unleashed demons! [Black Tower]	pop0ok 1|site 1	com 304|2d6units 304	
+601	People are disappearing in inc	1	People are disappearing in increasing numbers. Strangely, most of them have been young and innocent virgins. [Black Tower]	site 1	unrest 20	
+602	The commoners are protesting a	1	The commoners are protesting against the dark practices at the Black Tower. [Black Tower]	site 1	unrest 20	
+603	The Conjurers at the Black Tow	-1	The Conjurers at the Black Tower have summoned and fettered a devil. [Black Tower]	pop0ok 1|site 1	nation -2|com 304	
+604	A Conjurer at the Black Tower 	1	A Conjurer at the Black Tower has summoned a demon beyond his control! [Black Tower]	site 1|monster 95	assassin 304	
+605	An man missing for many moons 	-1	An man missing for many moons has reappeared. He claims to have wandered for weeks through vast underground passages, only to reappear close to home. No one believes it. [Endless Caverns]	hiddensite 1		
+606	Monsters have crawled from the	1	Monsters have crawled from the Endless Caverns! [Endless Caverns]	foundsite 1|pop0ok 1	com 518|2d6units 518	
+607	Monsters have crawled from the	1	Monsters have crawled from the Endless Caverns! [Endless Caverns]	foundsite 1	com 782|2d6units 782	
+608	Madmen flock to the monolith. 	-1	Madmen flock to the monolith. [Monolith]	foundsite 1	nation -2|2d6units 962	
+609	A knight and his followers hav	-1	A knight and his followers have come to the Ancient Temple in search of the true God. [Ancient Temple]	foundsite 1|noera 1	nation -2|com 2359|2d6units 2360	
+610	A heroine has arrived in searc	-2	A heroine has arrived in search of The Sacred Glen. [The Sacred Glen]	site 1|noera 1	nation -2|com 2332	
+611	Creatures have emerged from th	1	Creatures have emerged from the magical woods! [Twisting Woods]	site 1	com 453|com 453|2d6units 455|1d6units 468|2d6units 455	
+612	Magical beings from the forest	1	Magical beings from the forest are trying to reclaim what was taken. [Forest of the Dead]	pop0ok 1|site 1	com 714|com 714|1d6units 313|1d6units 313|1d6units 313	
+613	A pack of animals have been en	-1	A pack of animals have been enthralled by the Animist.	monster 552|land 1	nation -2|2d6units 549|1d6units 463	
+614	A cult is growing. They worshi	1	A cult is growing. They worship Fire and do not pay heed to the priests of ##godname##. [Magus Temple]	hiddensite 1|minpop 10|mydominion 1	incdom -3|decscale Cold	
+615	A cult is growing. They worshi	-2	A cult is growing. They worship Fire and do not pay heed to the priests of ##godname##. Their leader is a powerful mage. [Magus Temple]	hiddensite 1|minpop 10|mydominion 1	incdom -3|decscale Cold|nation -2|com 480	
+616	A winter solstice, an abundanc	-1	A winter solstice, an abundance of magical gems were found in the Solar Circle. [Solar Circle]	foundsite 1|season 3|pop0ok 1	3d6vis F	
+617	A summer solstice, an abundanc	-1	A summer solstice, an abundance of magical gems were found in the Solar Circle. [Solar Circle]	foundsite 1|season 1|pop0ok 1		
+618	There are rumors of a hidden s	2	There are rumors of a hidden site of mystical power.	9600 1|unluck 0	decscale Cold|nation 0	
+619	There are rumors of a hidden s	-1	There are rumors of a hidden site of mystical power. A man claims to have seen a Fountain of Fire in his dreams. Actually, some fire gems were later found in the belly of a goat who had strayed into the wilderness. [Fountain of Fire]	hiddensite 1	decscale Cold|1d6vis F	
+620	There are rumors of a hidden s	-1	There are rumors of a hidden site of mystical power. A man claims to have seen a Fountain of Fire in his dreams. Actually, some fire gems were later found in the belly of a goat who had strayed into the wilderness.	season 1|land 1	decscale Cold|1d6vis F	
+621	A goatherd has found a strange	-1	A goatherd has found a strange pillar in the wilderness. At its base, some magical gems were found. [Bronze Pillar]	hiddensite 1	1d6vis F	
+622	There are rumors of a hidden s	-1	There are rumors of a hidden site of mystical power. Sometimes, in the wilderness, the clanging of hammer against steel has been heard echoing in the night. Also, a magic item has been found hidden under a rock. [The Steel Ovens]	site 1	decscale Cold|magicitem 3	
+623	The Wild Forest is working its	1	The Wild Forest is working its magic. A plague of lycanthropy has swept the land. The unfortunate victims howl and rage under the moon. [Wild Forest]	site 1|noseason 3	com 633|2d6units 633|com 633	
+624	A smallish knight has appeared	-1	A smallish knight has appeared on his steed. He seeks the fabled Forest of Truffles. [Forest of Truffles]	nearbysite 1|noera 1|land 1	nation -2|com 1196	
+625	A beardless dwarf has appeared	-1	A beardless dwarf has appeared. He seeks the fabled Forest of Truffles. [Forest of Truffles]	nearbysite 1|noera 1|land 1	nation -2|com 1198	
+626	Hoburgers have been attracted 	-1	Hoburgers have been attracted by the delicious truffles. [Forest of Truffles]	foundsite 1|noera 1	nation -2|com 1195|A300 483|incpop 10|decscale Death	
+627	The Hoburg people claim this l	1	The Hoburg people claim this land is theirs -especially the truffles! [Forest of Truffles]	foundsite 1|turn 12|noera 1	com 272|com 272|2d6units 1196|2d6units 1196|A300 483	
+628	A farmer and his pig found som	-1	A farmer and his pig found some extraordinary truffles in the woods. [Forest of Truffles]	hiddensite 1|minpop 10	1d6vis N	
+629	A farmer and his pig found som	-2	A farmer and his pig found some extraordinary truffles in the woods.	land 1|forest 1|minpop 10|9600 5	1d6vis N	
+630	Some gems have been found on a	-2	Some gems have been found on a windy heath. One of your mages suggests there may be more. [Rage Wind Heath]	hiddensite 1	1d6vis A|1d6vis A	
+631	Magical gems have been found i	-1	Magical gems have been found in the Orichalcum Mine! [Orichalcum Mine]	foundsite 1	2d6vis Elemental	
+632	A new gold vein has been found	-1	A new gold vein has been found in a Gold Mine! [Gold Mine]	foundsite 1	gold 400	
+633	A Master Smith has arrived to 	-1	A Master Smith has arrived to work wonders in The Steel Ovens. [The Steel Ovens]	foundsite 1	nation -2|com 325	
+634	The Master Smith at the Steel 	-1	The Master Smith at the Steel Ovens has forged an item of extraordinary power! [The Steel Ovens]	foundsite 1|monster 325	magicitem 4	
+635	The Master Smith at the Steel 	-1	The Master Smith at the Steel Ovens has forged an item of power! [The Steel Ovens]	foundsite 1|monster 325	magicitem 3	
+636	The Master Smith at the Steel 	-1	The Master Smith at the Steel Ovens has forged a magic item. [The Steel Ovens]	foundsite 1|monster 325	magicitem 2	
+637	A Sidhe Champion has appeared 	-1	A Sidhe Champion has appeared at The Glowing Hill to lead his kin. [The Glowing Hill]	foundsite 1	nation -2|com 850|addequip 3|decscale Drain	
+638	A Lord of the Sidhe has arrive	-1	A Lord of the Sidhe has arrived with his hunting party. [The Glowing Hill]	foundsite 1|magic 1	nation -2|com 848|addequip 2|1d6units 851|2d6units 849	
+639	A King of the Sidhe has arrive	1	A King of the Sidhe has arrived with his host to reclaim their land! [The Glowing Hill]	foundsite 1|unmagic 0	com 848|com 848|addequip 1|1d6units 851|A300 849	
+640	The Magic of the Glowing Hill 	-1	The Magic of the Glowing Hill is spreading through the land. [The Glowing Hill]	foundsite 1	decscale2 Drain	
+641	People say there is a hill in 	-1	People say there is a hill in the forest, through which the lands of Faerie can be reached.  [The Glowing Hill]	hiddensite 1|minpop 10	decscale Drain	
+642	People say there is a hill in 	2	People say there is a hill in the forest, through which the lands of Faerie can be reached.	land 1|minpop 10|9600 1	decscale Drain	
+643	A hunting party has been seen 	-1	A hunting party has been seen in the woods. The hunters ride on white horses and their dogs are the color of snow. [The Glowing Hill]	site 1|minpop 10	decscale Drain	
+644	A pack of dragons strode out o	1	A pack of dragons strode out of a forest and started to make mayhem. [Dragon Forest]	site 1	com 522|1d6units 522	
+645	Some drakes from the Dragon Fo	-1	Some drakes from the Dragon Forest have been tamed. [Dragon Forest]	foundsite 1	nation -2|1d6units 522	
+646	Dragons have been sighted in a	1	Dragons have been sighted in a forest nearby. [Dragon Forest]	hiddensite 1|minpop 10	unrest 15	
+647	Drakes have come from the Stea	1	Drakes have come from the Steaming Swamp to wreak havoc! [Steam Swamp]	site 1	com 2196|1d6units 2196|com 2196	
+648	Some gems have been found in a	-1	Some gems have been found in a steaming swamp. [Steam Swamp]	hiddensite 1|pop0ok 1	1d6vis F|1d6vis F	
+649	The Steaming Swamp has yielded	-1	The Steaming Swamp has yielded some extra gems this month. [Steam Swamp]	hiddensite 1	1d6vis F|1d3vis W	
+650	An ancient oak has been struck	-1	An ancient oak has been struck by lightning. It was strangely unaffected and between its roots some magic gems were found. [Thunder Oak]	hiddensite 1	1d6vis A|revealsite 1	
+651	The people here tell stories o	-1	The people here tell stories of an ancient city, burned to the ground by the gods. They say it still smolders and that the wind from the east sometimes carries its ashes. [City of Ashes]	site 1		
+652	A cult has formed around the T	1	A cult has formed around the Temple of the Solar Bull. [Temple of the Solar Bull]	foundsite 1	incdom -3|unrest 10	
+653	People pay offerings to the Gr	1	People pay offerings to the Great Bull. [Temple of the Solar Bull]	foundsite 1	incdom -2|unrest 10	
+654	It is said the desert wind whi	1	It is said the desert wind whispers, carrying sighs of lost travelers. [Desert of Sighs]	site 1	incscale2 Death|decscale2 Cold	
+655	Some say the desert speaks, it	1	Some say the desert speaks, its voice dry and dreadful. [Desert of Sighs]	site 1	incscale2 Death|decscale2 Cold	
+656	A merchant has donated his ric	-1	A merchant has donated his riches. He was lost while crossing the Desert of Sighs and found his way only after having prostrated himself in prayer to ##godname##. [Desert of Sighs]	site 1	gold 200	
+657	The Cypress Forest has given a	-1	The Cypress Forest has given a plentiful yield this autumn. [Cypress Forest]	foundsite 1|season 2	2d6vis N|2d6vis N	
+658	A magic item was found in the 	-1	A magic item was found in the rubble of a cracked and broken tower. [Cracked Tower]	site 1|luck 1|turn 15|pop0ok 1	magicitem 3	
+659	A wizard once lived here in a 	-1	A wizard once lived here in a great tower. Its location has been lost, but it is said he was a practitioner of glamour magic, so perhaps one skilled in the same arts could find it. [Cracked Tower]	hiddensite 1		
+660	A wizard once lived here in a 	2	A wizard once lived here in a great tower. Its location has been lost, but it is said he was a practitioner of glamour magic, so perhaps one skilled in the same arts could find it. [Cracked Tower]	nearbysite 1|9600 50|land 1		
+661	A mage has been traveling thro	-1	A mage has been traveling through the land. He searches for the legendary Singing Stones. [Singing Stones]	pop0ok 1|nearbysite 1|land 1	nation -2|com 92	
+662	A mage has been traveling thro	-1	A mage has been traveling through the land. He searches for the legendary Cloud Pillars. [Cloud Pillars]	pop0ok 1|nearbysite 1|land 1	nation -2|com 92	
+663	There is a lake here of which 	-1	There is a lake here of which the locals speak. It is said the wind never touches its surface and that if you gaze in its waters, the reflection you see will be the face of your true love. [Mirrorlake]	hiddensite 1		
+664	There is a lake here of which 	-1	There is a lake here of which the locals speak. It is said the wind never stirs its surface and that if you gaze in its waters, the reflection you see will be the face of your true self. Some unfortunate souls have supposedly been driven mad by this. [Mirrorlake]	hiddensite 1		
+665	One of your servants has been 	1	One of your servants has been assailed! This occurred during investigations regarding a secret cult of moon-mages. [The Hidden Kingdom of Elludia]	hiddensite 1|commander 1	assassin 629	
+666	There has been several assassi	1	There has been several assassinations lately, including the province governor. Some hidden faction seems to be at work. [The Hidden Kingdom of Elludia]	hiddensite 1|commander 1	assassin 629|unrest 20|incscale Turmoil	
+667	There are tales of a hidden ki	-1	There are tales of a hidden kingdom ruled by moon-mages. [The Hidden Kingdom of Elludia]	hiddensite 1	decscale Drain	
+668	There are tales of a hidden ki	2	There are tales of a hidden kingdom ruled by moon-mages.	land 1|9600 1	decscale Drain	
+669	A faction in the Kingdom of El	2	A faction in the Kingdom of Elludia is trying to reclaim their independence! [The Hidden Kingdom of Elludia]	foundsite 1|commander 1	assassin 629|com 630|addequip 1|2d6units 629|com 630	
+670	A Sage has appeared. He search	-2	A Sage has appeared. He searches for a place called The Library of Time. Tired of his long and fruitless quest, he now seeks employment in your service. [Library of Time]	pop0ok 1|nearbysite 1|land 1	nation -2|com 478	
+671	A Sage has appeared. He search	-2	A Sage has appeared. He searches for a place called The Library of Time. Tired of his long and fruitless quest, he now seeks employment in your service.	pop0ok 1|9600 25|land 1	nation -2|com 478	
+672	A farmer and his pig found som	-2	A farmer and his pig found some extraordinary truffles in the woods. [Forest of Truffles]	hiddensite 1|minpop 10|9600 25	revealsite 1	
+673	Some of the Black Hawks circli	-1	Some of the Black Hawks circling the Cloud Pillars have been tamed. [Cloud Pillars]	foundsite 1	nation -2|A300 517	
+674	There is an old legend in this	0	There is an old legend in this land: Once upon a time a mighty wizard built his abode upon the highest peak. From there he worked his magic, trying to control the winds and the clouds and the beasts that fly. Angered by the wizards hubris, the Lord of Thunder struck him with such force that the mountain was cloven in half. The legend tells that some of the magic of that place remains and whomever finds the wizards skull shall command all winged beings on earth. [The Cloven Mountain]	hiddensite 1|9600 5|unique 1	decscale Drain	
+675	A sorcerer has conjured a Clou	-1	A sorcerer has conjured a Cloud of Doom over the land! [The Doom Cloud]	pop0ok 1|hiddensite 1|9600 25	revealsite 1|incscale3 Death|incscale Misfortune	
+676	A mystic has appeared in searc	-2	A mystic has appeared in search of the Palace of Dreams. [Palace of Dreams]	nearbysite 1|9600 10|land 1	nation -2|com 311	
+677	The Palace of Dreams is drawin	-1	The Palace of Dreams is drawing sleeping minds. Within its gardens the dreamers frolic and leave all worldly troubles behind. [Palace of Dreams]	foundsite 1	unrest -30|decscale2 Turmoil	
+678	Leaves of pure silver have bee	-1	Leaves of pure silver have been found in a forest. [Silver Forest]	site 1	gold 300	
+679	Leaves of pure silver have bee	-2	Leaves of pure silver have been found in a forest.	forest 1|9600 5	gold 300	
+680	There is a fabulously rich mil	-2	There is a fabulously rich miller in this land. Some say he has made a pact with demons, making the wind always blow to turn the mill. [Enchanted Windmill]	hiddensite 1		
+681	The Enchanted Mill is grinding	-1	The Enchanted Mill is grinding its magic like never before! [Enchanted Windmill]	foundsite 1	2d6vis A|incscale2 Turmoil|incdom -2	
+682	There is an old, deserted towe	-2	There is an old, deserted tower here. Superstitious folks say that you can hear the lament of the dead when the north-wind blows through its empty arches. [Whisperwind Tower]	hiddensite 1|luck 1	revealsite 1	
+683	The wind from the waste carrie	1	The wind from the waste carries plague. [Plaguewind Waste]	site 1	incscale Death|kill 8	
+684	An adventurer has returned fro	-2	An adventurer has returned from the Dragon Jaws. Within, he found an object of power. [Dragon Jaws]	foundsite 1	nation -2|com 141|addequip 3	
+685	An adventurer has returned fro	-2	An adventurer has returned from the Dragon Jaws. Within, he found an object of power. [Dragon Jaws]	foundsite 1|luck 2	nation -2|com 141|addequip 4	
+686	A geyser has erupted! [Geyser]	-2	A geyser has erupted! [Geyser]	hiddensite 1	revealsite 1	
+687	An unusual amount of pearls ha	-1	An unusual amount of pearls have been washed up on the beach. Some gleam with otherworldly luster. [Pearl Beach]	pop0ok 1|site 1	2d6vis S|gold 100	
+688	An unusual amount of pearls ha	-2	An unusual amount of pearls have been washed up on the beach. Some gleam with otherworldly luster.	coast 1	2d6vis S|gold 100	
+689	An unusual amount of pearls ha	-2	An unusual amount of pearls have been washed up on the beach. Some gleam with otherworldly luster.	coast 1|luck 2	4d6vis S|gold 200	
+690	A band of renegade Atlantians 	2	A band of renegade Atlantians are raiding the coast. They are led by a vicious Shambler.	coast 1|noseason 3|turn 20|noera 1	com 208|A300 1621|A300 1621|1d6units 206	
+691	People have disappeared myster	1	People have disappeared mysteriously near the Mausoleum. [Marble Mausoleum]	foundsite 1	stealthcom 405|kill 1	
+692	Ghouls swarm from the caves! [	1	Ghouls swarm from the caves! [Cave of Ghouls]	foundsite 1|pop0ok 1	4com 198|4d6units 198	
+693	A vampire has revealed itself 	-2	A vampire has revealed itself at the Marble Mausoleum. [Marble Mausoleum]	foundsite 1|fornation 54|pop0ok 1	nation -2|com 405|2d6units 198	
+694	A friendly necromancer has rai	-2	A friendly necromancer has raised some servants from the catacombs. [Catacombs]	foundsite 1|death 2|magic 1|turn 10|pop0ok 1	nation -2|2d6units 619|2d6units 619	
+695	Ghouls swarm from the caves! [	-1	Ghouls swarm from the caves! [Cave of Ghouls]	hiddensite 1|9600 50|pop0ok 1	4com 198|4d6units 198|revealsite 1	
+696	An Ettin and his brother are e	2	An Ettin and his brother are eating commoners and sheep. The garrison commander has decided to rid the land of their evil.	land 1|minpop 20|commander 0|maxtroops 0	2com 488|addequip 1	
+697	While exploring some ancient b	2	While exploring some ancient burial mounds, one of your servants was attacked by a wight. [Death Mound Downs]	hiddensite 1|pathdeath 1	revealsite 1|2700 2|assassin 533	
+698	One of your servants has obser	-1	One of your servants has observed strange lights in the swamp. [Corpse Candles' Marsh]	hiddensite 1		
+699	While traveling through a mars	1	While traveling through a marsh, one of your agents was led astray by flickering, unearthly lights. [Corpse Candles' Marsh]	hiddensite 1|commander 1	2700 2|assassin 528	
+700	One of your commanders was lur	1	One of your commanders was lured into the marsh by flickering, unearthly lights. [Corpse Candles' Marsh]	hiddensite 1|commander 1	2700 2|assassin 528	
+701	A monster of the deep has been	2	A monster of the deep has been stirred.	land 0|coast 0|turn 15	com 565	
+702	A monster of the deep has been	2	A monster of the deep has been stirred!	land 0|coast 0|turn 15|unluck 1	com 639	
+703	A monster of the deep has been	2	A monster of the deep has been stirred!	land 0|coast 0	com 438	
+704	One of your mages has managed 	-2	One of your mages has managed to tame a monster of the deep.	land 0|coast 0|pathwater 2	nation -2|com 438	
+705	One of your mages has managed 	-2	One of your mages has managed to tame a monster of the deep.	land 0|coast 0|pathwater 2	nation -2|com 565	
+706	While traveling the woods, one	2	While traveling the woods, one of your commanders was attacked by a giant spider!	forest 1|commander 1	2700 2|assassin 884	
+707	Spiders from the woods have at	2	Spiders from the woods have attacked in numbers. They are led by a gibbering troll.	forest 1|turn 13	2com 884|com 2220|addequip 1|2d6units 884|4d6units 782|4d6units 782	
+708	The Forest Trolls are making t	2	The Forest Trolls are making trouble.	forest 1|chaos 1	com 2219|2d6units 2219|2com 2219	
+709	A poisonous spider may have bi	2	A poisonous spider may have bitten one of your commanders!	land 1|commander 1|death 0	assassin 2223	
+710	A flock of aggressive goats ha	-2	A flock of aggressive goats have been donated to the temple.	land 1|temple 1|unique 3	nation -2|4d6units 2227	
+711	A warrior has appeared. Her mi	-2	A warrior has appeared. Her mistress was lost when searching for The Sacred Glen and she now seeks to find her. [The Sacred Glen]	nearbysite 1|land 1|9600 30	nation -2|com 354	
+712	Madness has spread like an epi	1	Madness has spread like an epidemic! A mob chanting unnatural names is attacking the garrison.	coast 1|minpop 10|nation 127|1200 127|9600 20|turn 8	com 963|A300 962|nation 127|newdom 3|8A00 127	
+713	The clam fields have been thri	-1	The clam fields have been thriving! [Clam Field]	foundsite 1	1d6vis S|gold 50	
+714	A band of thieving outlaws hav	1	A band of thieving outlaws have attacked the clam fields, eager for its riches. [Clam Field]	foundsite 1	2com 2472|A300 2472|1d6units 210	
+715	A False Prophet is spreading h	2	A False Prophet is spreading his lies. Unless found and dealt with, his following will continue to grow.	land 1|turn 8	stealthcom 2275|incdom -2	
+716	An illithid lord and his retin	2	An illithid lord and his retinue have appeared from the Strange Opening. [Strange Opening]	pop0ok 1|foundsite 1	com 445|addequip 1|2d6units 424|1d6units 425|2com 443	
+717	An illithid lord and his retin	2	An illithid lord and his retinue have appeared from a Strange Opening. [Strange Opening]	pop0ok 1|hiddensite 1	com 445|addequip 1|A300 424|revealsite 1|2com 443	
+718	A madman claims he has found t	-1	A madman claims he has found the Forgotten City and he has offered to help uncover its secrets. [The Forgotten City]	nearbysite 1|land 1	nation -2|com 962	
+719	A madman claims he has found t	2	A madman claims he has found the Forgotten City and he has offered to help uncover its secrets.	9600 50|land 1	nation -2|com 962	
+720	An adventurer has returned fro	-1	An adventurer has returned from the Forgotten City. He carries treasures stolen from its haunted ruin but the city has in turn taken his sanity. [The Forgotten City]	9600 50|foundsite 1	nation -2|com 962|addequip 2|addequip 2|gold 20	
+721	An adventurer has returned fro	-2	An adventurer has returned from the Forgotten City. He carries treasures stolen from its haunted ruin but the city has in turn taken his sanity. [The Forgotten City]	foundsite 1	nation -2|com 962|addequip 3|addequip 3|gold 100	
+722	An adventurer has returned fro	-2	An adventurer has returned from the Forgotten City. He carries treasures stolen from its haunted ruin but the city has in turn taken his sanity. [The Forgotten City]	9600 10|foundsite 1|luck 1	nation -2|com 962|addequip 4|addequip 4|gold 300	
+723	An illithid lord and his retin	2	An illithid lord and his retinue have appeared at the Arcane Gateway. [Arcane Gateway]	pop0ok 1|foundsite 1	com 445|addequip 1|2d6units 424|1d6units 425	
+724	An illithid lord and his retin	2	An illithid lord and his retinue have appeared at an Arcane Gateway located in the area. [Arcane Gateway]	pop0ok 1|hiddensite 1	com 445|addequip 1|4d6units 424|revealsite 1|2com 443	
+725	An illithid lord is bringing v	2	An illithid lord is bringing vengeance to the Academy Underneath! [Academy Underneath]	foundsite 1	com 445|addequip 1|2d6units 424|1d6units 425|4com 443	
+726	Some of the Trolls are revolti	1	Some of the Trolls are revolting against your rule. They claim this sea for themselves. [Troll Pit]	foundsite 1|9600 50	2com 564|2d6units 564	
+727	A school of sharks has been ta	-2	A school of sharks has been tamed by one of the Shark Knights. [Shrine of the Shark Lords]	foundsite 1|monster 545	nation -2|A300 816	
+728	A knight has appeared. He ques	-1	A knight has appeared. He quests for the Shrine of the Shark Lords. [Shrine of the Shark Lords]	land 0|nearbysite 1	nation -2|com 545	
+729	A knight has appeared. He ques	-1	A knight has appeared. He quests for the Shrine of the Shark Lords. [Shrine of the Shark Lords]	land 0|nearbysite 1|luck 1	nation -2|com 545|addequip 2	
+730	A knight has appeared. He ques	2	A knight has appeared. He quests for the Shrine of the Shark Lords.	land 0	nation -2|com 545	
+731	A mage has traveled here to se	-2	A mage has traveled here to seek admittance at the famous Academy Underneath, which is supposed to be located somewhere in these parts of the sea. He was persuaded to join the cause. [Academy Underneath]	nearbysite 1|land 0	nation -2|com 103	
+732	One of your mages has tamed a 	-2	One of your mages has tamed a great serpent.	monster 529|land 0	nation -2|com 565	
+733	One of your mages has befriend	-2	One of your mages has befriended a kraken colony. Some of its members now follow his command.	monster 529|land 0	nation -2|1d6units 438	
+734	A flock of Sea Lions is seekin	1	A flock of Sea Lions is seeking prey in the Hippocampoi Fields. [The Hippocampoi Fields]	foundsite 1|9600 50	4com 1063|4d6units 1063	
+735	There is worship at the Basalt	1	There is worship at the Basalt Statue. [Basalt Statue]	foundsite 1	incdom -2|decscale Drain	
+736	Members of a blasphemous cult 	0	Members of a blasphemous cult has erected a statue of basalt. They worship at its webbed feet, chanting unnatural hymns in praise of their alien God. [Basalt Statue]	9600 10|hiddensite 1	revealsite 1|incdom -2|decscale Drain	
+737	Members of a blasphemous cult 	2	Members of a blasphemous cult have been chanting unnatural hymns in praise of their alien God. It has now appeared. [Basalt Statue]	unique 1|foundsite 1|magic 1	com 751	
+738	A cult has formed around the B	1	A cult has formed around the Basalt Statue. They chant unnatural hymns in praise of their alien God. [Basalt Statue]	foundsite 1	incdom -2|decscale Drain	
+739	An order of Knights has erecte	-2	An order of Knights has erected a fortification to defend and preserve your righteous rule. [Kelp Fortress]	hiddensite 1|order 2	revealsite 1|nation -2|com 1059|A300 1059	
+740	The Kelp Forest located here h	-1	The Kelp Forest located here has been thriving this summer. [Glowing Kelp Forest]	site 1|season 1|growth 0	1d6vis N	
+741	The Kelp Forest located here h	-1	The Kelp Forest located here has been thriving this summer. [Glowing Kelp Forest]	site 1|season 1|growth 2	2d6vis N	
+742	Large pieces of amber have bee	-1	Large pieces of amber have been found on the shores of an island. Some encase fabulous insects from ages past. Someone attuned to the workings of nature may be able to find more. [Amber Beach Island]	hiddensite 1|9600 50	gold 100|1d6vis N	
+743	Unusually large pieces of ambe	-1	Unusually large pieces of amber have been found on the shores of Amber Beach Island. Some encase fabulous insects from ages past. [Amber Beach Island]	foundsite 1	gold 50|1d6vis N|1d6vis N	
+744	A group of Amber Clan Tritons 	2	A group of Amber Clan Tritons are trying to reclaim the sea around their holy island. [Amber Beach Island]	foundsite 1	2com 576|2com 576|A300 573|4d6units 574	
+745	A triton mage searches for a l	-1	A triton mage searches for a legendary isle. Its beaches are said to be rich in amber, a material greatly valued by some Triton clans. [Amber Beach Island]	land 0|nearbysite 1	nation -2|com 575	
+746	War among the tritons! Amber C	2	War among the tritons! Amber Clan warriors are defending their sacred island against an assault. [Amber Beach Island]	foundsite 1	2com 577|A600 577|nation -2|2com 577|4d6units 573	
+747	Some hippocampi have been caug	-2	Some hippocampi have been caught in the Forest Beneath the Waves. [The Forest Beneath the Waves]	foundsite 1	nation -2|1d6units 1058	
+748	A Triton Prince and his retinu	1	A Triton Prince and his retinue hunts in the Forest Beneath the Waves. He now claims this realm as his own. [The Forest Beneath the Waves]	foundsite 1|9600 50	com 1061|4com 1060|2d6units 1064|A300 1057	
+749	A Triton Prince has come to hu	-2	A Triton Prince has come to hunt stag in the Forest. Entranced by the magical and fertile aura of your dominion, he has decided to serve. [The Forest Beneath the Waves]	foundsite 1|magic 1|growth 1|dominion 2	nation -2|com 1061|2com 1060|2d6units 1064|A300 1057	
+750	Some Sea Stags have been caugh	-2	Some Sea Stags have been caught in the Forest Beneath the Waves. [The Forest Beneath the Waves]	hiddensite 1|luck 1	nation -2|1d6units 1062|revealsite 1	
+751	A flock of Sea Lions is seekin	1	A flock of Sea Lions is seeking prey in the Forest Beneath the Waves. [The Forest Beneath the Waves]	foundsite 1|9600 50	4com 1063|4d6units 1063|nation -2|1d6units 1062	
+752	A group of Amber Clan Tritons 	2	A group of Amber Clan Tritons are trying to reclaim the sea around the Forest of Amber Kelp. [Forest of Amber Kelp]	foundsite 1	2com 576|2com 576|A300 573|4d6units 574	
+753	A triton mage searches for a l	-1	A triton mage searches for a legendary glowing kelp forest. It is said to be rich in amber, a material greatly valued by some Triton clans. [Forest of Amber Kelp]	land 0|nearbysite 1	nation -2|com 575	
+754	War among the tritons! Amber C	2	War among the tritons! Amber Clan warriors are defending their forest against an assault. [Forest of Amber Kelp]	foundsite 1	2com 577|A600 577|nation -2|2com 577|4d6units 573	
+755	A sunken galley has been found	-2	A sunken galley has been found. It is surrounded by a dark, ominous aura. [Sunken Galley]	hiddensite 1|luck 1	revealsite 1	
+756	A sunken galley has been found	-2	A sunken galley has been found. It is surrounded by a dark, ominous aura. [Sunken Galley]	hiddensite 1|death 1	revealsite 1	
+757	A ship has sunk at the Reef! [	-1	A ship has sunk at the Reef! [Reef of Sunken Ships]	foundsite 1	gold 300	
+758	A ship has sunk at the Reef. I	-1	A ship has sunk at the Reef. Its rich cargo was salvaged. [Reef of Sunken Ships]	foundsite 1|luck 1	gold 500	
+759	A ship has sunk at the Reef! [	-1	A ship has sunk at the Reef! [Reef of Sunken Ships]	foundsite 1	2d6vis -1|gold 50	
+760	A ship has sunk at the Reef! [	-1	A ship has sunk at the Reef! [Reef of Sunken Ships]	foundsite 1|luck 1	3d6vis -1|gold 350	
+761	A ship has sunk at the Reef! I	-1	A ship has sunk at the Reef! It seems to have carried an important mage, who unfortunately drowned during the incident. [Reef of Sunken Ships]	foundsite 1	2d6vis -1|magicitem 2	
+762	A ship has sunk at the Reef! I	-2	A ship has sunk at the Reef! It carried an item of power. [Reef of Sunken Ships]	foundsite 1|luck 1	1d6vis S|magicitem 3	
+763	Some survivors from a shipwrec	-2	Some survivors from a shipwreck at the Reef of Sunken Ships have been coerced into service. [Reef of Sunken Ships]	nearbysite 1|coast 1|noera 1	nation -2|com 870|A300 871	
+764	Some survivors from a shipwrec	-2	Some survivors from a shipwreck at the Reef of Sunken Ships have been coerced into service. [Reef of Sunken Ships]	nearbysite 1|era 3|coast 1	nation -2|com 1030|com 1030	
+765	Some survivors from a shipwrec	-2	Some survivors from a shipwreck at the Reef of Sunken Ships have been coerced into service. [Reef of Sunken Ships]	nearbysite 1|coast 1|noera 1	nation -2|com 870|A300 871	
+766	Some survivors from a shipwrec	-2	Some survivors from a shipwreck have been coerced into service.	9600 25|coast 1|noera 1	nation -2|com 870|A300 871	
+767	Some survivors from a shipwrec	-2	Some survivors from a shipwreck have been coerced into service.	9600 10|era 3|coast 1|noera 1	nation -2|com 1030|com 1030	
+768	While exploring the Forgotten 	1	While exploring the Forgotten City, one of your servants was attacked by a Gelatinous Cube. [The Forgotten City]	foundsite 1|commander 1	2700 2|assassin 2159	
+769	While exploring a dungeon in t	2	While exploring a dungeon in the mountains, one of your servants was attacked by a Gelatinous Cube.	mountain 1|9600 50|commander 1	2700 2|assassin 2159	
+770	While exploring an underwater 	2	While exploring an underwater cave, one of your servants was attacked by a Gelatinous Cube. [Underwater Cave]	hiddensite 1|commander 1|luck 1	2700 2|assassin 2159|revealsite 1	
+771	While exploring a cave, one of	2	While exploring a cave, one of your servants was attacked by a Gelatinous Cube. [Caves in the Deep]	pop0ok 1|hiddensite 1|commander 1|luck 1	2700 2|assassin 2159|revealsite 1	
+772	Monsters have emerged from the	2	Monsters have emerged from the Caves in the Deep. [Caves in the Deep]	foundsite 1	2d6units 447|1d6units 522|2com 2135	
+773	Monsters have emerged from the	2	Monsters have emerged from the Caves in the Deep. [Caves in the Deep]	hiddensite 1|luck 1	2d6units 447|1d6units 522|2com 2135	
+774	The seafarers speak of a dread	-1	The seafarers speak of a dread isle. They say whoever sets their feet on its shores will die before sunset. [Isle of Death]	nearbysite 1|coast 1		
+775	The seafarers speak of a dista	-1	The seafarers speak of a distant island. They say whoever sets their feet on its shores will die before sunset. One old seafarer produced a few black pebbles, supposedly taken from the dread isle. [Isle of Death]	nearbysite 1|coast 1	1d6vis D	
+776	Formless spawn have slithered 	1	Formless spawn have slithered from the Arcane Gateway! [Arcane Gateway]	foundsite 1	2com 966|2d6units 966	
+777	Formless spawn have slithered 	1	Formless spawn have slithered from an Arcane Gateway located in the area. [Arcane Gateway]	hiddensite 1|luck 1	2com 966|2d6units 966|revealsite 1	
+778	A Deep Seer has appeared in se	-2	A Deep Seer has appeared in search of an Arcane Gateway he says may be located in the nearby sea. [Arcane Gateway]	nearbysite 1|magic 1|luck 1	nation -2|com 104	
+779	A knight has come to pray at t	-1	A knight has come to pray at the Temple in the deeps. [Ancient Temple of the Deeps]	foundsite 1	nation -2|com 1059	
+780	A priest has come to serve at 	-1	A priest has come to serve at the Temple in the deeps. [Ancient Temple of the Deeps]	foundsite 1	nation -2|com 676	
+781	Knights have come to serve at 	-2	Knights have come to serve at the Ancient Temple. [Ancient Temple of the Deeps]	foundsite 1	nation -2|com 1059|2d6units 1069	
+782	A knight has appeared. He ques	-1	A knight has appeared. He quests for an ancient temple supposedly located in these parts of the sea. [Ancient Temple of the Deeps]	nearbysite 1|land 0	nation -2|com 1059	
+783	A priest has appeared. He sear	-1	A priest has appeared. He searches for an ancient temple supposedly located in these parts of the sea. [Ancient Temple of the Deeps]	nearbysite 1|land 0	nation -2|com 576	
+784	The sea has become unnaturally	-1	The sea has become unnaturally warm, perhaps due to some unknown magical phenomena. [Magma River]	pop0ok 1|hiddensite 1	decscale2 Cold	
+785	The sea has become unnaturally	2	The sea has become unnaturally warm, perhaps due to some unknown magical phenomena.	pop0ok 1|land 0|9600 1	decscale2 Cold	
+786	The sea has become unnaturally	-1	The sea has become unnaturally warm, perhaps due to some unknown magical phenomena. [Thermal Vent]	hiddensite 1	decscale2 Cold	
+787	The Kraken has stirred! [Krake	2	The Kraken has stirred! [Kraken Pit]	hiddensite 1	com 438|revealsite 1	
+788	There are unusual amounts of k	1	There are unusual amounts of kraken in the area. [Kraken Pit]	hiddensite 1|turn 15	2com 438|1d6units 438	
+789	There are unusual amounts of k	2	There are unusual amounts of kraken in the area.	land 0|turn 5	2com 438|1d6units 438	
+790	The sea has become unnaturally	-1	The sea has become unnaturally cold, perhaps due to some unknown magical phenomena. [Cold Currents]	hiddensite 1	incscale3 Cold	
+791	The sea has become unnaturally	2	The sea has become unnaturally cold, perhaps due to some unknown magical phenomena.	land 0	incscale3 Cold	
+792	Superstition flourishes among 	-1	Superstition flourishes among the commoners. They say the sea has begun to whisper with the voices of the drowned. [Whispering Waters]	hiddensite 1	unrest 10	
+793	Superstition flourishes among 	2	Superstition flourishes among the commoners. They say the sea has begun to whisper with the voices of the drowned.	land 0|9600 1	unrest 10	
+794	The sea darkens. Travelers hav	1	The sea darkens. Travelers have been lost. In the deep, shadows stir. [The Sea of Dead Memories]	hiddensite 1	incscale Death|unrest 3	
+795	Legend says an armada was once	-1	Legend says an armada was once lost in a great storm hereabouts. Some ancient cargo has been found, once more inciting the local tale-spinners. [The Sea of Dead Memories]	hiddensite 1	gold 100|decscale Drain	
+796	Legend says an armada was once	-1	Legend says an armada was once lost in a great storm hereabouts. Some ancient cargo has been found, once more inciting the local tale-spinners. [The Sea of Dead Memories]	nearbysite 1|land 0|9600 20	gold 100|decscale Drain	
+797	An army of shadows has come to	2	An army of shadows has come to drive the living from the sea. [The Sea of Dead Memories]	foundsite 1|9600 50	4com 676|A600 676	
+798	One of your blood mages has bo	-2	One of your blood mages has bound an imp.	pathblood 1|magic 1|land 1	nation -2|com 303	
+799	The mere presence of an Anoint	-1	The mere presence of an Anointed has stirred a volcano! [Volcano]	monster 1536|freesites 1|land 1	newsite -1|kill 3|decscale Cold	
+800	Some Magma Children have come 	-1	Some Magma Children have come from the Volcano. They follow the Anointed of Rhuax. [Volcano]	foundsite 1|monster 1536	nation -2|1d6units 640	
+801	An Anathemant has entered the 	-2	An Anathemant has entered the Volcano. He returned reborn, formed anew by the fires of the earth, to spread the holy word as an anointed of Rhuax! [Volcano]	site 1|monster 86	transform 1536|pathboost 0	
+802	An Anathemant Salamander has b	-2	An Anathemant Salamander has been infused by the power of the volcano! [Volcano]	site 1|monster 85	fireboost 86	
+803	One of your warlocks has stole	2	One of your warlocks has stolen blood slaves for experimentation. Unfortunately he was unsuccessful and a demon was released.	gem 8|land 1|monster 1538|commander 1	2700 6|assassin 304	
+804	One of your warlocks has stole	2	One of your warlocks has stolen blood slaves for experimentation. Unfortunately he was unsuccessful and a demon was released.	gem 8|land 1|monster 89|commander 1538	2700 6|assassin 304	
+805	Factions among the nobles cons	2	Factions among the nobles constantly vie for power. Conflict has flared recently, leading to a series of assassination attempts.	fornation 104|turn 15|capital 1|chaos -1|commander 1	assassin 1967|assassin 1967|unrest 15	
+806	The demonbred are malcontent.	1	The demonbred are malcontent.	fornation 16|capital 1	unrest 15	
+807	The demonbred are malcontent.	1	The demonbred are malcontent.	fornation 63|capital 1	unrest 15	
+808	The warbred are malcontent.	1	The warbred are malcontent.	fornation 104|capital 1	unrest 15	
+809	Misbred outcasts are trying to	2	Misbred outcasts are trying to take control of the province!	fornation 16|land 1|minunrest 10|turn 15	2com 1661|4d6units 1661	
+810	A demonbred outcast has come b	2	A demonbred outcast has come back to seek vengeance!	fornation 16|land 1|minunrest 10|turn 15|commander 1	assassin 1537	
+811	A leader has emerged among the	-2	A leader has emerged among the Misbred.	fornation 16|capital 1	nation -2|com 1661	
+812	A misbred has gone mad, attack	1	A misbred has gone mad, attacking anyone in his path.	fornation 16|capital 1|9600 50|turn 15|commander 1	2700 2|assassin 1661	
+813	One of the warbred has gone ma	1	One of the warbred has gone mad, attacking anyone in his path.	fornation 104|capital 1|9600 50|turn 15|commander 1	2700 2|assassin 1972	
+814	Factions among the nobles cons	2	Factions among the nobles constantly vie for power. Conflict has flared recently, leading to a series of assassination attempts.	fornation 63|turn 15|capital 1|chaos -1|commander 1	assassin 429|assassin 429|unrest 15	
+815	The Smouldercone burns ferocio	-1	The Smouldercone burns ferociously this season!	fornation 16|fornation 16|fornation 16|capital 1|season 1	3d6vis F|decscale2 Cold	
+816	Virgins have been donated to t	-1	Virgins have been donated to the Temple Sanguine.	fornation 104|capital 1	3d6vis B	
+817	Your faithful servants have ga	-2	Your faithful servants have gathered dragon scales and fashioned them into a suit of armor. [Red Dragon Scale Mail]	monster 216|lab 1	magicitem 9	
+818	Your faithful servants have ga	-2	Your faithful servants have gathered dragon scales and fashioned them into a suit of armor. [Blue Dragon Scale Mail]	monster 265|lab 1	magicitem 9	
+819	Your faithful servants have ga	-2	Your faithful servants have gathered dragon scales and fashioned them into a suit of armor. [Green Dragon Scale Mail]	monster 266|lab 1	magicitem 9	
+820	One of your Warlocks has bound	-2	One of your Warlocks has bound an imp. [Imp Familiar]	monster 1538	magicitem 9	
+821	There is a distortion in the f	-2	There is a distortion in the fabric of reality! [Distortion]	magic 3|chaos 2|luck 2|freesites 1	newsite -1	
+822	An Ancient Master offers his w	-2	An Ancient Master offers his wisdom to those deemed suitable. [The Ancient Master]	order 2|luck 2|freesites 1|land 1	newsite -1	
+823	A meteorite has fallen! [Huge 	-2	A meteorite has fallen! [Huge Crater]	pop0ok 1|luck 2|9600 15|freesites 1|land 1|cave 0	newsite -1|kill 5	
+824	A village in the area has been	-2	A village in the area has been deserted. Locals say evil spirits now reside there. [Haunted Village]	death 2|9600 15|freesites 1|land 1	newsite -1|emigration 2	
+825	An ancient witch has been stak	-2	An ancient witch has been staked in the bog. [Witches Bog]	chaos 2|9600 15|luck 2|freesites 1|swamp 1	newsite -1|decscale2 Drain	
+826	An evil sorcerer has polluted 	-2	An evil sorcerer has polluted the land with his unhealthy experiments. [Plaguewater Stream]	death 1|magic 2|9600 15|freesites 1|land 1	newsite -1|kill 15|incscale3 Death	
+827	The fecund power of your domin	-2	The fecund power of your dominion has manifested in animals and peasants. [Farm of Plenty]	growth 3|9600 10|dominion 6|freesites 1|land 1	newsite -1|decscale Death	
+828	An animist has taken up reside	-2	An animist has taken up residence in the verdant woods. [Animist's Hut]	growth 3|9600 40|season 1|freesites 1|forest 1	newsite -1	
+829	Dancing Satyrs were seen in th	-1	Dancing Satyrs were seen in the Wild Forest. The following morning, dew had crystallized into magical gems. [Wild Forest]	foundsite 1|noseason 3	decscale2 Death|decscale Drain|incscale2 Turmoil|2d6vis N	
+830	Brigands are taking advantage 	2	Brigands are taking advantage of the lawlessness of these lands and have come to stay. [Brigand Lair] 	chaos 2|9600 50|freesites 1|land 1	newsite -1	
+831	A Damned Merchant is offering 	-2	A Damned Merchant is offering her services. [Damned Merchant]	land 1|9600 5|freesites 1|unique 3	newsite -1	
+832	A convent has been founded. [C	-2	A convent has been founded. [Convent]	9600 15|order 3|freesites 1|land 1	newsite -1	
+833	The Men'o'War have begun breed	-2	The Men'o'War have begun breeding here. [Man'o'War Breeding Ground]	9600 15|growth 2|freesites 1|land 0	newsite -1	
+834	A galley has sunken. It seems 	-2	A galley has sunken. It seems to have contained some passenger or cargo of mysterious origin. [Sunken Galley]	9600 15|luck 1|freesites 1|land 0	newsite -1	
+835	A rift has opened, spewing fir	-2	A rift has opened, spewing fire into the deeps! [Fire Rift]	pop0ok 1|9600 10|heat 1|freesites 1|land 0	newsite -1	
+836	The crust of the Earth has ope	-2	The crust of the Earth has opened, spewing forth a River of Magma! [Magma River]	pop0ok 1|9600 10|heat 1|freesites 1	newsite -1	
+837	There is a distortion in the f	-2	There is a distortion in the fabric of reality! [Distortion]	magic 3|chaos 2|luck 3|freesites 1|unique 1	newsite -1	
+838	An Ancient Master offers his w	-2	An Ancient Master offers his wisdom to those deemed suitable. [The Ancient Master]	order 2|luck 3|freesites 1|land 1	newsite -1	
+839	A meteorite has fallen! [Huge 	-2	A meteorite has fallen! [Huge Crater]	pop0ok 1|luck 3|9600 50|freesites 1|land 1|unique 4|cave 0	newsite -1|kill 5	
+840	A village in the area has been	-2	A village in the area has been deserted. Locals say evil spirits now reside there. [Haunted Village]	luck 3|death 2|unique 4|freesites 1|land 1	newsite -1|emigration 2	
+841	An evil sorcerer has polluted 	-2	An evil sorcerer has polluted the land with his unhealthy experiments. [Plaguewater Stream]	luck 2|death 1|magic 2|unique 3|freesites 1|land 1	newsite -1|kill 15|incscale3 Death	
+842	An animist has taken up reside	-2	An animist has taken up residence in the verdant woods. [Animist's Hut]	luck 2|growth 3|unique 3|season 1|freesites 1|forest 1	newsite -1	
+843	A Damned Merchant is offering 	-2	A Damned Merchant is offering her services. [Damned Merchant]	luck 3|unique 3|freesites 1|land 1	newsite -1	
+844	A convent has been founded. [C	-1	A convent has been founded. [Convent]	9600 35|order 3|freesites 1|land 1|dominion 9|unique 2	newsite -1	
+845	The Men'o'War have begun breed	-2	The Men'o'War have begun breeding here. [Man'o'War Breeding Ground]	luck 2|unique 4|growth 2|freesites 1|land 0	newsite -1	
+846	A galley has sunken. It seems 	-2	A galley has sunken. It seems to have contained some passenger or cargo of mysterious origin. [Sunken Galley]	unique 5|luck 3|freesites 1|land 0	newsite -1	
+847	A rift has opened, spewing fir	-2	A rift has opened, spewing fire into the deeps! [Fire Rift]	luck 2|pop0ok 1|unique 3|heat 1|freesites 1|land 0	newsite -1	
+848	The crust of the Earth has ope	-2	The crust of the Earth has opened, spewing forth a River of Magma! [Magma River]	luck 2|pop0ok 1|unique 2|heat 1|freesites 1	newsite -1	
+849	A Slave Market has opened. [Sl	-2	A Slave Market has opened. [Slave Market]	luck 2|chaos 2|unique 5|freesites 1|land 1	newsite -1	
+850	An enchanted wellspring has be	-2	An enchanted wellspring has been found. [Well of White Water]	luck 2|magic 0|unique 3|freesites 1|land 1	newsite -1	
+851	Thunderstorms have been raging	-2	Thunderstorms have been raging. An ancient oak was split by lightning. Sap seeping from the wound crystallizes into magical gems. [Skysplit Oak]	luck 2|unique 3|freesites 1|land 1|cave 0	newsite -1	
+852	An enchanted wellspring has be	-2	An enchanted wellspring has been found. Miracles have been performed with its healing powers and this has been attributed to your merciful presence.[Wellspring of the Virgins]	unique 3|freesites 1|land 1|growth 1|dominion 7	newsite -1	
+853	The power of Rhuax has manifes	-2	The power of Rhuax has manifested! A pit of magma has formed. [Magma Pit]	9600 20|fornation 16|fornation 16|fornation 16|dominion 3|freesites 1|land 1	newsite -1	
+854	The power of Rhuax has manifes	-2	The power of Rhuax has manifested, stirring a dormant Volcano! [Volcano]	9600 20|fornation 16|fornation 16|fornation 16|dominion 3|freesites 1|mountain 1	newsite -1|kill 10	
+855	The crust of the Earth has ope	-2	The crust of the Earth has opened, spewing forth a River of Magma! [Magma River]	9600 20|fornation 16|fornation 16|fornation 16|dominion 3|freesites 1|land 0	newsite -1	
+856	A Dwarf has found veins of sil	-2	A Dwarf has found veins of silver in the rock! [Silver Deposit]	9600 20|monster 323|luck 1|freesites 1|mountain 1	newsite -1	
+857	The Dwarven Elder has found ve	-2	The Dwarven Elder has found veins of silver in the rock! [Silver Deposit]	9600 30|monster 324|luck 1|freesites 1|mountain 1	newsite -1	
+858	A Dwarf has found veins of cop	-2	A Dwarf has found veins of copper in the rock! [Copper Deposit]	9600 30|monster 324|luck 1|freesites 1|mountain 1	newsite -1	
+859	The Dwarven Elder has found ve	-2	The Dwarven Elder has found veins of copper in the rock! [Copper Deposit]	9600 30|monster 324|luck 1|freesites 1|mountain 1	newsite -1	
+860	Iron ore has been found by the	-2	Iron ore has been found by the dwarves. [Iron Deposit]	9600 30|monster 324|luck 1|freesites 1|mountain 1	newsite -1	
+861	Iron ore has been found by the	-2	Iron ore has been found by the Dwarven Elder. [Iron Deposit]	9600 30|monster 324|luck 1|freesites 1|mountain 1	newsite -1	
+862	The Anointed has found a Holy 	-2	The Anointed has found a Holy Cavern of Magma. [Cavern of Magma]	9600 30|monster 1536|temple 0|freesites 1|mountain 1	newsite -1	
+863	They came from the desert! [De	2	They came from the desert! [Desert]	foundsite 1|unluck 1	4com 2225|A600 2225	
+864	Some Large Scorpions have been	-1	Some Large Scorpions have been caught in the desert. They have been reasonably tamed and are now ready to be used against the enemy. [Desert]	foundsite 1	nation -2|A300 2232	
+865	A farmer and his goats have ap	-2	A farmer and his goats have appeared at the gates.	noseason 3|land 1|minpop 10|fort 1	nation -2|com 1565|A300 2227	
+866	Your Beast Trainer has managed	-1	Your Beast Trainer has managed to tame more salamanders than expected.	monster 214|capital 1	nation -2|1d6units 213	
+867	Your Beast Trainer has managed	-1	Your Beast Trainer has managed to tame more salamanders than expected.	monster 214|capital 1|luck 1	nation -2|2d6units 213	
+868	One of your warlocks has faile	2	One of your warlocks has failed an experiment. An insane Misbred now runs amok!	9600 50|lab 1|monster 1538|turn 15|commander 1|land 1	assassin 1661	
+869	One of your warlocks has faile	2	One of your warlocks has failed an experiment. A portal to Hell was opened, and uncontrolled demons have surged through.	9600 10|lab 1|monster 89|turn 15|commander 1|land 1	2com 433|addequip 2|A300 433|2d6units 526|decscale Drain	
+870	A leader has emerged among the	-2	A leader has emerged among the Lava Warriors.	monster 90|land 1	nation -2|com 90	
+871	A leader has emerged among the	-2	A leader has emerged among the Guardians of the Pyre.	monster 990|land 1	nation -2|com 990	
+872	While praying at the Temple of	-2	While praying at the Temple of All-Consuming Fire, a priest of ##godname## had a vision. In it, he saw a Fountain of Fire spouting its flame towards the sky in praise of the True God. [Fountain of Fire]	9600 20|hiddensite 1|dominion 3|fornation 63	revealsite 1|incdom 1	
+873	A priest of ##godname## has pr	-2	A priest of ##godname## has prayed for days at the Temple of All-Consuming Fire. At last he fell asleep during his prayer. When he awoke, a Sceptre of Authority had materialized on the altar stone. [Sceptre of Authority]	9600 50|magic 1|capital 1|fornation 63	magicitem 9	
+874	While praying at the Temple of	-2	While praying at the Temple of Temple of the Ever Burning Pyre, a priest of ##godname## had a vision. In it, he saw a Fountain of Fire spouting its flame towards the sky in praise of the True God. [Fountain of Fire]	9600 20|hiddensite 1|dominion 3|fornation 104	revealsite 1|incdom 1	
+875	A priest of ##godname## has pr	-2	A priest of ##godname## has prayed for days at the Temple of the Ever Burning Pyre. At last he fell asleep during his prayer. When he awoke, a Sceptre of Authority had materialized on the altar stone. [Sceptre of Authority]	9600 50|magic 1|capital 1|fornation 104	magicitem 9	
+876	While praying at the Temple of	-2	While praying at the Temple of All-Consuming Fire, one of the priests of ##godname## had a vision. In it, he saw a Fountain of Fire spouting its flame towards the sky in praise of the True God. [Fountain of Fire]	9600 20|hiddensite 1|dominion 3|fornation 63	revealsite 1|incdom 1	
+877	A priest of ##godname## has pr	-2	A priest of ##godname## has prayed for days at the Temple of All-Consuming Fire. At last he fell asleep during his prayer. When he awoke, a Sceptre of Authority had materialized on the altar stone. [Sceptre of Authority]	9600 50|magic 1|capital 1|fornation 63	magicitem 9	
+878	Crab Hybrids have gathered. Th	-2	Crab Hybrids have gathered. They seem fascinated with the Basalt Pillars that stand in the deeps. [Basalt Pillars]	foundsite 1	nation -2|2d6units 243	
+879	Lobsters flock to the Glowing 	-2	Lobsters flock to the Glowing Kelp Forest. [Glowing Kelp Forest]	foundsite 1|growth 1	nation -2|A300 210	
+880	Wolves gather in the Frozen La	-1	Wolves gather in the Frozen Lands. Some have been tamed. [Frozen Lands]	foundsite 1|growth 0	nation -2|A300 284	
+881	Wolves gather in the Frozen La	1	Wolves gather in the Frozen Lands. A large pack has been attacking the inhabitants and the garrison commander has decided to take action. [Frozen Lands]	foundsite 1	4com 1224|AB00 284	
+882	Wolves gather in The Frozen Fo	-1	Wolves gather in The Frozen Forest. Some have been tamed. [The Frozen Forest]	foundsite 1|growth 0	nation -2|A300 284	
+883	Wolves gather in The Frozen Fo	1	Wolves gather in The Frozen Forest. A large pack has been attacking the inhabitants and the garrison commander has decided to take action. [The Frozen Forest]	foundsite 1	4com 1224|AB00 284	
+884	While traveling the forests, y	-1	While traveling the forests, your Ranger Captain was followed by a large wolf. After a few days, it joined his camp.	cold 1|monster 1018|forest 1	nation -2|9B00 1224	
+885	While traveling the mountains,	-1	While traveling the mountains, your Ranger Captain was followed by a large wolf. After a few days, it joined his camp.	cold 1|monster 1018|mountain 1	nation -2|9B00 1224	
+886	While traveling the forests, y	-1	While traveling the forests, your Gode was followed by a large wolf. After a few days, it joined his camp.	cold 1|monster 2140|forest 1	nation -2|9B00 1309	
+887	While traveling the mountains,	-1	While traveling the mountains, your Gode was followed by a large wolf. After a few days, it joined his camp.	cold 1|monster 2140|mountain 1	nation -2|9B00 1309	
+888	The oldest cannot remember a w	-2	The oldest cannot remember a winter this cold. Will it ever end? [Frozen Lands]	season 3|land 1|cold 0|freesites 1|9600 50|site 0	newsite -1	
+889	The Ice Druids have worked the	-1	The Ice Druids have worked their magic during winter solstice, covering the land in never-ending frost. [Frozen Lands]	monster 309|season 3|cold 1|freesites 1|mountain 1|site 0	newsite -1	
+890	Magic seems to be at work in t	1	Magic seems to be at work in the Frozen Lands. [Frozen Lands]	site 1	decscale2 Drain|decscale2 Drain	
+891	Ancient warriors have emerged 	1	Ancient warriors have emerged from the thawing ice! [Frozen Lands]	site 1|turn 15|heat -2|noseason 3|magic 1	com 1200|addequip 1|com 1200|2d6units 1202|A300 1203	
+892	Magic seems to be at work here	-1	Magic seems to be at work here. Cold winds howl in spite of the season. [Frost Vale]	hiddensite 1|noseason 3	incscale2 Cold	
+893	Magic seems to be at work here	-1	Magic seems to be at work here. Strange fires have been seen arching towards the sky on some occasions. [The Citadel of Pyriphlegeton]	hiddensite 1	decscale2 Cold|decscale Drain	
+894	Dark magic seems to be at work	-1	Dark magic seems to be at work here. Some whisper of a secret cabal of sorcerers residing in the province. [Black Tower]	pop0ok 1|hiddensite 1	incscale2 Death|decscale Drain	
+895	Dark magic seems to be at work	2	Dark magic seems to be at work here.	land 1|9600 1|unique 2|unluck -1	incscale2 Death|decscale2 Drain	
+896	Dark magic seems to be at work	-1	Dark magic seems to be at work here. [Skull Temple]	hiddensite 1	incscale2 Death|decscale Drain	
+897	Dark magic seems to be at work	-1	Dark magic seems to be at work here. [Crown of Darkness]	hiddensite 1	incscale2 Death|decscale Drain	
+898	A madman claims he has found t	-1	A madman claims he has found the Forgotten City. He rambles, but was willing to join our cause. [The City of the Damned]	nearbysite 1|9600 50|land 1	nation -2|com 962	
+899	A madman claims he has found t	-2	A madman claims he has found the Forgotten City. He rambles, but was willing to join our cause.	land 1|9600 1|unluck 1	nation -2|com 962	
+900	A powerful wizard was hung at 	-2	A powerful wizard was hung at the local gallows. Below his dangling feet, magical gems have formed. [Gallows]	land 1|freesites 1|magic 1|9600 60	newsite -1	
+901	An Anathemant Dragon has been 	-2	An Anathemant Dragon has been infused by the power of the volcano! [Volcano]	site 1|monster 1699	fireboost 1699	
+902	An Anathemant Dragon has been 	-2	An Anathemant Dragon has been infused by the power of the volcano! [Volcano]	site 1|monster 86	fireboost 86	
+903	An Anointed of Rhuax has been 	-2	An Anointed of Rhuax has been infused by the power of the volcano! [Volcano]	site 1|monster 1536	fireboost 1536	
+904	An Anathemant Dragon has been 	-2	An Anathemant Dragon has been infused by the power of the volcano! [Volcano]	site 1|monster 1970	fireboost 1970	
+905	A faction within the abysian s	2	A faction within the abysian society is trying to take military control of the province!	fornation 63|chaos 1|turn 20|land 1	com 119|com 119|addequip 1|A300 81|2d6units 82	
+906	A faction within the abysian s	2	A faction within the abysian society is trying to take military control of the province!	fornation 16|chaos 1|turn 20|land 1	com 119|com 119|addequip 1|A300 81|2d6units 82	
+907	A faction within the abysian s	2	A faction within the abysian society is trying to take military control of the province!	fornation 104|chaos 1|turn 20|land 1	com 119|com 119|addequip 1|A300 984|2d6units 986	
+908	While praying at the Temple of	-2	While praying at the Temple of the Anointed, one of the priests of ##godname## had a vision. In it, he saw a Fountain of Fire spouting its flame towards the sky in praise of the True God, ##godname##. [Fountain of Fire]	9600 20|hiddensite 1|dominion 3|fornation 16	revealsite 1|incdom 1	
+909	A priest of ##godname## has pr	-2	A priest of ##godname## has prayed for days at the Temple of the Anointed. At last he fell asleep during his prayer. When he awoke, a Sceptre of Authority had materialized on the altar stone. [Sceptre of Authority]	9600 50|magic 1|capital 1|fornation 16	magicitem 9	
+910	The natives adhere to heathen 	-1	The natives adhere to heathen customs, gathering in the woods at midsummer. They are led by priests of the old Faith. If these holy men can be found, they might be swayed to serve your cause instead. [Woodhenge]	hiddensite 1|growth 1|season 1	decscale2 Death|incdom -1	
+911	Magic seems to be at work here	-1	Magic seems to be at work here. Chanting has been heard from the woods at full moon.[Woodhenge]	9600 50|hiddensite 1	decscale2 Death|decscale Drain	
+912	An evil enchantress has cursed	-2	An evil enchantress has cursed the forest. Leaves fall, branches wither and rot is spreading. [Dying Forest]	forest 1|freesites 1|magic 1|luck 0	newsite -1	
+913	A short fellow has come to stu	-1	A short fellow has come to study the magnificent flowers in the forest. [The Flowering Forest]	site 1|growth 1	nation -2|com 1198	
+914	Strangely, apes have been spot	-2	Strangely, apes have been spotted in the forest. [Forest of the Ape King]	hiddensite 1	unrest 1	
+915	A band of apes has attacked, t	2	A band of apes has attacked, trying to steal food. They seem to have come from the forest [Forest of the Ape King]	hiddensite 1|turn 15	4com 1705|6d6units 1705	
+916	A unicorn has been spotted dee	-1	A unicorn has been spotted deep in the forest. Some magical gems were found in its droppings.[The Vale of Unicorns]	hiddensite 1|magic 0	decscale3 Drain|2d6vis N	
+917	A unicorn has been spotted dee	-2	A unicorn has been spotted deep in the forest. Some magical gems were found in its droppings.	forest 1|magic 0|9600 1|unluck 1	decscale3 Drain|1d6vis N	
+918	A criminal leader has been cau	-1	A criminal leader has been caught and hanged.	minunrest 20|minpop 20|order 1	unrest -15	
+919	Local trouble-makers have been	-1	Local trouble-makers have been rooted out.	minunrest 20|minpop 20|order 1	unrest -15	
+920	Recent turmoil has been subdue	-1	Recent turmoil has been subdued by the competent garrison commander.	minunrest 20|minpop 20|mindef 12|order -1|land 1	unrest -30|decscale2 Turmoil|defence 10|nation -2|com 35	
+921	A subterranean mage has appear	-2	A subterranean mage has appeared, having sensed an Earth Blood seepage. He was persuaded to join the army. [Earth Blood Seepage]	era 1|nearbysite 1|land 1	nation -2|com 1460	
+922	A subterranean mage has appear	-2	A subterranean mage has appeared, having sensed an Earth Blood seepage. He was persuaded to join the army. [Earth Blood Seepage]	era 2|nearbysite 1|land 1	nation -2|com 1473	
+923	Your commander has befriended 	-2	Your commander has befriended a stray dog.	land 1|unluck 1	nation -2|9B00 1560	
+924	Foreign agents have infiltrate	2	Foreign agents have infiltrated the local garrison. They are now trying to take control of the province!	land 1|capital 0|mindef 10|maxtroops 20	defence -8|2com 1591|gainaff 0|2d6units 28|1d6units 38	
+925	Men have been lost in the swam	1	Men have been lost in the swamp.	swamp 1|monster 28	killmon 28|killmon 28|killmon 28|killmon 28|killmon 28	
+926	A tribe of strange men has beg	-2	A tribe of strange men has begun to worship you in the depths of the swamp.	era 3|swamp 1	incdom 2|nation -2|com 1614|A300 1613	
+927	A strange man searches for The	-2	A strange man searches for The Swamp of Dread. [The Swamp of Dread]	era 3|land 1|nearbysite 1	nation -2|com 1614	
+928	Someone has been attacked by a	2	Someone has been attacked by a mysterious black dog while traveling in the highlands.	era 3|mountain 1|commander 1	2700 2|assassin 1769	
+929	Someone has been attacked by a	2	Someone has been attacked by a mysterious black dog while traveling in the highlands.	era 3|mountain 1|magic 1|unluck 1|commander 1	2700 2|assassin 1768	
+930	A beautiful woman was seen in 	2	A beautiful woman was seen in the woods. When followed, she turned on her pursuer and attacked!	noera 1|forest 1|magic 0|commander 1	2700 2|assassin 1775	
+931	Monsters have come from the sw	2	Monsters have come from the swamp!	swamp 1|noseason 3	com 1831|1d6units 1841|com 1831	
+932	A monster boar is afoot in the	2	A monster boar is afoot in the woods. Its aggressive behavior is disturbing the locals. Some people have even been killed while foraging. Unless the boar is found and killed it will continue to spread unrest.	forest 1|minpop 10	stealthcom 1910	
+933	Brigands have taken the opport	1	Brigands have taken the opportunity to claim this poorly defended province.	land 1|minpop 10|maxdef 4|maxtroops 2|chaos 0	4com 482|2d6units 482	
+934	Fishermen have seen strange sh	2	Fishermen have seen strange shadows in the deep, hinting of unspeakable lifeforms. During the last month more and more people have gone mad, culminating in an attack on the local garrison. The mob is led by a gaunt man with bulging eyes.	1200 89|nation 89|maxdominion 2|minpop 10|turn 15|coast 1	nation 89|com 1519|addequip 1|A600 962|com 1519|8A00 89	
+935	An officer found a strange amu	2	An officer found a strange amulet among the pebbles on the shore. A few days later, madness spread like an epidemic among the local men-at-arms. [Amulet of the Fish]	1200 89|nation 89|maxdominion 2|minpop 10|turn 15|coast 1	defence -15|magicitem 9|8A00 89	
+936	A blind man has donated a curi	-2	A blind man has donated a curious item to the local temple. [Eyecatcher]	temple 1|unique 1	magicitem 9	
+937	An assassin was caught and whe	-2	An assassin was caught and when his vile heart was cut out it was found to be black. One of your mages noticed that it also emanated an aura of magic. [The Black Heart]	9600 1|researcher 1	magicitem 9	
+938	An Ancient One has appeared to	-1	An Ancient One has appeared to lead his people. [Cave of the Pale Ones]	foundsite 1|monster 1465	nation -2|com 1469	
+939	A leader has come to the Pale 	1	A leader has come to the Pale Ones, inciting them against your rule! [Cave of the Pale Ones] || A loyal leader has come to the Pale Ones living in this province, uniting them under their rightful God!	foundsite 1|1200 59|nation 59	nation 59|com 1470|com 1470|4d6units 1465|8A00 59	
+940	A foreign faith is gaining foo	1	A foreign faith is gaining foothold among the Pale Ones, and is spreading to the surrounding settlements. [Cave of the Pale Ones]	foundsite 1|1200 59|nation 59	nation 59|newdom 3	
+941	A herd of Iron Pigs has run am	1	A herd of Iron Pigs has run amok after a failed experiment at the Tower of the Iron Order. [Tower of the Iron Order]	foundsite 1|magic 0|9600 50	2com 924|A300 924	
+942	A wizard has appeared. He clai	-2	A wizard has appeared. He claims to be returning to his fellows at the Academy of High Magics. Unfortunately he seems to have suffered from some kind of mind-addling magic and he cannot remember where it is located. Probably in this or adjoining provinces. In the meantime, he has agreed to serve. [Academy of High Magics]	nearbysite 1|land 1	nation -2|com 312	
+943	A wizard has appeared. He clai	-2	A wizard has appeared. He claims to be returning to his fellows at the Academy of High Magics. Unfortunately he seems to have suffered from some kind of mind-addling magic and he cannot remember exactly where it is located. Probably in this or adjoining provinces. In the meantime, he has agreed to serve.	9600 1|land 1|unluck 1	nation -2|com 312	
+944	Magic seems to be at work here	-1	Magic seems to be at work here. Flowers have been sprouting in spite of the season. [Lost Vale of the Elders]	hiddensite 1|season 3	decscale Death|decscale Death	
+945	Magic seems to be at work here	-1	Magic seems to be at work here. Animals have been behaving strangely. [Animist's Tower]	hiddensite 1	decscale Death|decscale Death	
+946	Magic seems to be at work here	2	Magic seems to be at work here. Flowers have been sprouting in spite of the season.	9600 20|season 3|9600 20	decscale Death|decscale Death	
+947	Magic seems to be at work here	2	Magic seems to be at work here. Animals have been behaving strangely.	9600 1	decscale Death|decscale Death	
+948	A large group of trolls have a	1	A large group of trolls have appeared and are wreaking havoc in the province. [Troll Pit]	hiddensite 1|turn 10	com 518|A300 518	
+949	A large group of trolls have a	2	A large group of trolls have appeared and are wreaking havoc in the province.	land 1|9600 50|turn 15	com 518|A300 518	
+950	A tribe of agitated Troglodyte	1	A tribe of agitated Troglodytes have attacked the settlements. [Troglodyte Den]	hiddensite 1|turn 10	com 447|A300 447	
+951	A tribe of agitated Troglodyte	2	A tribe of agitated Troglodytes have attacked the settlements.	land 1|9600 50|turn 15	com 447|A300 447	
+952	There are rumors of an ancient	-2	There are rumors of an ancient, forgotten fortress hidden in the area. They say it was once a proud and glorious citadel from where a noble king ruled his people. Some say those times were better... [The Forgotten Fortress]	hiddensite 1	unrest 5	
+953	There are rumors of an ancient	2	There are rumors of an ancient, forgotten fortress hidden in the area. They say it was once a proud and glorious citadel from where a noble king ruled his people. Some say those times were better...	land 1|9600 1	unrest 5	
+954	A mystic is traveling to the C	-2	A mystic is traveling to the Castle Arcanum, which is supposedly located in the region. He has agreed to serve. [Castle Arcanum]	nearbysite 1|luck 1|land 1	nation -2|com 312	
+955	A mystic is traveling to the C	-2	A mystic is traveling to the Castle Arcanum, which is supposedly located in the region. He has agreed to serve.	land 1|9600 1	nation -2|com 312	
+956	Some golden leaves have been f	-2	Some golden leaves have been found. Among them, like acorns, lay some magical gems. A skilled mage might be able to find more. [Forest of Golden Leaves]	hiddensite 1	1d6vis E	
+957	Some golden leaves have been f	-2	Some golden leaves have been found. Among them, like acorns, lay some magical gems.	forest 1|9600 1	1d6vis E	
+958	A renegade sorcerer has pronou	2	A renegade sorcerer has pronounced himself King of the desert. To back his claim, he has brought some of its inhabitants... [Desert]	site 1|9600 20	com 2245|addequip 1|1d6units 2233|com 2245|A300 2232	
+959	The Sorcerers of the Sands hav	-1	The Sorcerers of the Sands have worked their magic. [Desert]	monster 2245|heat 1|freesites 1|waste 1	newsite -1	
+960	A multitude of scorpions has e	2	A multitude of scorpions has emerged from the desert! [Desert]	site 1|9600 20	4com 2233|10d6units 2232	
+961	One of your commanders may hav	1	One of your commanders may have been stung by a scorpion. [Desert]	site 1|commander 0	assassin 2232|nation 0	
+962	Scorpions are flocking to the 	-1	Scorpions are flocking to the Sorcerer of the Sands. [Desert]	site 1|monster 2245	nation -2|2d6units 2232|1d6units 2233	
+963	A Sorcerer of the Sands has ma	-2	A Sorcerer of the Sands has managed to bind some Scorpion Beasts. [Desert]	site 1|monster 2245	nation -2|9C00 524	
+964	Your Desert Ranger has observe	-1	Your Desert Ranger has observed a group of mages traveling through the waste. Their tracks were hidden by an unexpected sand storm. The Ranger thinks a covenant may be located somewhere in the area. Someone skilled in the appropriate path of magic may be able to find out more. [The Mosaic Desert]	monster 1094|hiddensite 1	decscale Drain	
+965	A wizard has been drowned by a	-1	A wizard has been drowned by an angry mob. His laboratory can perhaps be found by someone skilled in astral magic. [Abandoned Laboratory]	hiddensite 1|minpop 10|chaos 0|land 1		
+966	An item has been found in the 	-1	An item has been found in the ground at the old battlefield. [Battlefield]	foundsite 1	magicitem 1	
+967	An item has been found in the 	-1	An item has been found in the ground at the old battlefield. [Battlefield]	foundsite 1|luck 2	magicitem 3	
+968	An army of undead has risen fr	2	An army of undead has risen from an old battlefield. They go to war against the living. [Battlefield]	hiddensite 1|turn 15	revealsite 1|com 533|6d6units 618|AB00 619|2com 299	
+969	An army of undead has risen fr	2	An army of undead has risen from the old battlefield. They go to war against the living. [Battlefield]	foundsite 1|turn 15	com 533|addequip 3|6d6units 618|AB00 619|2com 299	
+970	Magical gems have been found a	-1	Magical gems have been found at the old battlefield. [Battlefield]	pop0ok 1|foundsite 1	2d6vis D	
+971	An abundance of magical gems h	-1	An abundance of magical gems have been found at the old battlefield. [Battlefield]	pop0ok 1|foundsite 1|luck 3	4d6vis D	
+972	A horror has been drawn to the	1	A horror has been drawn to the Palace of Dreams! [Palace of Dreams]	foundsite 1|commander 1|9600 20	assassin 1911	
+973	Several of the dreamers at The	1	Several of the dreamers at The Palace have gone mad, babbling of an evil presence appearing in their dreams, transforming their sleep into endless torture. They now try to stay awake at all cost. Lately, people in the surrounding area have begun showing similar symptoms. Something unspeakable seems to lurk in the borderlands between wakefulness and sleep...[Palace of Dreams]	foundsite 1|turn 15|unique 1	stealthcom 1911	
+974	The Master Alchemist has creat	0	The Master Alchemist has created some magical beings.	monster 550|magic 1|lab 1|9600 3|land 1	nation -2|1d6units 1983	
+975	The Master Alchemist has creat	0	The Master Alchemist has created some magical beings.	monster 550|magic 1|lab 1|9600 3|land 1	nation -2|1d6units 2159	
+976	A mage fleeing from a mob of e	-2	A mage fleeing from a mob of enraged peasants has sought sanctuary in your temple and offered his services in return for protection.	land 1|temple 1|magic 1|chaos 3|minpop 10	nation -2|com 302	
+977	A mage fleeing from a mob of e	-2	A mage fleeing from a mob of enraged peasants has sought sanctuary in your temple and offered his services in return for protection.	land 1|temple 1|magic 1|heat 1|minpop 10	nation -2|com 98	
+978	A mage fleeing from a mob of e	-2	A mage fleeing from a mob of enraged peasants has sought sanctuary in your temple and offered his services in return for protection.	land 0|temple 1|magic 1|chaos 1|minpop 10	nation -2|com 96	
+979	A mage fleeing from a mob of e	-2	A mage fleeing from a mob of enraged peasants has sought sanctuary in your temple and offered his services in return for protection.	land 1|temple 1|magic 1|chaos 1|minpop 10	nation -2|com 94	
+980	A mage fleeing from a mob of e	-2	A mage fleeing from a mob of enraged peasants has sought sanctuary in your temple and offered his services in return for protection.	land 0|temple 1|magic 1|luck 3|minpop 10	nation -2|com 97	
+981	A conjurer of dark arts has be	-2	A conjurer of dark arts has been revealed. Fleeing from a mob of enraged peasants he sought sanctuary in your temple and has offered his services in return for protection.	land 1|temple 1|magic 1|luck 3|minpop 10	nation -2|com 95|unrest 10	
+982	An adventurer has returned fro	-2	An adventurer has returned from the Dragon Jaws. Within, he found an object of power. [Dragon Jaws]	foundsite 1	nation -2|com -13|addequip 2	
+983	An adventurer has returned fro	-2	An adventurer has returned from the Dragon Jaws. Within, he found an object of power. [Dragon Jaws]	foundsite 1|luck 2	nation -2|com -13|addequip 3	
+984	An adventurer has returned fro	-2	An adventurer has returned from the Dragon Jaws. Within, he found an object of power. [Dragon Jaws]	foundsite 1|luck 3	nation -2|com -13|addequip 4	
+985	An adventurer Quests for the P	-2	An adventurer Quests for the Pool of Sanctity. Rumors of its whereabouts have brought him here. [Pool of Sanctity]	hiddensite 1	nation -2|com 2330	
+986	A group of adventurers have in	2	A group of adventurers have investigated The Endless Caverns. Frustrated by the lack of treasures in this vast dungeon, they acted erratically and attacked the local garrison. [Endless Caverns]	foundsite 1|chaos 1|maxdef 20	com 2324|com 2324|com 2324|addequip 1|com 2324	
+987	An adventurer has appeared in 	-2	An adventurer has appeared in search for the Rageflame Tower, claiming it is located here or perhaps in a nearby land. [Rageflame Tower]	nearbysite 1|land 1|luck 1|9600 30	nation -2|com 2329	
+988	An adventurer has appeared. He	-2	An adventurer has appeared. He searches for a place known only from legend, called The Fire Prison. It is supposedly located here or in an adjoining province. [The Fire Prison]	nearbysite 1|land 1|luck 1|9600 30	nation -2|com 2329	
+989	A man has stumbled from the Ma	-2	A man has stumbled from the Maze. His memory seems lost but judging from his clothes he was once a rich man. [Maze]	foundsite 1|luck 1	nation -2|com 2325	
+990	A man has stumbled from the Ma	-2	A man has stumbled from the Maze. His memory seems lost but judging from his clothes he was once a rich man. [Maze]	foundsite 1|luck 1	nation -2|com 2323	
+991	A woman has stumbled from the 	-2	A woman has stumbled from the Maze. Her memory seems lost but she has agreed to join your cause. [Maze]	foundsite 1|luck 1	nation -2|com 2332	
+992	A man has stumbled from The La	-2	A man has stumbled from The Labyrinth. His memory seems lost but judging from his clothes he was once a rich man. [The Labyrinth]	foundsite 1|luck 1	nation -2|com 2325	
+993	A man has stumbled from The La	-2	A man has stumbled from The Labyrinth. His memory seems lost but judging from his clothes he was once a rich man. [The Labyrinth]	foundsite 1|luck 1	nation -2|com 2323	
+994	A woman has stumbled from The 	-2	A woman has stumbled from The Labyrinth. Her memory seems lost. [The Labyrinth]	foundsite 1|luck 1	nation -2|com 2332	
+995	A man has stumbled from The La	-2	A man has stumbled from The Labyrinth. His memory seems lost. [The Labyrinth]	foundsite 1|luck 1	nation -2|com 2326	
+996	A man has stumbled from The La	-2	A man has stumbled from The Labyrinth. His memory seems lost. [The Labyrinth]	foundsite 1|luck 1|magic 0	nation -2|com 2329	
+997	A man has come from the Caves 	-2	A man has come from the Caves of Passing Time. His clothes are of ancient fashion and he seems bewildered by his surroundings. [Caves of Passing Time]	foundsite 1|luck 1|era 3	nation -2|com 2324	
+998	A warrior has come to learn th	-2	A warrior has come to learn the martial secrets of the Ancient Master. [The Ancient Master]	foundsite 1	nation -2|com 2323	
+999	A warrior has come to learn th	-2	A warrior has come to learn the martial secrets of the Ancient Master. [The Ancient Master]	foundsite 1	nation -2|com 2324	

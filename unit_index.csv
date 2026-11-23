@@ -1,0 +1,4092 @@
+id,name,source_file,line_number
+3336,'Adite Archer,BaseU_part_009.csv,92
+3335,'Adite Elite Soldier,BaseU_part_009.csv,91
+3337,'Adite General,BaseU_part_009.csv,93
+3355,'Adite Light Infantry,BaseU_part_009.csv,111
+3543,* Behemoth,BaseU_part_009.csv,299
+3629,Aatxe,BaseU_part_009.csv,385
+2012,Abba,BaseU_part_005.csv,379
+2250,Abbess,BaseU_part_006.csv,217
+3285,Abbot Magus,BaseU_part_009.csv,41
+3286,Abbot Magus Supreme,BaseU_part_009.csv,42
+3284,Abbot Sage,BaseU_part_009.csv,40
+1382,Abductor,BaseU_part_004.csv,155
+2883,Abodai,BaseU_part_008.csv,39
+660,Aboleth,BaseU_part_002.csv,241
+1520,Aboleth,BaseU_part_004.csv,293
+521,Abomination,BaseU_part_002.csv,114
+1913,Abomination of Desolation,BaseU_part_005.csv,280
+1090,Abysian Axe Thrower,BaseU_part_003.csv,265
+992,Abysian Commander,BaseU_part_003.csv,167
+986,Abysian Heavy Infantry,BaseU_part_003.csv,161
+987,Abysian Heavy Infantry,BaseU_part_003.csv,162
+988,Abysian Heavy Infantry,BaseU_part_003.csv,163
+989,Abysian Heavy Infantry,BaseU_part_003.csv,164
+81,Abysian Infantry,BaseU_part_001.csv,82
+82,Abysian Infantry,BaseU_part_001.csv,83
+83,Abysian Infantry,BaseU_part_001.csv,84
+84,Abysian Infantry,BaseU_part_001.csv,85
+984,Abysian Light Infantry,BaseU_part_003.csv,159
+985,Abysian Light Infantry,BaseU_part_003.csv,160
+1101,Accensus,BaseU_part_003.csv,276
+2013,Acha,BaseU_part_005.csv,380
+2656,Aclla,BaseU_part_007.csv,212
+1113,Acolyte,BaseU_part_003.csv,288
+256,Acolyte of Eldregate,BaseU_part_001.csv,257
+99,Adept of Pyriphlegeton,BaseU_part_001.csv,100
+101,Adept of the Golden Order,BaseU_part_001.csv,102
+3487,Adept of the Hidden Order,BaseU_part_009.csv,243
+477,Adept of the Iron Order,BaseU_part_002.csv,76
+100,Adept of the Silver Order,BaseU_part_001.csv,101
+1030,Admiral,BaseU_part_003.csv,205
+2027,Adon,BaseU_part_005.csv,394
+2323,Adventurer,BaseU_part_006.csv,284
+2324,Adventurer,BaseU_part_006.csv,285
+2325,Adventurer,BaseU_part_006.csv,286
+2326,Adventurer,BaseU_part_006.csv,287
+2327,Adventurer,BaseU_part_006.csv,288
+2328,Adventurer,BaseU_part_006.csv,289
+2329,Adventurer,BaseU_part_006.csv,290
+2330,Adventurer,BaseU_part_006.csv,291
+2332,Adventurer,BaseU_part_006.csv,293
+3173,Aegaeide,BaseU_part_008.csv,329
+1676,Agarthan Crossbowman,BaseU_part_005.csv,49
+1677,Agarthan Heavy Crossbowman,BaseU_part_005.csv,50
+1354,Agarthan Heavy Infantry,BaseU_part_004.csv,127
+1355,Agarthan Infantry,BaseU_part_004.csv,128
+1675,Agarthan Light Crossbowman,BaseU_part_005.csv,48
+1447,Agarthan Light Infantry,BaseU_part_004.csv,220
+1449,Agarthan Sapper,BaseU_part_004.csv,222
+1448,Agarthan Scout,BaseU_part_004.csv,221
+1590,Ageless Olm,BaseU_part_004.csv,363
+1554,Agema Commander,BaseU_part_004.csv,327
+1553,Agema Companion,BaseU_part_004.csv,326
+4064,Agrimandri Shaman Chief,BaseU_part_011.csv,20
+3294,Agrimandri Warrior,BaseU_part_009.csv,50
+2717,Ah Ha',BaseU_part_007.csv,273
+2748,Ah Ha',BaseU_part_007.csv,304
+2680,Ah Itz,BaseU_part_007.csv,236
+2718,Ah Itz,BaseU_part_007.csv,274
+2753,Ah Itz,BaseU_part_007.csv,309
+2677,Ah K'in,BaseU_part_007.csv,233
+2684,Ah K'in Kan Ek',BaseU_part_007.csv,240
+2679,Ah Nakom,BaseU_part_007.csv,235
+2026,Ahiman Anakite,BaseU_part_005.csv,393
+2635,Ahu,BaseU_part_007.csv,191
+2577,Ahu of the Kavi,BaseU_part_007.csv,133
+2553,Ahura of the Oath,BaseU_part_007.csv,109
+2554,Ahura of the Waters,BaseU_part_007.csv,110
+2552,Ahura of Wisdom,BaseU_part_007.csv,108
+2637,Ahurani,BaseU_part_007.csv,193
+3722,Air Elemental,BaseU_part_010.csv,78
+3723,Air Elemental,BaseU_part_010.csv,79
+3724,Air Elemental,BaseU_part_010.csv,80
+3725,Air Elemental,BaseU_part_010.csv,81
+3726,Air Elemental,BaseU_part_010.csv,82
+3727,Air Elemental,BaseU_part_010.csv,83
+3728,Air Elemental,BaseU_part_010.csv,84
+3729,Air Elemental,BaseU_part_010.csv,85
+2589,Airya Archer,BaseU_part_007.csv,145
+420,Airya Infantry,BaseU_part_002.csv,20
+2568,Airya Infantry,BaseU_part_007.csv,124
+2591,Airya Infantry,BaseU_part_007.csv,147
+130,Airya Light Infantry,BaseU_part_001.csv,131
+2567,Airya Light Infantry,BaseU_part_007.csv,123
+2590,Airya Light Infantry,BaseU_part_007.csv,146
+2575,Airya Noble,BaseU_part_007.csv,131
+2595,Airya Scout,BaseU_part_007.csv,151
+2570,Airya Seraph,BaseU_part_007.csv,126
+2604,Airya Seraph,BaseU_part_007.csv,160
+2557,Airya Seraphine,BaseU_part_007.csv,113
+2606,Airya Shah,BaseU_part_007.csv,162
+2596,Airya Spahbed,BaseU_part_007.csv,152
+1289,Airya Temple Guard,BaseU_part_004.csv,62
+2675,Ajaw,BaseU_part_007.csv,231
+2676,Ajaw Kan Ek',BaseU_part_007.csv,232
+1266,Aka-Oni,BaseU_part_004.csv,39
+1245,Aka-Oni Samurai,BaseU_part_004.csv,18
+3622,Akerbeltz,BaseU_part_009.csv,378
+663,Alae Legionnaire,BaseU_part_002.csv,244
+685,Alae Legionnaire,BaseU_part_002.csv,266
+3865,Alchemical Amalgam of Air,BaseU_part_010.csv,221
+3867,Alchemical Amalgam of Earth,BaseU_part_010.csv,223
+3864,Alchemical Amalgam of Fire,BaseU_part_010.csv,220
+3866,Alchemical Amalgam of Water,BaseU_part_010.csv,222
+551,Alchemist,BaseU_part_002.csv,144
+1932,Alchemist,BaseU_part_005.csv,299
+1891,Alchemist of the Five Elements,BaseU_part_005.csv,258
+2976,Algae Man,BaseU_part_008.csv,132
+1943,Alkonost,BaseU_part_005.csv,310
+501,Allfather,BaseU_part_002.csv,94
+3084,Amanojaku,BaseU_part_008.csv,240
+348,Amazon,BaseU_part_001.csv,349
+351,Amazon,BaseU_part_001.csv,352
+354,Amazon,BaseU_part_001.csv,355
+357,Amazon,BaseU_part_001.csv,358
+573,Amber Clan Guard,BaseU_part_002.csv,160
+1419,Amber Clan Guard,BaseU_part_004.csv,192
+575,Amber Clan Mage,BaseU_part_002.csv,162
+1417,Amber Clan Mage,BaseU_part_004.csv,190
+2421,Amber Clan Noble,BaseU_part_006.csv,382
+576,Amber Clan Priest,BaseU_part_002.csv,163
+1418,Amber Clan Priest,BaseU_part_004.csv,191
+574,Amber Clan Triton,BaseU_part_002.csv,161
+1216,Ambibate Bare Chested Warrior,BaseU_part_003.csv,389
+1218,Ambibate Chieftain,BaseU_part_003.csv,391
+1217,Ambibate Noble Warrior,BaseU_part_003.csv,390
+2014,Ammi,BaseU_part_005.csv,381
+2006,Amorite,BaseU_part_005.csv,373
+1412,Amphiptere,BaseU_part_004.csv,185
+3652,Anansi,BaseU_part_010.csv,8
+327,Anathemant,BaseU_part_001.csv,328
+86,Anathemant Dragon,BaseU_part_001.csv,87
+1699,Anathemant Dragon,BaseU_part_005.csv,72
+1970,Anathemant Dragon,BaseU_part_005.csv,337
+85,Anathemant Salamander,BaseU_part_001.csv,86
+1698,Anathemant Salamander,BaseU_part_005.csv,71
+1969,Anathemant Salamander,BaseU_part_005.csv,336
+581,Anathemant Warlock,BaseU_part_002.csv,168
+1711,Ancestor Guide,BaseU_part_005.csv,84
+1709,Ancestor Smith,BaseU_part_005.csv,82
+1577,Ancestor Vessel,BaseU_part_004.csv,350
+2563,Ancestral Fravashi,BaseU_part_007.csv,119
+1363,Ancestral Spirit,BaseU_part_004.csv,136
+973,Ancient Kraken,BaseU_part_003.csv,148
+1470,Ancient Lord,BaseU_part_004.csv,243
+2506,Ancient Lord,BaseU_part_007.csv,67
+641,Ancient Mandragora,BaseU_part_002.csv,222
+1678,Ancient Olm,BaseU_part_005.csv,51
+1469,Ancient One,BaseU_part_004.csv,242
+2188,Ancient One,BaseU_part_006.csv,155
+2251,Ancient Presence,BaseU_part_006.csv,218
+635,Ancient Shaman,BaseU_part_002.csv,216
+1488,Ancient Stone Hurler,BaseU_part_004.csv,261
+1495,Ancient Stone Hurler,BaseU_part_004.csv,268
+2189,Ancient Stone Hurler,BaseU_part_006.csv,156
+1455,Ancient Wet One,BaseU_part_004.csv,228
+2489,Ancient Wet One,BaseU_part_007.csv,50
+2490,Ancient Wet One,BaseU_part_007.csv,51
+2885,Androdai,BaseU_part_008.csv,41
+2884,Androleth,BaseU_part_008.csv,40
+1176,Androphag,BaseU_part_003.csv,349
+1183,Androphag Archer,BaseU_part_003.csv,356
+1618,Angakok,BaseU_part_004.csv,391
+1369,Angel of Fury,BaseU_part_004.csv,142
+1367,Angel of the Heavenly Choir,BaseU_part_004.csv,140
+3870,Angel of the Host,BaseU_part_010.csv,226
+543,Angel XXX,BaseU_part_002.csv,136
+3666,Angiri,BaseU_part_010.csv,22
+2610,Angra Mainyu,BaseU_part_007.csv,166
+3987,Animated Bush,BaseU_part_010.csv,343
+3988,Animated Shrub,BaseU_part_010.csv,344
+4007,Animated Tree,BaseU_part_010.csv,363
+4008,Animated Tree,BaseU_part_010.csv,364
+4009,Animated Tree,BaseU_part_010.csv,365
+552,Animist,BaseU_part_002.csv,145
+2437,Annunaki of Growth and Rebirth,BaseU_part_006.csv,398
+2435,Annunaki of Love and War,BaseU_part_006.csv,396
+1373,Annunaki of Sweet Waters,BaseU_part_004.csv,146
+2436,Annunaki of the Moon,BaseU_part_006.csv,397
+1374,Annunaki of the Morning Star,BaseU_part_004.csv,147
+1372,Annunaki of the Sky,BaseU_part_004.csv,145
+2438,Annunaki of the Underworld,BaseU_part_006.csv,399
+1536,Anointed of Rhuax,BaseU_part_004.csv,309
+4089,Antlered Hochmeister,BaseU_part_011.csv,45
+1843,Antlered One,BaseU_part_005.csv,214
+1161,Antlered Shaman,BaseU_part_003.csv,334
+4087,Antlered Vedun,BaseU_part_011.csv,43
+1746,Anusara,BaseU_part_005.csv,119
+3064,Anzu,BaseU_part_008.csv,220
+1264,Ao-Oni,BaseU_part_004.csv,37
+1706,Ape Oracle,BaseU_part_005.csv,79
+2401,Aphroi,BaseU_part_006.csv,362
+2402,Aphroi,BaseU_part_006.csv,363
+2392,Aphroi Hierophant,BaseU_part_006.csv,353
+2393,Aphroi Hierophant,BaseU_part_006.csv,354
+2399,Aphroi Lord,BaseU_part_006.csv,360
+2400,Aphroi Lord,BaseU_part_006.csv,361
+3056,Aphroi Sage,BaseU_part_008.csv,212
+3057,Aphroi Sage,BaseU_part_008.csv,213
+2960,Apkallu,BaseU_part_008.csv,116
+2965,Apkallu,BaseU_part_008.csv,121
+2869,Apostate of the Closed Realm,BaseU_part_008.csv,25
+2870,Apostate of the Closed Realm,BaseU_part_008.csv,26
+1914,Apostate Raja,BaseU_part_005.csv,281
+2712,Apostate Seraph,BaseU_part_007.csv,268
+863,Apostatic Warrior,BaseU_part_003.csv,38
+1890,Apothecary,BaseU_part_005.csv,257
+677,Apparition,BaseU_part_002.csv,258
+3920,Apprentice Magus,BaseU_part_010.csv,276
+1332,Apsara,BaseU_part_004.csv,105
+2654,Apu,BaseU_part_007.csv,210
+2698,Apu Illapa,BaseU_part_007.csv,254
+2686,Apu Inti,BaseU_part_007.csv,242
+2655,Apusqispay,BaseU_part_007.csv,211
+3270,Araburu-kami,BaseU_part_009.csv,26
+3271,Araburu-kami,BaseU_part_009.csv,27
+465,Arch Angel,BaseU_part_002.csv,64
+258,Arch Bishop of Eldregate,BaseU_part_001.csv,259
+1111,Arch Bishop of the Sacred Shroud,BaseU_part_003.csv,286
+555,Arch Censor,BaseU_part_002.csv,148
+305,Arch Devil,BaseU_part_001.csv,306
+826,Arch Devil,BaseU_part_003.csv,7
+827,Arch Devil,BaseU_part_003.csv,8
+828,Arch Devil,BaseU_part_003.csv,9
+829,Arch Devil,BaseU_part_003.csv,10
+270,Arch Druid,BaseU_part_001.csv,271
+4001,Arch Emperor,BaseU_part_010.csv,357
+226,Arch Mage,BaseU_part_001.csv,227
+244,Arch Mage,BaseU_part_001.csv,245
+248,Arch Mage,BaseU_part_001.csv,249
+3378,Arch Pope,BaseU_part_009.csv,134
+509,Arch Seraph,BaseU_part_002.csv,102
+41,Arch Theurg,BaseU_part_001.csv,42
+3508,Arch Wizard of Black Arcana,BaseU_part_009.csv,264
+3503,Arch Wizard of the Deeper Earth,BaseU_part_009.csv,259
+3502,Arch Wizard of the Hidden Flame,BaseU_part_009.csv,258
+3505,Arch Wizard of the Sky,BaseU_part_009.csv,261
+3506,Arch Wizard of the Spheres,BaseU_part_009.csv,262
+3507,Arch Wizard of Unseen Colors,BaseU_part_009.csv,263
+3504,Arch Wizard of Waters Underneath,BaseU_part_009.csv,260
+3288,Archbishop Marshal,BaseU_part_009.csv,44
+17,Archer,BaseU_part_001.csv,18
+32,Archer,BaseU_part_001.csv,33
+33,Archer,BaseU_part_001.csv,34
+797,Archer,BaseU_part_002.csv,378
+1162,Archer,BaseU_part_003.csv,335
+2148,Archer,BaseU_part_006.csv,115
+3233,Archer Illusion,BaseU_part_008.csv,389
+3283,Archer Priest,BaseU_part_009.csv,39
+3010,Architect,BaseU_part_008.csv,166
+3011,Architect,BaseU_part_008.csv,167
+3116,Archon,BaseU_part_008.csv,272
+3198,Archousa,BaseU_part_008.csv,354
+2058,Arel,BaseU_part_006.csv,25
+3527,Armored Black Unicorn,BaseU_part_009.csv,283
+3992,Armored Hippocampus,BaseU_part_010.csv,348
+3534,Armored Jade Lizard,BaseU_part_009.csv,290
+3994,Armored Kelpie,BaseU_part_010.csv,350
+3995,Armored Kelpie,BaseU_part_010.csv,351
+3552,Armored Moose,BaseU_part_009.csv,308
+3648,Armored Morvarc'h,BaseU_part_010.csv,4
+3649,Armored Morvarc'h,BaseU_part_010.csv,5
+3557,Armored Pegasus,BaseU_part_009.csv,313
+3993,Armored Sacred Hippocampus,BaseU_part_010.csv,349
+3550,Armored Sacred Tiger,BaseU_part_009.csv,306
+3536,Armored Serpent,BaseU_part_009.csv,292
+3537,Armored Serpent,BaseU_part_009.csv,293
+3574,Armored Steppe Horse,BaseU_part_009.csv,330
+3575,Armored Steppe Horse,BaseU_part_009.csv,331
+3578,Armored Steppe Horse,BaseU_part_009.csv,334
+3579,Armored Steppe Horse,BaseU_part_009.csv,335
+3548,Armored Tiger,BaseU_part_009.csv,304
+3525,Armored Unicorn,BaseU_part_009.csv,281
+3900,Armored Unicorn,BaseU_part_010.csv,256
+4020,Armored Unicorn,BaseU_part_010.csv,376
+1630,Arssartut,BaseU_part_005.csv,3
+1745,Asara,BaseU_part_005.csv,118
+392,Ashen Angel,BaseU_part_001.csv,393
+1990,Asherite Soldier,BaseU_part_005.csv,357
+1238,Ashigaru,BaseU_part_004.csv,11
+2951,Ashipu,BaseU_part_008.csv,107
+1001,Asmeg,BaseU_part_003.csv,176
+1002,Asmeg Jarl,BaseU_part_003.csv,177
+3657,Asp,BaseU_part_010.csv,13
+1234,Asp Turtle,BaseU_part_004.csv,7
+1741,Asrapa,BaseU_part_005.csv,114
+428,Assassin,BaseU_part_002.csv,28
+2197,Assassin,BaseU_part_006.csv,164
+1935,Astrapelagist,BaseU_part_005.csv,302
+301,Astrologer,BaseU_part_001.csv,302
+3662,Asura,BaseU_part_010.csv,18
+955,Asynja,BaseU_part_003.csv,130
+1098,Asynja,BaseU_part_003.csv,273
+2239,Asynja,BaseU_part_006.csv,206
+1121,Atavi Archer,BaseU_part_003.csv,296
+1127,Atavi Chieftain,BaseU_part_003.csv,302
+1122,Atavi Infantry,BaseU_part_003.csv,297
+2602,Athravan,BaseU_part_007.csv,158
+1621,Atlantian Infantry,BaseU_part_004.csv,394
+107,Atlantian Light Infantry,BaseU_part_001.csv,108
+110,Atlantian Militia,BaseU_part_001.csv,111
+111,Atlantian Shield Bearer,BaseU_part_001.csv,112
+1681,Atlantian Spearman,BaseU_part_005.csv,54
+1442,Attendant of the Dead,BaseU_part_004.csv,215
+1475,Attendant of the Oracles,BaseU_part_004.csv,248
+1497,Attentive Statue,BaseU_part_004.csv,270
+2652,Aucac Runa Archer,BaseU_part_007.csv,208
+2651,Aucac Runa Axeman,BaseU_part_007.csv,207
+2650,Aucac Runa Maceman,BaseU_part_007.csv,206
+2649,Aucac Runa Spearman,BaseU_part_007.csv,205
+1114,Augur,BaseU_part_003.csv,289
+1115,Augur Elder,BaseU_part_003.csv,290
+2035,Avvite Charioteer,BaseU_part_006.csv,2
+2023,Avvite Commander,BaseU_part_005.csv,390
+2059,Avvite Heavy Archer,BaseU_part_006.csv,26
+2036,Avvite Horn Blower,BaseU_part_006.csv,3
+2021,Avvite Light Infantry,BaseU_part_005.csv,388
+2024,Avvite Scout,BaseU_part_005.csv,391
+2015,Avvite Spearman,BaseU_part_005.csv,382
+2022,Avvite Swordsman,BaseU_part_005.csv,389
+1152,Axe Warrior,BaseU_part_003.csv,325
+1578,Axeman,BaseU_part_004.csv,351
+2699,Ayar,BaseU_part_007.csv,255
+3292,Azenach Archer,BaseU_part_009.csv,48
+4063,Azenach Shaman Chief,BaseU_part_011.csv,19
+2608,Azi,BaseU_part_007.csv,164
+3929,Azure Dragon of the East,BaseU_part_010.csv,285
+96,Azure Initiate,BaseU_part_001.csv,97
+97,Azure Mage,BaseU_part_001.csv,98
+2032,Ba'al,BaseU_part_005.csv,399
+2714,Bacab,BaseU_part_007.csv,270
+2749,Bacab,BaseU_part_007.csv,305
+3281,Baculite,BaseU_part_009.csv,37
+3791,Baculite,BaseU_part_010.csv,147
+1391,Bakemono Archer,BaseU_part_004.csv,164
+1395,Bakemono Archer,BaseU_part_004.csv,168
+1845,Bakemono Chief,BaseU_part_005.csv,216
+2467,Bakemono Chief,BaseU_part_007.csv,28
+1398,Bakemono General,BaseU_part_004.csv,171
+1428,Bakemono Kunshu,BaseU_part_004.csv,201
+1963,Bakemono Scout,BaseU_part_005.csv,330
+1608,Bakemono Shaman,BaseU_part_004.csv,381
+1427,Bakemono Sorcerer,BaseU_part_004.csv,200
+1392,Bakemono Warrior,BaseU_part_004.csv,165
+1390,Bakemono-Sho,BaseU_part_004.csv,163
+1393,Bakemono-Sho,BaseU_part_004.csv,166
+1394,Bakemono-Sho,BaseU_part_004.csv,167
+3267,Bakeneko,BaseU_part_009.csv,23
+3268,Bakeneko,BaseU_part_009.csv,24
+2768,Balam of the East,BaseU_part_007.csv,324
+2769,Balam of the East,BaseU_part_007.csv,325
+2770,Balam of the East,BaseU_part_007.csv,326
+2765,Balam of the North,BaseU_part_007.csv,321
+2766,Balam of the North,BaseU_part_007.csv,322
+2767,Balam of the North,BaseU_part_007.csv,323
+2771,Balam of the South,BaseU_part_007.csv,327
+2772,Balam of the South,BaseU_part_007.csv,328
+2773,Balam of the South,BaseU_part_007.csv,329
+2774,Balam of the West,BaseU_part_007.csv,330
+2775,Balam of the West,BaseU_part_007.csv,331
+2776,Balam of the West,BaseU_part_007.csv,332
+1129,Bandar,BaseU_part_003.csv,304
+1131,Bandar Archer,BaseU_part_003.csv,306
+1135,Bandar Commander,BaseU_part_003.csv,310
+1334,Bandar Commander,BaseU_part_004.csv,107
+1761,Bandar Commander,BaseU_part_005.csv,134
+1136,Bandar Noble,BaseU_part_003.csv,311
+1350,Bandar Swordsman,BaseU_part_004.csv,123
+1132,Bandar Warrior,BaseU_part_003.csv,307
+1133,Bandar Warrior,BaseU_part_003.csv,308
+1333,Bandar Warrior,BaseU_part_004.csv,106
+1762,Bandar Warrior,BaseU_part_005.csv,135
+1760,Bandaraja,BaseU_part_005.csv,133
+1311,Bandit,BaseU_part_004.csv,84
+1312,Bandit,BaseU_part_004.csv,85
+1313,Bandit Leader,BaseU_part_004.csv,86
+185,Bane,BaseU_part_001.csv,186
+998,Bane Lord,BaseU_part_003.csv,173
+877,Bane Spider,BaseU_part_003.csv,52
+3474,Banu Si'lat,BaseU_part_009.csv,230
+1775,Baobhan Sidhe,BaseU_part_005.csv,148
+607,Baphomet,BaseU_part_002.csv,188
+139,Barbarian,BaseU_part_001.csv,140
+140,Barbarian,BaseU_part_001.csv,141
+141,Barbarian Chief,BaseU_part_001.csv,142
+939,Barbarian Heavy Horseman,BaseU_part_003.csv,114
+938,Barbarian Horseman,BaseU_part_003.csv,113
+147,Barbarian Lord,BaseU_part_001.csv,148
+658,Bard,BaseU_part_002.csv,239
+2425,Bard,BaseU_part_006.csv,386
+3694,Bard,BaseU_part_010.csv,50
+1768,Barghest,BaseU_part_005.csv,141
+3824,Barrel,BaseU_part_010.csv,180
+3600,Basajaun,BaseU_part_009.csv,356
+1702,Basalt King,BaseU_part_005.csv,75
+1695,Basalt Queen,BaseU_part_005.csv,68
+3601,Basandere,BaseU_part_009.csv,357
+2008,Bashanite,BaseU_part_005.csv,375
+3117,Basileus,BaseU_part_008.csv,273
+636,Basilisk,BaseU_part_002.csv,217
+2674,Batab,BaseU_part_007.csv,230
+2782,Batab,BaseU_part_007.csv,338
+52,Battle Deacon,BaseU_part_001.csv,53
+2151,Battle Deacon,BaseU_part_006.csv,118
+51,Battle Vestal,BaseU_part_001.csv,52
+1774,Bean Sidhe,BaseU_part_005.csv,147
+1776,Bean Sidhe,BaseU_part_005.csv,149
+3682,Bear Clan Cub-Mother,BaseU_part_010.csv,38
+3679,Bear Clan Seithberender,BaseU_part_010.csv,35
+3676,Bear Clan Warrior,BaseU_part_010.csv,32
+1597,Bear Tribe Shaman,BaseU_part_004.csv,370
+1592,Bear Tribe Warrior,BaseU_part_004.csv,365
+1593,Bear Tribe Warrior,BaseU_part_004.csv,366
+2995,Bear Warrior,BaseU_part_008.csv,151
+3585,Bearer,BaseU_part_009.csv,341
+3586,Bearer,BaseU_part_009.csv,342
+1357,Beast Bat,BaseU_part_004.csv,130
+695,Beast Illusion,BaseU_part_002.csv,276
+214,Beast Trainer,BaseU_part_001.csv,215
+3595,Bebryx,BaseU_part_009.csv,351
+3593,Bebryx Guard,BaseU_part_009.csv,349
+452,Behemoth,BaseU_part_002.csv,52
+3587,Bekryde,BaseU_part_009.csv,343
+3633,Bekryde,BaseU_part_009.csv,389
+3836,Bekryde,BaseU_part_010.csv,192
+3837,Bekryde,BaseU_part_010.csv,193
+3590,Bekryde Champion,BaseU_part_009.csv,346
+3839,Bekryde Champion,BaseU_part_010.csv,195
+3594,Bekryde Commander,BaseU_part_009.csv,350
+3592,Bekryde Heavy Infantry,BaseU_part_009.csv,348
+3689,Bekryde Hunter,BaseU_part_010.csv,45
+3591,Bekryde Infantry,BaseU_part_009.csv,347
+3589,Bekryde Scout,BaseU_part_009.csv,345
+3596,Bekryde Shaman,BaseU_part_009.csv,352
+3606,Bekryde Shepherd,BaseU_part_009.csv,362
+3588,Bekryde Warrior,BaseU_part_009.csv,344
+3838,Bekryde Warrior,BaseU_part_010.csv,194
+2215,Belly Maw Horror,BaseU_part_006.csv,182
+2486,Benjaminite Commander,BaseU_part_007.csv,47
+1996,Benjaminite Slinger,BaseU_part_005.csv,363
+1955,Beregina,BaseU_part_005.csv,322
+2255,Berytian Archer,BaseU_part_006.csv,222
+2253,Berytian Captain,BaseU_part_006.csv,220
+2259,Berytian Elite Soldier,BaseU_part_006.csv,226
+2258,Berytian Heavy Spearman,BaseU_part_006.csv,225
+2260,Berytian Lancer,BaseU_part_006.csv,227
+2254,Berytian Militia,BaseU_part_006.csv,221
+2265,Berytian Priest,BaseU_part_006.csv,232
+2424,Berytian Sage,BaseU_part_006.csv,385
+2252,Berytian Scout,BaseU_part_006.csv,219
+2257,Berytian Soldier,BaseU_part_006.csv,224
+2256,Berytian Spearman,BaseU_part_006.csv,223
+3331,Betyl of the Stars,BaseU_part_009.csv,87
+3329,Betyl of the Sun,BaseU_part_009.csv,85
+3330,Betyl of Writing,BaseU_part_009.csv,86
+3476,Binn,BaseU_part_009.csv,232
+2299,Bird Clan Archer,BaseU_part_006.csv,260
+3792,Bird Knight,BaseU_part_010.csv,148
+3796,Bird Knight Commander,BaseU_part_010.csv,152
+1647,Bishop,BaseU_part_005.csv,20
+1040,Bishop Fish,BaseU_part_003.csv,215
+3287,Bishop General,BaseU_part_009.csv,43
+257,Bishop of Eldregate,BaseU_part_001.csv,258
+1112,Bishop of the Sacred Shroud,BaseU_part_003.csv,287
+3290,Bishop Vicomte,BaseU_part_009.csv,46
+401,Bitch Queen,BaseU_part_002.csv,2
+739,Black Acolyte,BaseU_part_002.csv,320
+1974,Black Acolyte,BaseU_part_005.csv,341
+611,Black Bull,BaseU_part_002.csv,192
+3604,Black Cat,BaseU_part_009.csv,360
+3621,Black Cat,BaseU_part_009.csv,377
+4047,Black Cat,BaseU_part_011.csv,3
+787,Black Centaur,BaseU_part_002.csv,368
+3519,Black Destrier,BaseU_part_009.csv,275
+3584,Black Destrier,BaseU_part_009.csv,340
+1769,Black Dog,BaseU_part_005.csv,142
+901,Black Dryad,BaseU_part_003.csv,76
+4056,Black Goat,BaseU_part_011.csv,12
+4058,Black Goat,BaseU_part_011.csv,14
+430,Black Harpy,BaseU_part_002.csv,30
+517,Black Hawk,BaseU_part_002.csv,110
+1925,Black Hood,BaseU_part_005.csv,292
+889,Black Hunter,BaseU_part_003.csv,64
+3475,Black King,BaseU_part_009.csv,231
+69,Black Knight,BaseU_part_001.csv,70
+70,Black Lord,BaseU_part_001.csv,71
+4026,Black Minotaur,BaseU_part_010.csv,382
+68,Black Plate Infantry,BaseU_part_001.csv,69
+72,Black Plate Infantry,BaseU_part_001.csv,73
+74,Black Plate Infantry,BaseU_part_001.csv,75
+76,Black Plate Infantry,BaseU_part_001.csv,77
+78,Black Plate Infantry,BaseU_part_001.csv,79
+80,Black Plate Pikeneer,BaseU_part_001.csv,81
+740,Black Priest,BaseU_part_002.csv,321
+1973,Black Priest,BaseU_part_005.csv,340
+397,Black Serpent,BaseU_part_001.csv,398
+894,Black Sorcerer,BaseU_part_003.csv,69
+344,Black Sorceress,BaseU_part_001.csv,345
+738,Black Templar,BaseU_part_002.csv,319
+3932,Black Tortoise of the North,BaseU_part_010.csv,288
+3526,Black Unicorn,BaseU_part_009.csv,282
+2361,Black Witch,BaseU_part_006.csv,322
+2362,Blackrose Sorceress,BaseU_part_006.csv,323
+2246,Blessed Couple,BaseU_part_006.csv,213
+582,Blind One,BaseU_part_002.csv,169
+1849,Blinded,BaseU_part_005.csv,220
+1437,Blindfighter,BaseU_part_004.csv,210
+1444,Blindlord,BaseU_part_004.csv,217
+127,Blizzard Warrior,BaseU_part_001.csv,128
+2547,Blizzard Warrior,BaseU_part_007.csv,103
+4045,Blood Bishop,BaseU_part_010.csv,401
+3244,Blood Countess,BaseU_part_008.csv,400
+3255,Blood Graf,BaseU_part_009.csv,11
+1353,Blood Guard,BaseU_part_004.csv,126
+1389,Blood Lord,BaseU_part_004.csv,162
+2540,Blood Mage,BaseU_part_007.csv,96
+1035,Blood Marshal,BaseU_part_003.csv,210
+326,Blood Slave,BaseU_part_001.csv,327
+122,Bloodhenge Druid,BaseU_part_001.csv,123
+3892,Blue Flame,BaseU_part_010.csv,248
+3891,Bluecap,BaseU_part_010.csv,247
+549,Boar,BaseU_part_002.csv,142
+1223,Boar Lord,BaseU_part_003.csv,396
+1222,Boar Warrior,BaseU_part_003.csv,395
+2457,Bodhisattva of Mercy,BaseU_part_007.csv,18
+578,Bog Beast,BaseU_part_002.csv,165
+643,Bog Mummy,BaseU_part_002.csv,224
+645,Bog Mummy,BaseU_part_002.csv,226
+3099,Bogarusian Scout,BaseU_part_008.csv,255
+1957,Bogatyr,BaseU_part_005.csv,324
+2756,Bolon-ti-ku,BaseU_part_007.csv,312
+433,Bone Fiend,BaseU_part_002.csv,33
+3190,Bone Mother,BaseU_part_008.csv,346
+2820,Bone Reader,BaseU_part_007.csv,376
+2818,Bone Tribe Beast Hunter,BaseU_part_007.csv,374
+2819,Bone Tribe Head Hunter,BaseU_part_007.csv,375
+2817,Bone Tribe Hunter,BaseU_part_007.csv,373
+3828,Bookshelf,BaseU_part_010.csv,184
+2293,Bouda,BaseU_part_006.csv,254
+2426,Bouda Father,BaseU_part_006.csv,387
+1146,Brahmin,BaseU_part_003.csv,319
+2216,Brass Claw Horror,BaseU_part_006.csv,183
+3456,Brazen Guard,BaseU_part_009.csv,212
+2429,Bride of the Gods,BaseU_part_006.csv,390
+2266,Bride-in-Waiting,BaseU_part_006.csv,233
+1912,Brigand Leader,BaseU_part_005.csv,279
+3346,Bronze Colossus,BaseU_part_009.csv,102
+3368,Bronze Colossus,BaseU_part_009.csv,124
+3009,Buffalo,BaseU_part_008.csv,165
+3007,Bug Soul Vessel,BaseU_part_008.csv,163
+1948,Bukavac,BaseU_part_005.csv,315
+4115,Buraq,BaseU_part_011.csv,71
+1197,Burgmeister,BaseU_part_003.csv,370
+271,Burgmeister Guard,BaseU_part_001.csv,272
+1543,Burning One,BaseU_part_004.csv,316
+3695,Bush,BaseU_part_010.csv,51
+165,C'tissian Heavy Infantry,BaseU_part_001.csv,166
+3856,C'tissian Heavy Infantry,BaseU_part_010.csv,212
+167,C'tissian Light Infantry,BaseU_part_001.csv,168
+4062,C'tissian Medium Infantry,BaseU_part_011.csv,18
+3709,Cactus,BaseU_part_010.csv,65
+2703,Caelian Longdead,BaseU_part_007.csv,259
+2704,Caelian Longdead,BaseU_part_007.csv,260
+2705,Caelian Longdead,BaseU_part_007.csv,261
+2706,Caelian Longdead,BaseU_part_007.csv,262
+484,Caelian Scout,BaseU_part_002.csv,83
+202,Caelian Seraph,BaseU_part_001.csv,203
+1004,Caelian Seraph,BaseU_part_003.csv,179
+3684,Calydonian Boar,BaseU_part_010.csv,40
+3841,Calystri City Guard,BaseU_part_010.csv,197
+3849,Calystri Commander,BaseU_part_010.csv,205
+3842,Calystri Crossbowman,BaseU_part_010.csv,198
+3843,Calystri Footman,BaseU_part_010.csv,199
+3973,Calystri General,BaseU_part_010.csv,329
+3922,Calystri Magistrate,BaseU_part_010.csv,278
+3921,Calystri Magus,BaseU_part_010.csv,277
+3846,Calystri Man at Arms,BaseU_part_010.csv,202
+3840,Calystri Militia,BaseU_part_010.csv,196
+3845,Calystri Pikeneer,BaseU_part_010.csv,201
+3919,Calystri Presbyter,BaseU_part_010.csv,275
+3848,Calystri Scout,BaseU_part_010.csv,204
+3925,Calystri Senator,BaseU_part_010.csv,281
+3847,Calystri Senatorial Guard,BaseU_part_010.csv,203
+3844,Calystri Soldier,BaseU_part_010.csv,200
+2505,Camazotz,BaseU_part_007.csv,66
+2681,Camazotz,BaseU_part_007.csv,237
+2719,Camazotz,BaseU_part_007.csv,275
+2754,Camazotz,BaseU_part_007.csv,310
+3236,Cambion,BaseU_part_008.csv,392
+4049,Cambion Count,BaseU_part_011.csv,5
+4052,Cambion Countess,BaseU_part_011.csv,8
+4048,Cambion King,BaseU_part_011.csv,4
+4050,Cambion Knight,BaseU_part_011.csv,6
+4054,Cambion Progeny,BaseU_part_011.csv,10
+4055,Cambion Progeny,BaseU_part_011.csv,11
+4051,Cambion Queen,BaseU_part_011.csv,7
+3538,Camel,BaseU_part_009.csv,294
+3539,Camel,BaseU_part_009.csv,295
+3297,Cannibal Shaman Chief,BaseU_part_009.csv,53
+3313,Cannibal Warlord,BaseU_part_009.csv,69
+3293,Cannibal Warrior,BaseU_part_009.csv,49
+1038,Capricorn,BaseU_part_003.csv,213
+1039,Capricorn,BaseU_part_003.csv,214
+291,Captain,BaseU_part_001.csv,292
+293,Captain,BaseU_part_001.csv,294
+870,Captain,BaseU_part_003.csv,45
+1029,Captain,BaseU_part_003.csv,204
+3637,Captain Illusion,BaseU_part_009.csv,393
+199,Cardaces,BaseU_part_001.csv,200
+583,Cardinal,BaseU_part_002.csv,170
+1282,Caretaker,BaseU_part_004.csv,55
+1219,Carnute Bare Chested Warrior,BaseU_part_003.csv,392
+1221,Carnute Chieftain,BaseU_part_003.csv,394
+1220,Carnute Noble Warrior,BaseU_part_003.csv,393
+718,Carrion Bear,BaseU_part_002.csv,299
+719,Carrion Beast,BaseU_part_002.csv,300
+1006,Carrion Behemoth,BaseU_part_003.csv,181
+716,Carrion Boar,BaseU_part_002.csv,297
+714,Carrion Centaur,BaseU_part_002.csv,295
+3851,Carrion Commander,BaseU_part_010.csv,207
+1026,Carrion Dragon,BaseU_part_003.csv,201
+4028,Carrion Enkidu,BaseU_part_010.csv,384
+4027,Carrion Fury,BaseU_part_010.csv,383
+4030,Carrion Giant,BaseU_part_010.csv,386
+717,Carrion Horse,BaseU_part_002.csv,298
+711,Carrion Lady,BaseU_part_002.csv,292
+710,Carrion Lord,BaseU_part_002.csv,291
+1027,Carrion Lord,BaseU_part_003.csv,202
+4029,Carrion Ogre,BaseU_part_010.csv,385
+4031,Carrion Titan,BaseU_part_010.csv,387
+715,Carrion Wolf,BaseU_part_002.csv,296
+54,Castellan,BaseU_part_001.csv,55
+1187,Cataphract,BaseU_part_003.csv,360
+699,Cataphract Commander,BaseU_part_002.csv,280
+3565,Cataphracted Chariot,BaseU_part_009.csv,321
+3531,Cataphracted Mouflon,BaseU_part_009.csv,287
+3576,Cataphracted Steppe Horse,BaseU_part_009.csv,332
+3580,Cataphracted Steppe Horse,BaseU_part_009.csv,336
+3516,Cataphracted War Horse,BaseU_part_009.csv,272
+3581,Cataphracted War Horse,BaseU_part_009.csv,337
+1290,Catoblepas,BaseU_part_004.csv,63
+1445,Cave Captain,BaseU_part_004.csv,218
+2512,Cave Cow,BaseU_part_007.csv,73
+2514,Cave Crab,BaseU_part_007.csv,75
+522,Cave Drake,BaseU_part_002.csv,115
+2529,Cave Drake,BaseU_part_007.csv,85
+3553,Cave Drake,BaseU_part_009.csv,309
+2526,Cave Grub,BaseU_part_007.csv,82
+1450,Cave Knight,BaseU_part_004.csv,223
+3890,Cave Kobold,BaseU_part_010.csv,246
+2513,Cave Spider,BaseU_part_007.csv,74
+1615,Caveman,BaseU_part_004.csv,388
+1616,Caveman Champion,BaseU_part_004.csv,389
+1462,Cavern Guard,BaseU_part_004.csv,235
+1501,Cavern Wight,BaseU_part_004.csv,274
+2317,Celestial Bureaucrat,BaseU_part_006.csv,278
+2319,Celestial Bureaucrat,BaseU_part_006.csv,280
+3930,Celestial Bureaucrat,BaseU_part_010.csv,286
+2556,Celestial Carp,BaseU_part_007.csv,112
+2318,Celestial Dragon,BaseU_part_006.csv,279
+1345,Celestial General,BaseU_part_004.csv,118
+2786,Celestial Gryphon,BaseU_part_007.csv,342
+1338,Celestial Hound,BaseU_part_004.csv,111
+2787,Celestial Lion,BaseU_part_007.csv,343
+803,Celestial Master,BaseU_part_002.csv,384
+941,Celestial Master,BaseU_part_003.csv,116
+1712,Celestial Master,BaseU_part_005.csv,85
+903,Celestial Servant,BaseU_part_003.csv,78
+902,Celestial Soldier,BaseU_part_003.csv,77
+260,Censor,BaseU_part_001.csv,261
+1655,Censor,BaseU_part_005.csv,28
+27,Centaur,BaseU_part_001.csv,28
+233,Centaur Cataphract,BaseU_part_001.csv,234
+698,Centaur Cataphract,BaseU_part_002.csv,279
+3566,Centaur Chariot,BaseU_part_009.csv,322
+3567,Centaur Chariot,BaseU_part_009.csv,323
+365,Centaur Charioteer,BaseU_part_001.csv,366
+3308,Centaur Charioteer,BaseU_part_009.csv,64
+232,Centaur Commander,BaseU_part_001.csv,233
+2977,Centaur Great Sage,BaseU_part_008.csv,133
+231,Centaur Hierophant,BaseU_part_001.csv,232
+2311,Centaur Hierophant,BaseU_part_006.csv,272
+4061,Centaur Manikin,BaseU_part_011.csv,17
+2479,Centaur Sage,BaseU_part_007.csv,40
+3319,Centaur Slave,BaseU_part_009.csv,75
+707,Centaur Warrior,BaseU_part_002.csv,288
+1704,Centaur Warrior,BaseU_part_005.csv,77
+2156,Centauride,BaseU_part_006.csv,123
+2956,Centauride Cataphract,BaseU_part_008.csv,112
+2957,Centauride Crossbow,BaseU_part_008.csv,113
+2961,Centauride Enchantress,BaseU_part_008.csv,117
+2158,Centauride Hierophantide,BaseU_part_006.csv,125
+2312,Centauride Hierophantide,BaseU_part_006.csv,273
+2157,Centauride Warrior,BaseU_part_006.csv,124
+671,Centurion,BaseU_part_002.csv,252
+683,Centurion,BaseU_part_002.csv,264
+1869,Centurion,BaseU_part_005.csv,236
+807,Ceremonial Master,BaseU_part_002.csv,388
+1895,Ceremonial Master,BaseU_part_005.csv,262
+3172,Cerulean Commander,BaseU_part_008.csv,328
+1556,Cerulean Warrior,BaseU_part_004.csv,329
+2779,Chaac of the East,BaseU_part_007.csv,335
+2778,Chaac of the North,BaseU_part_007.csv,334
+2780,Chaac of the South,BaseU_part_007.csv,336
+2781,Chaac of the West,BaseU_part_007.csv,337
+2732,Chak Muuch Assassin,BaseU_part_007.csv,288
+2730,Chak Muuch Dart Thrower,BaseU_part_007.csv,286
+2731,Chak Muuch Obsidian Warrior,BaseU_part_007.csv,287
+2863,Champion of the Closed Realm,BaseU_part_008.csv,19
+2864,Champion of the Closed Realm,BaseU_part_008.csv,20
+3563,Chariot,BaseU_part_009.csv,319
+3564,Chariot,BaseU_part_009.csv,320
+4014,Chariot Archer,BaseU_part_010.csv,370
+4016,Chariot Archer,BaseU_part_010.csv,372
+200,Charioteer,BaseU_part_001.csv,201
+1078,Charioteer,BaseU_part_003.csv,253
+1079,Charioteer,BaseU_part_003.csv,254
+1081,Charioteer Commander,BaseU_part_003.csv,256
+1031,Chartmaker,BaseU_part_003.csv,206
+2052,Chayot,BaseU_part_006.csv,19
+2053,Chayot,BaseU_part_006.csv,20
+2054,Chayot,BaseU_part_006.csv,21
+2055,Chayot,BaseU_part_006.csv,22
+283,Chief,BaseU_part_001.csv,284
+1169,Chieftain,BaseU_part_003.csv,342
+2320,Chieftain Illusion,BaseU_part_006.csv,281
+2678,Chilan,BaseU_part_007.csv,234
+2750,Chilan,BaseU_part_007.csv,306
+487,Chimera,BaseU_part_002.csv,86
+2959,Chiranjivi,BaseU_part_008.csv,115
+2994,Chud Berserker,BaseU_part_008.csv,150
+3002,Chud Chieftain,BaseU_part_008.csv,158
+2350,Chud Hirdman,BaseU_part_006.csv,311
+2992,Chud Hunter,BaseU_part_008.csv,148
+2357,Chud Jarl,BaseU_part_006.csv,318
+4084,Chud Seniunas,BaseU_part_011.csv,40
+2352,Chud Skinshifter,BaseU_part_006.csv,313
+2997,Chud Skinshifter,BaseU_part_008.csv,153
+4086,Chud Vedun,BaseU_part_011.csv,42
+2993,Chud Warrior,BaseU_part_008.csv,149
+3070,Chunari,BaseU_part_008.csv,226
+95,Circle Master,BaseU_part_001.csv,96
+166,City Guard,BaseU_part_001.csv,167
+2109,City Guard,BaseU_part_006.csv,76
+1422,Civateteo,BaseU_part_004.csv,195
+817,Clayman,BaseU_part_002.csv,398
+982,Clockwork Horror,BaseU_part_003.csv,157
+2321,Clockwork Soldier,BaseU_part_006.csv,282
+3817,Cloistered Lady,BaseU_part_010.csv,173
+92,Cloud Mage,BaseU_part_001.csv,93
+1941,Cloud Vila,BaseU_part_005.csv,308
+466,Cockatrice,BaseU_part_002.csv,65
+1346,Colossal Fetish,BaseU_part_004.csv,119
+958,Colossal Head,BaseU_part_003.csv,133
+3148,Colossi Heavy Infantry,BaseU_part_008.csv,304
+3165,Colossi Light Infantry,BaseU_part_008.csv,321
+3157,Colossi Queen,BaseU_part_008.csv,313
+3156,Colossi Storm Captain,BaseU_part_008.csv,312
+2262,Colossi Warrior,BaseU_part_006.csv,229
+3155,Colossi Weaver,BaseU_part_008.csv,311
+1867,Comitatense,BaseU_part_005.csv,234
+34,Commander,BaseU_part_001.csv,35
+35,Commander,BaseU_part_001.csv,36
+36,Commander,BaseU_part_001.csv,37
+3182,Commander,BaseU_part_008.csv,338
+3186,Commander,BaseU_part_008.csv,342
+163,Commander of C'tis,BaseU_part_001.csv,164
+114,Commander of Ulm,BaseU_part_001.csv,115
+115,Commander of Ulm,BaseU_part_001.csv,116
+116,Commander of Ulm,BaseU_part_001.csv,117
+117,Commander of Ulm,BaseU_part_001.csv,118
+1016,Commander of Ulm,BaseU_part_003.csv,191
+412,Commoner,BaseU_part_002.csv,13
+3822,Commoner,BaseU_part_010.csv,178
+3823,Commoner,BaseU_part_010.csv,179
+2694,Condor,BaseU_part_007.csv,250
+2667,Condor Warrior,BaseU_part_007.csv,223
+94,Conjurer,BaseU_part_001.csv,95
+2865,Conqueror of the Closed Realm,BaseU_part_008.csv,21
+2866,Conqueror of the Closed Realm,BaseU_part_008.csv,22
+441,Consort,BaseU_part_002.csv,41
+1708,Consort of the Dead,BaseU_part_005.csv,81
+2416,Coral Clan Hoplite,BaseU_part_006.csv,377
+2386,Coral Clan Soldier,BaseU_part_006.csv,347
+1701,Coral Commander,BaseU_part_005.csv,74
+108,Coral Guard,BaseU_part_001.csv,109
+1622,Coral Guard,BaseU_part_004.csv,395
+1685,Coral Guard,BaseU_part_005.csv,58
+1694,Coral Priest,BaseU_part_005.csv,67
+373,Coral Prince,BaseU_part_001.csv,374
+112,Coral Queen,BaseU_part_001.csv,113
+528,Corpse Candle,BaseU_part_002.csv,121
+534,Corpse Construct,BaseU_part_002.csv,127
+1668,Corruptor,BaseU_part_005.csv,41
+525,Couatl,BaseU_part_002.csv,118
+1194,Couatl,BaseU_part_003.csv,367
+3827,Counter,BaseU_part_010.csv,183
+2659,Coya,BaseU_part_007.csv,215
+2102,Crab General,BaseU_part_006.csv,69
+243,Crab Hybrid,BaseU_part_001.csv,244
+3825,Crate,BaseU_part_010.csv,181
+4060,Crimson King,BaseU_part_011.csv,16
+2798,Criosphinx,BaseU_part_007.csv,354
+2185,Crocodile,BaseU_part_006.csv,152
+249,Crone,BaseU_part_001.csv,250
+402,Crone,BaseU_part_002.csv,3
+153,Crone of Avalon,BaseU_part_001.csv,154
+47,Crossbowman,BaseU_part_001.csv,48
+48,Crossbowman,BaseU_part_001.csv,49
+49,Crossbowman,BaseU_part_001.csv,50
+218,Crossbowman,BaseU_part_001.csv,219
+290,Crossbowman,BaseU_part_001.csv,291
+417,Crossbowman,BaseU_part_002.csv,17
+2108,Crossbowman,BaseU_part_006.csv,75
+2454,Crossbowman,BaseU_part_007.csv,15
+3918,Crossbowman,BaseU_part_010.csv,274
+3790,Crosswielder,BaseU_part_010.csv,146
+3688,Crow,BaseU_part_010.csv,44
+3886,Crow,BaseU_part_010.csv,242
+3673,Crow Clan Archer,BaseU_part_010.csv,29
+3672,Crow Clan Scout,BaseU_part_010.csv,28
+3681,Crow Clan Seithberender,BaseU_part_010.csv,37
+1426,Crowned Ape,BaseU_part_004.csv,199
+475,Crusher,BaseU_part_002.csv,74
+3774,Crystal,BaseU_part_010.csv,130
+3775,Crystal,BaseU_part_010.csv,131
+3776,Crystal,BaseU_part_010.csv,132
+3777,Crystal,BaseU_part_010.csv,133
+340,Crystal Mage,BaseU_part_001.csv,341
+347,Crystal Priestess,BaseU_part_001.csv,348
+346,Crystal Sorceress,BaseU_part_001.csv,347
+3639,Crystal Soul,BaseU_part_009.csv,395
+851,Cu Sidhe,BaseU_part_003.csv,26
+1770,Cu Sidhe,BaseU_part_005.csv,143
+3675,Cub-Warrior,BaseU_part_010.csv,31
+1639,Cultist,BaseU_part_005.csv,12
+1640,Cultist,BaseU_part_005.csv,13
+3223,Cyclope Commander,BaseU_part_008.csv,379
+3225,Cyclope Smith,BaseU_part_008.csv,381
+3224,Cyclope Soldier,BaseU_part_008.csv,380
+156,Cyclops,BaseU_part_001.csv,157
+3381,Cyclops,BaseU_part_009.csv,137
+3135,Cyclops Chieftain,BaseU_part_008.csv,291
+3137,Cyclops Hurler,BaseU_part_008.csv,293
+3141,Cyclops Shepherd Shaman,BaseU_part_008.csv,297
+3136,Cyclops Warrior,BaseU_part_008.csv,292
+3278,Cynocephalian Chieftain,BaseU_part_009.csv,34
+3300,Cynocephalian Chieftain,BaseU_part_009.csv,56
+3299,Cynocephalian Flesh-Eater,BaseU_part_009.csv,55
+3276,Cynocephalian Hunter,BaseU_part_009.csv,32
+3298,Cynocephalian Hunter,BaseU_part_009.csv,54
+3279,Cynocephalian Shaman,BaseU_part_009.csv,35
+3301,Cynocephalian Shaman,BaseU_part_009.csv,57
+3277,Cynocephalian Warrior,BaseU_part_009.csv,33
+2867,Daduchos,BaseU_part_008.csv,23
+2868,Daduchos,BaseU_part_008.csv,24
+3032,Daduchos,BaseU_part_008.csv,188
+3033,Daduchos,BaseU_part_008.csv,189
+2630,Daeva,BaseU_part_007.csv,186
+2617,Daeva of Aging,BaseU_part_007.csv,173
+2616,Daeva of Destruction,BaseU_part_007.csv,172
+2615,Daeva of Discontent,BaseU_part_007.csv,171
+2612,Daeva of Evil Intentions,BaseU_part_007.csv,168
+2634,Daeva of Frost and Snow,BaseU_part_007.csv,190
+2613,Daeva of Frozen Minds,BaseU_part_007.csv,169
+2614,Daeva of Oppression,BaseU_part_007.csv,170
+2632,Daeva of Shooting Stars,BaseU_part_007.csv,188
+2627,Daeva of Wrath,BaseU_part_007.csv,183
+109,Dagon,BaseU_part_001.csv,110
+1396,Dai Bakemono,BaseU_part_004.csv,169
+1397,Dai Bakemono,BaseU_part_004.csv,170
+1316,Dai Oni,BaseU_part_004.csv,89
+1480,Dai Tengu,BaseU_part_004.csv,253
+1252,Daimyo,BaseU_part_004.csv,25
+1253,Daimyo,BaseU_part_004.csv,26
+3663,Daitya,BaseU_part_010.csv,19
+1714,Dakini,BaseU_part_005.csv,87
+2836,Daktyl,BaseU_part_007.csv,392
+3348,Damned Admiral,BaseU_part_009.csv,104
+3350,Damned Boatswain,BaseU_part_009.csv,106
+3351,Damned Buccaneer,BaseU_part_009.csv,107
+3352,Damned Buccaneer,BaseU_part_009.csv,108
+3349,Damned Captain,BaseU_part_009.csv,105
+1767,Danava,BaseU_part_005.csv,140
+849,Daoine Sidhe,BaseU_part_003.csv,24
+3640,Dark Crystal,BaseU_part_009.csv,396
+3780,Dark Flower,BaseU_part_010.csv,136
+3781,Dark Flower,BaseU_part_010.csv,137
+3782,Dark Flower,BaseU_part_010.csv,138
+647,Dark Knight,BaseU_part_002.csv,228
+330,Dark Vines,BaseU_part_001.csv,331
+2600,Dastur,BaseU_part_007.csv,156
+151,Daughter of Avalon,BaseU_part_001.csv,152
+3242,Daughter of the Oak,BaseU_part_008.csv,398
+3001,Daughter of the Sun,BaseU_part_008.csv,157
+3241,Daughter of the Thunder,BaseU_part_008.csv,397
+1822,Daughter of Typhon,BaseU_part_005.csv,195
+1823,Daughter of Typhon,BaseU_part_005.csv,196
+1824,Daughter of Typhon,BaseU_part_005.csv,197
+1825,Daughter of Typhon,BaseU_part_005.csv,198
+1826,Daughter of Typhon,BaseU_part_005.csv,199
+1827,Daughter of Typhon,BaseU_part_005.csv,200
+1828,Daughter of Typhon,BaseU_part_005.csv,201
+1829,Daughter of Typhon,BaseU_part_005.csv,202
+1830,Daughter of Typhon,BaseU_part_005.csv,203
+2037,Dawn Guard,BaseU_part_006.csv,4
+547,Dead One,BaseU_part_002.csv,140
+1959,Deathless,BaseU_part_005.csv,326
+4136,Debug Kohai,BaseU_part_011.csv,92
+4135,Debug Senpai,BaseU_part_011.csv,91
+1847,Decrepit,BaseU_part_005.csv,218
+1686,Deep One,BaseU_part_005.csv,59
+1571,Deep One Dreamer,BaseU_part_004.csv,344
+1687,Deep One Spearman,BaseU_part_005.csv,60
+104,Deep Seer,BaseU_part_001.csv,105
+2228,Deer,BaseU_part_006.csv,195
+408,Deer Carcass,BaseU_part_002.csv,9
+1595,Deer Tribe Archer,BaseU_part_004.csv,368
+1598,Deer Tribe Shaman,BaseU_part_004.csv,371
+1594,Deer Tribe Warrior,BaseU_part_004.csv,367
+1400,Defender,BaseU_part_004.csv,173
+2507,Defender of the Halls,BaseU_part_007.csv,68
+1911,Defiler of Dreams,BaseU_part_005.csv,278
+3086,Deives of the Sun,BaseU_part_008.csv,242
+3868,Deliverer of Justice,BaseU_part_010.csv,224
+180,Demilich,BaseU_part_001.csv,181
+3395,Demiurge,BaseU_part_009.csv,151
+1314,Demon General,BaseU_part_004.csv,87
+1000,Demon Jester,BaseU_part_003.csv,175
+489,Demon Knight,BaseU_part_002.csv,88
+2777,Demon Macaw,BaseU_part_007.csv,333
+926,Demon of Heavenly Fires,BaseU_part_003.csv,101
+904,Demon of Heavenly Rivers,BaseU_part_003.csv,79
+2759,Demon of Pus,BaseU_part_007.csv,315
+2757,Demon of the Bone Staff,BaseU_part_007.csv,313
+2758,Demon of the Skull Staff,BaseU_part_007.csv,314
+1609,Demon Priest,BaseU_part_004.csv,382
+3529,Demon Steed,BaseU_part_009.csv,285
+87,Demonbred,BaseU_part_001.csv,88
+121,Demonbred,BaseU_part_001.csv,122
+1537,Demonbred,BaseU_part_004.csv,310
+2794,Demonic Locust,BaseU_part_007.csv,350
+3708,Desert Flower,BaseU_part_010.csv,64
+1094,Desert Ranger,BaseU_part_003.csv,269
+3517,Destrier,BaseU_part_009.csv,273
+3518,Destrier,BaseU_part_009.csv,274
+3582,Destrier,BaseU_part_009.csv,338
+3583,Destrier,BaseU_part_009.csv,339
+3897,Destrier,BaseU_part_010.csv,253
+3898,Destrier,BaseU_part_010.csv,254
+1096,Destroyer of Worlds,BaseU_part_003.csv,271
+1713,Devala,BaseU_part_005.csv,86
+1336,Devata,BaseU_part_004.csv,109
+1341,Devi of Darkness,BaseU_part_004.csv,114
+601,Devi of Fortunes,BaseU_part_002.csv,182
+1344,Devi of Good Fortunes,BaseU_part_004.csv,117
+3926,Devi of Strength,BaseU_part_010.csv,282
+304,Devil,BaseU_part_001.csv,305
+1673,Devourer of Demons,BaseU_part_005.csv,46
+1349,Devourer of Souls,BaseU_part_004.csv,122
+3088,Dharmapala of the Underworld,BaseU_part_008.csv,244
+744,Diabolist,BaseU_part_002.csv,325
+3414,Dimvaetti,BaseU_part_009.csv,170
+1224,Dire Wolf,BaseU_part_003.csv,397
+1507,Dis,BaseU_part_004.csv,280
+3523,Disahestur,BaseU_part_009.csv,279
+3243,Disciple of Myrddin,BaseU_part_008.csv,399
+3120,Discobolus,BaseU_part_008.csv,276
+1662,Disease Demon,BaseU_part_005.csv,35
+674,Dispossessed Spirit,BaseU_part_002.csv,255
+2045,Ditanu,BaseU_part_006.csv,12
+4003,Divine Consul,BaseU_part_010.csv,359
+3834,Divine Daughter,BaseU_part_010.csv,190
+874,Divine Emperor,BaseU_part_003.csv,49
+1025,Divine Glyph,BaseU_part_003.csv,200
+3832,Divine Hero,BaseU_part_010.csv,188
+778,Divine Mummy,BaseU_part_002.csv,359
+3833,Divine Sibyl,BaseU_part_010.csv,189
+3835,Divine Son,BaseU_part_010.csv,191
+3934,Divine Stallion,BaseU_part_010.csv,290
+1559,Dog,BaseU_part_004.csv,332
+1560,Dog,BaseU_part_004.csv,333
+2795,Dog of the Underworld,BaseU_part_007.csv,351
+637,Draco Lion,BaseU_part_002.csv,218
+644,Dracolich,BaseU_part_002.csv,225
+3888,Dracolich,BaseU_part_010.csv,244
+593,Draconian,BaseU_part_002.csv,180
+620,Draconian Chief,BaseU_part_002.csv,201
+216,Dragon,BaseU_part_001.csv,217
+265,Dragon,BaseU_part_001.csv,266
+266,Dragon,BaseU_part_001.csv,267
+2534,Dragon,BaseU_part_007.csv,90
+3641,Dragon,BaseU_part_009.csv,397
+3710,Dragon,BaseU_part_010.csv,66
+2458,Dragon Girl,BaseU_part_007.csv,19
+2459,Dragon Girl,BaseU_part_007.csv,20
+2316,Dragon King,BaseU_part_006.csv,277
+3249,Dragon of the Cave,BaseU_part_009.csv,5
+3250,Dragon of the Cave,BaseU_part_009.csv,6
+591,Dragonfly,BaseU_part_002.csv,178
+1231,Drakaina,BaseU_part_004.csv,4
+1451,Drake Lord,BaseU_part_004.csv,224
+2783,Drakon,BaseU_part_007.csv,339
+3167,Drakon Hesperios,BaseU_part_008.csv,323
+2190,Draug,BaseU_part_006.csv,157
+2191,Draug,BaseU_part_006.csv,158
+2194,Draugadrott,BaseU_part_006.csv,161
+2192,Draugherse,BaseU_part_006.csv,159
+2193,Draugherse,BaseU_part_006.csv,160
+338,Dreamwood Enchanter,BaseU_part_001.csv,339
+2468,Druid,BaseU_part_007.csv,29
+237,Dryad,BaseU_part_001.csv,238
+705,Dryad,BaseU_part_002.csv,286
+2187,Dryad,BaseU_part_006.csv,154
+2480,Dryad Hag,BaseU_part_007.csv,41
+704,Dryad Hoplite,BaseU_part_002.csv,285
+2487,Dryad Mother,BaseU_part_007.csv,48
+3080,Duiu of Farming,BaseU_part_008.csv,236
+3079,Duiu of Thunder,BaseU_part_008.csv,235
+3081,Duiu of War,BaseU_part_008.csv,237
+253,Dusk Elder,BaseU_part_001.csv,254
+2068,Dusk Elder,BaseU_part_006.csv,35
+1979,Dust King,BaseU_part_005.csv,346
+1978,Dust Priest,BaseU_part_005.csv,345
+1981,Dust Walker,BaseU_part_005.csv,348
+1980,Dust Warrior,BaseU_part_005.csv,347
+324,Dwarf Elder,BaseU_part_001.csv,325
+3427,Dwarf of the East,BaseU_part_009.csv,183
+3425,Dwarf of the North,BaseU_part_009.csv,181
+3426,Dwarf of the South,BaseU_part_009.csv,182
+3428,Dwarf of the West,BaseU_part_009.csv,184
+323,Dwarven Smith,BaseU_part_001.csv,324
+759,Dweller-In-The-Deep,BaseU_part_002.csv,340
+981,Dying Treelord,BaseU_part_003.csv,156
+1286,Eagle King,BaseU_part_004.csv,59
+936,Eagle Priest,BaseU_part_003.csv,111
+726,Eagle Warrior,BaseU_part_002.csv,307
+895,Ear of the Lord,BaseU_part_003.csv,70
+3738,Earth Elemental,BaseU_part_010.csv,94
+3739,Earth Elemental,BaseU_part_010.csv,95
+3740,Earth Elemental,BaseU_part_010.csv,96
+3741,Earth Elemental,BaseU_part_010.csv,97
+3742,Earth Elemental,BaseU_part_010.csv,98
+3743,Earth Elemental,BaseU_part_010.csv,99
+3744,Earth Elemental,BaseU_part_010.csv,100
+3745,Earth Elemental,BaseU_part_010.csv,101
+561,Earth Gnome,BaseU_part_002.csv,154
+2502,Earth made Flesh,BaseU_part_007.csv,63
+1460,Earth Reader,BaseU_part_004.csv,233
+1473,Earth Reader,BaseU_part_004.csv,246
+2791,Earth Serpent,BaseU_part_007.csv,347
+1458,Earth-Blooded,BaseU_part_004.csv,231
+1280,Earthbound,BaseU_part_004.csv,53
+651,Eater of Dreams,BaseU_part_002.csv,232
+1148,Eater of Gods,BaseU_part_003.csv,321
+1149,Eater of Gods,BaseU_part_003.csv,322
+1150,Eater of Gods,BaseU_part_003.csv,323
+994,Eater of the Dead,BaseU_part_003.csv,169
+995,Eater of the Dead,BaseU_part_003.csv,170
+996,Eater of the Dead,BaseU_part_003.csv,171
+2005,Edomite,BaseU_part_005.csv,372
+2010,Edomite Scout,BaseU_part_005.csv,377
+146,Einhere,BaseU_part_001.csv,147
+544,Einhere,BaseU_part_002.csv,137
+3183,Ekdromos,BaseU_part_008.csv,339
+3118,Elder Cyclops,BaseU_part_008.csv,274
+3138,Elder Cyclops,BaseU_part_008.csv,294
+3231,Elder Cyclops,BaseU_part_008.csv,387
+1204,Elder Druid,BaseU_part_003.csv,377
+752,Elder Thing,BaseU_part_002.csv,333
+3121,Eldest Cyclops,BaseU_part_008.csv,277
+2206,Eldest Dwarf,BaseU_part_006.csv,173
+2398,Elephant,BaseU_part_006.csv,359
+4013,Elephant Archer,BaseU_part_010.csv,369
+4017,Elephant Archer,BaseU_part_010.csv,373
+4018,Elephant Archer,BaseU_part_010.csv,374
+4019,Elephant Archer,BaseU_part_010.csv,375
+3661,Elephant Idol,BaseU_part_010.csv,17
+150,Elephant Rider,BaseU_part_001.csv,151
+1147,Elephant Rider,BaseU_part_003.csv,320
+1555,Elephant Rider,BaseU_part_004.csv,328
+2261,Elephant Rider,BaseU_part_006.csv,228
+2307,Elephant Rider,BaseU_part_006.csv,268
+8,Elephant Spearman,BaseU_part_001.csv,9
+3643,Elephant Spearman,BaseU_part_009.csv,399
+172,Elite Warrior,BaseU_part_001.csv,173
+630,Elludian Moon Mage,BaseU_part_002.csv,211
+3616,Emerald Count,BaseU_part_009.csv,372
+7,Emerald Guard,BaseU_part_001.csv,8
+3613,Emerald Knight,BaseU_part_009.csv,369
+6,Emerald Lord,BaseU_part_001.csv,7
+2038,Emite,BaseU_part_006.csv,5
+502,Empoisoner,BaseU_part_002.csv,95
+1181,Enarie,BaseU_part_003.csv,354
+1072,Engineer,BaseU_part_003.csv,247
+2491,Engraver,BaseU_part_007.csv,52
+2176,Enki's Chosen,BaseU_part_006.csv,143
+2160,Enkidu,BaseU_part_006.csv,127
+2162,Enkidu,BaseU_part_006.csv,129
+2933,Enkidu,BaseU_part_008.csv,89
+2163,Enkidu Archer,BaseU_part_006.csv,130
+2935,Enkidu Archer,BaseU_part_008.csv,91
+2171,Enkidu Bone Reader,BaseU_part_006.csv,138
+2166,Enkidu Chief,BaseU_part_006.csv,133
+2177,Enkidu Commander,BaseU_part_006.csv,144
+2942,Enkidu Commander,BaseU_part_008.csv,98
+2178,Enkidu Elder,BaseU_part_006.csv,145
+3191,Enkidu Great Sage,BaseU_part_008.csv,347
+2170,Enkidu Head Hunter,BaseU_part_006.csv,137
+2938,Enkidu Heavy Archer,BaseU_part_008.csv,94
+2173,Enkidu Horn Blower,BaseU_part_006.csv,140
+2168,Enkidu Hunter,BaseU_part_006.csv,135
+2169,Enkidu Hunter Chief,BaseU_part_006.csv,136
+2940,Enkidu Iron Warrior,BaseU_part_008.csv,96
+2183,Enkidu Reaver,BaseU_part_006.csv,150
+2941,Enkidu Royal Guard,BaseU_part_008.csv,97
+2161,Enkidu Scout,BaseU_part_006.csv,128
+2934,Enkidu Scout,BaseU_part_008.csv,90
+2167,Enkidu Shaman,BaseU_part_006.csv,134
+2954,Enkidu Shaman,BaseU_part_008.csv,110
+2184,Enkidu Slave,BaseU_part_006.csv,151
+2172,Enkidu Soldier,BaseU_part_006.csv,139
+2939,Enkidu Soldier,BaseU_part_008.csv,95
+2174,Enkidu Spear Guard,BaseU_part_006.csv,141
+2936,Enkidu Spearman,BaseU_part_008.csv,92
+2164,Enkidu Warrior,BaseU_part_006.csv,131
+2165,Enkidu Warrior,BaseU_part_006.csv,132
+2937,Enkidu Warrior,BaseU_part_008.csv,93
+2181,Ensi,BaseU_part_006.csv,148
+2943,Ensi,BaseU_part_008.csv,99
+1352,Entrance Guard,BaseU_part_004.csv,125
+2269,Entu,BaseU_part_006.csv,236
+2948,Entu,BaseU_part_008.csv,104
+2432,Entu of the Moon,BaseU_part_006.csv,393
+1961,Eparch,BaseU_part_005.csv,328
+2845,Ephor,BaseU_part_007.csv,401
+3115,Ephor,BaseU_part_008.csv,271
+1207,Eponi Chieftain,BaseU_part_003.csv,380
+1208,Eponi Knight,BaseU_part_003.csv,381
+1875,Epoptes,BaseU_part_005.csv,242
+1107,Equite,BaseU_part_003.csv,282
+1108,Equite of the Sacred Shroud,BaseU_part_003.csv,283
+2947,Ereshdingir,BaseU_part_008.csv,103
+2141,Ergi,BaseU_part_006.csv,108
+1296,Erinya,BaseU_part_004.csv,69
+1297,Erinya,BaseU_part_004.csv,70
+1298,Erinya,BaseU_part_004.csv,71
+554,Ermorian Cultist,BaseU_part_002.csv,147
+3026,Erytheian Commander,BaseU_part_008.csv,182
+3027,Erytheian Commander,BaseU_part_008.csv,183
+3030,Erytheian Crossbowman,BaseU_part_008.csv,186
+3031,Erytheian Crossbowman,BaseU_part_008.csv,187
+3022,Erytheian Hoplite,BaseU_part_008.csv,178
+3023,Erytheian Hoplite,BaseU_part_008.csv,179
+3020,Erytheian Phalangite,BaseU_part_008.csv,176
+3021,Erytheian Phalangite,BaseU_part_008.csv,177
+3036,Erytheian Priest,BaseU_part_008.csv,192
+3037,Erytheian Priest,BaseU_part_008.csv,193
+3028,Erytheian Scout,BaseU_part_008.csv,184
+3029,Erytheian Scout,BaseU_part_008.csv,185
+366,Eternal Knight,BaseU_part_001.csv,367
+737,Ether Lord,BaseU_part_002.csv,318
+736,Ether Warrior,BaseU_part_002.csv,317
+488,Ettin,BaseU_part_002.csv,87
+2481,Ettin King,BaseU_part_007.csv,42
+861,Ettin Mandragora,BaseU_part_003.csv,36
+805,Eunuch,BaseU_part_002.csv,386
+1960,Exarch,BaseU_part_005.csv,327
+896,Eye of the Lord,BaseU_part_003.csv,71
+627,Faery Queen,BaseU_part_002.csv,208
+504,Falchioneer,BaseU_part_002.csv,97
+3854,Falchioneer,BaseU_part_010.csv,210
+3371,Falcon,BaseU_part_009.csv,127
+3638,Falconeer,BaseU_part_009.csv,394
+512,Fall Bear,BaseU_part_002.csv,105
+1585,Fallen,BaseU_part_004.csv,358
+626,Fallen Angel,BaseU_part_002.csv,207
+448,False Horror,BaseU_part_002.csv,48
+2275,False Prophet,BaseU_part_006.csv,242
+1008,Fanatic Deep One,BaseU_part_003.csv,183
+470,Father Illearth,BaseU_part_002.csv,69
+2849,Father of Monsters,BaseU_part_008.csv,5
+2848,Father of the Sea,BaseU_part_008.csv,4
+1561,Father of Winters,BaseU_part_004.csv,334
+2639,Fatherslayer,BaseU_part_007.csv,195
+2433,Favored of Enki,BaseU_part_006.csv,394
+3239,Fay,BaseU_part_008.csv,395
+4116,Fay Archer,BaseU_part_011.csv,72
+463,Fay Boar,BaseU_part_002.csv,62
+4096,Fay Cat,BaseU_part_011.csv,52
+3912,Fay Folk,BaseU_part_010.csv,268
+3913,Fay Folk,BaseU_part_010.csv,269
+3914,Fay Folk,BaseU_part_010.csv,270
+3915,Fay Folk,BaseU_part_010.csv,271
+3916,Fay Folk,BaseU_part_010.csv,272
+3917,Fay Folk,BaseU_part_010.csv,273
+4095,Fay Folk Cat Knight,BaseU_part_011.csv,51
+4106,Fay Folk Donkey-In-Waiting,BaseU_part_011.csv,62
+4099,Fay Folk Emperor,BaseU_part_011.csv,55
+4094,Fay Folk Musician,BaseU_part_011.csv,50
+4104,Fay Folk Sheep Knight,BaseU_part_011.csv,60
+4097,Fay Folk Snail Knight,BaseU_part_011.csv,53
+4093,Fay Folk Stablehand,BaseU_part_011.csv,49
+4127,Fay Folk Swan Knight,BaseU_part_011.csv,83
+3903,Fay Footman,BaseU_part_010.csv,259
+3521,Fay Horse,BaseU_part_009.csv,277
+3933,Fay Horse,BaseU_part_010.csv,289
+3572,Fay Horse Chariot,BaseU_part_009.csv,328
+3901,Fay Knight,BaseU_part_010.csv,257
+4111,Fay Moose,BaseU_part_011.csv,67
+3904,Fay Prince,BaseU_part_010.csv,260
+3902,Fay Steed,BaseU_part_010.csv,258
+4128,Fay Swan,BaseU_part_011.csv,84
+364,Faydream Enchantress,BaseU_part_001.csv,365
+934,Feathered Serpent,BaseU_part_003.csv,109
+1885,Feathered Serpent,BaseU_part_005.csv,252
+1887,Feathered Serpent,BaseU_part_005.csv,254
+1897,Feathered Serpent,BaseU_part_005.csv,264
+860,Feathered Warrior,BaseU_part_003.csv,35
+1548,Feathered Warrior,BaseU_part_004.csv,321
+2536,Fellow,BaseU_part_007.csv,92
+3818,Feminie Abbess,BaseU_part_010.csv,174
+3804,Feminie Archer,BaseU_part_010.csv,160
+3805,Feminie City Guard,BaseU_part_010.csv,161
+3811,Feminie Commander,BaseU_part_010.csv,167
+3803,Feminie Militia,BaseU_part_010.csv,159
+3312,Feminie Queen,BaseU_part_009.csv,68
+3813,Feminie Savant,BaseU_part_010.csv,169
+3810,Feminie Scout,BaseU_part_010.csv,166
+3806,Feminie Soldier,BaseU_part_010.csv,162
+3314,Feminie Sorceress,BaseU_part_009.csv,70
+3814,Feminie Sorceress,BaseU_part_010.csv,170
+3807,Feminie Swordswoman,BaseU_part_010.csv,163
+3895,Ferryman,BaseU_part_010.csv,251
+1806,Fianna,BaseU_part_005.csv,179
+88,Fiend of Darkness,BaseU_part_001.csv,89
+2286,Fiery Imp,BaseU_part_006.csv,247
+3630,Fir Bolg Cattle Raider,BaseU_part_009.csv,386
+1750,Fir Bolg Champion,BaseU_part_005.csv,123
+1788,Fir Bolg Champion,BaseU_part_005.csv,161
+1815,Fir Bolg Champion,BaseU_part_005.csv,188
+3634,Fir Bolg Charioteer,BaseU_part_009.csv,390
+1786,Fir Bolg Clan Warrior,BaseU_part_005.csv,159
+1787,Fir Bolg Clan Warrior,BaseU_part_005.csv,160
+2469,Fir Bolg Druid,BaseU_part_007.csv,30
+1777,Fir Bolg Hero,BaseU_part_005.csv,150
+1749,Fir Bolg Militia,BaseU_part_005.csv,122
+1820,Fir Bolg Militia,BaseU_part_005.csv,193
+1755,Fir Bolg Scout,BaseU_part_005.csv,128
+1811,Fir Bolg Scout,BaseU_part_005.csv,184
+1758,Fir Bolg Slinger,BaseU_part_005.csv,131
+1785,Fir Bolg Slinger,BaseU_part_005.csv,158
+1814,Fir Bolg Slinger,BaseU_part_005.csv,187
+1756,Fir Bolg Warrior,BaseU_part_005.csv,129
+1757,Fir Bolg Warrior,BaseU_part_005.csv,130
+1812,Fir Bolg Warrior,BaseU_part_005.csv,185
+1813,Fir Bolg Warrior,BaseU_part_005.csv,186
+2225,Fire Ant,BaseU_part_006.csv,192
+523,Fire Drake,BaseU_part_002.csv,116
+3714,Fire Elemental,BaseU_part_010.csv,70
+3715,Fire Elemental,BaseU_part_010.csv,71
+3716,Fire Elemental,BaseU_part_010.csv,72
+3717,Fire Elemental,BaseU_part_010.csv,73
+3718,Fire Elemental,BaseU_part_010.csv,74
+3719,Fire Elemental,BaseU_part_010.csv,75
+3720,Fire Elemental,BaseU_part_010.csv,76
+3721,Fire Elemental,BaseU_part_010.csv,77
+389,Fire Lord,BaseU_part_001.csv,390
+814,Fire Snake,BaseU_part_002.csv,395
+1946,Firebird,BaseU_part_005.csv,313
+2713,First Couple,BaseU_part_007.csv,269
+864,First King,BaseU_part_003.csv,39
+3229,First of the Gigantes,BaseU_part_008.csv,385
+4002,First Queen,BaseU_part_010.csv,358
+2047,First Son of Anak,BaseU_part_006.csv,14
+3098,First Spawn,BaseU_part_008.csv,254
+3877,Firstborn of the Lost,BaseU_part_010.csv,233
+3473,Firstborn of the Smokeless Flame,BaseU_part_009.csv,229
+3054,Firstborn of the Star,BaseU_part_008.csv,210
+2857,Fish,BaseU_part_008.csv,13
+1919,Fivefold Angel,BaseU_part_005.csv,286
+217,Flagellant,BaseU_part_001.csv,218
+2520,Flame Barrel Nightmare,BaseU_part_007.csv,76
+1441,Flame Corpse,BaseU_part_004.csv,214
+2854,Flame Jelly,BaseU_part_008.csv,10
+2626,Flame Spirit,BaseU_part_007.csv,182
+1109,Flamen,BaseU_part_003.csv,284
+2195,Flayed Bull,BaseU_part_006.csv,162
+3560,Flayed Horse,BaseU_part_009.csv,316
+2210,Float Cat Horror,BaseU_part_006.csv,177
+2855,Floating Mind,BaseU_part_008.csv,11
+4065,Fommepori Shaman Chief,BaseU_part_011.csv,21
+3295,Fommepori Warrior,BaseU_part_009.csv,51
+1800,Fomorian Champion,BaseU_part_005.csv,173
+1819,Fomorian Druid,BaseU_part_005.csv,192
+1801,Fomorian Giant,BaseU_part_005.csv,174
+1899,Fomorian God King,BaseU_part_005.csv,266
+1797,Fomorian Javelinist,BaseU_part_005.csv,170
+1802,Fomorian King,BaseU_part_005.csv,175
+1796,Fomorian Militia,BaseU_part_005.csv,169
+1816,Fomorian Scout,BaseU_part_005.csv,189
+1898,Fomorian Sorcerer,BaseU_part_005.csv,265
+1798,Fomorian Spearman,BaseU_part_005.csv,171
+1799,Fomorian Warrior,BaseU_part_005.csv,172
+794,Footman,BaseU_part_002.csv,375
+795,Footman,BaseU_part_002.csv,376
+796,Footman,BaseU_part_002.csv,377
+2229,Forest Giant,BaseU_part_006.csv,196
+2219,Forest Troll,BaseU_part_006.csv,186
+1154,Forest Warrior,BaseU_part_003.csv,327
+2127,Forester,BaseU_part_006.csv,94
+2083,Forgiving Father,BaseU_part_006.csv,50
+537,Forgotten King,BaseU_part_002.csv,130
+966,Formless Spawn,BaseU_part_003.csv,141
+1011,Fortune Teller,BaseU_part_003.csv,186
+1998,Fossil Warrior,BaseU_part_005.csv,365
+1977,Fossilized Giant,BaseU_part_005.csv,344
+467,Foul Beast,BaseU_part_002.csv,66
+453,Foul Spawn,BaseU_part_002.csv,53
+454,Foul Spawn,BaseU_part_002.csv,54
+455,Foul Spawn,BaseU_part_002.csv,55
+456,Foul Spawn,BaseU_part_002.csv,56
+457,Foul Spawn,BaseU_part_002.csv,57
+458,Foul Spawn,BaseU_part_002.csv,58
+459,Foul Spawn,BaseU_part_002.csv,59
+460,Foul Spawn,BaseU_part_002.csv,60
+461,Foul Spawn,BaseU_part_002.csv,61
+468,Foul Spawn,BaseU_part_002.csv,67
+530,Foul Spawn,BaseU_part_002.csv,123
+656,Fountain of Blood,BaseU_part_002.csv,237
+2562,Fravashi,BaseU_part_007.csv,118
+247,Freak,BaseU_part_001.csv,248
+246,Freak Lord,BaseU_part_001.csv,247
+148,Friar,BaseU_part_001.csv,149
+2222,Frog,BaseU_part_006.csv,189
+250,Frost Father,BaseU_part_001.csv,251
+267,Frost Father,BaseU_part_001.csv,268
+449,Frost Fiend,BaseU_part_002.csv,49
+1991,Gadite Swordsman,BaseU_part_005.csv,358
+2182,Gala,BaseU_part_006.csv,149
+2945,Gala,BaseU_part_008.csv,101
+846,Galderman,BaseU_part_003.csv,21
+2144,Galdramathr,BaseU_part_006.csv,111
+1944,Gamayun,BaseU_part_005.csv,311
+1764,Gana,BaseU_part_005.csv,137
+1335,Gandharva,BaseU_part_004.csv,108
+2611,Gannag Menog,BaseU_part_007.csv,167
+2368,Gargoyle,BaseU_part_006.csv,329
+784,Garmhirding,BaseU_part_002.csv,365
+350,Garnet Priestess,BaseU_part_001.csv,351
+349,Garnet Sorceress,BaseU_part_001.csv,350
+3664,Garuda,BaseU_part_010.csv,20
+1446,Gate Lord,BaseU_part_004.csv,219
+2159,Gelatinous Cube,BaseU_part_006.csv,126
+792,General,BaseU_part_002.csv,373
+3979,General,BaseU_part_010.csv,335
+3114,Geronte,BaseU_part_008.csv,270
+566,Ghost,BaseU_part_002.csv,159
+1430,Ghost Cat,BaseU_part_004.csv,203
+1541,Ghost Champion,BaseU_part_004.csv,314
+1671,Ghost General,BaseU_part_005.csv,44
+872,Ghost King,BaseU_part_003.csv,47
+2853,Ghost King,BaseU_part_008.csv,9
+1539,Ghost Mage,BaseU_part_004.csv,312
+1540,Ghost Mage,BaseU_part_004.csv,313
+4108,Ghost Moose,BaseU_part_011.csv,64
+198,Ghoul,BaseU_part_001.csv,199
+1021,Ghoul Baron,BaseU_part_003.csv,196
+2477,Ghoul Commander,BaseU_part_007.csv,38
+1020,Ghoul Guardian,BaseU_part_003.csv,195
+3477,Ghul,BaseU_part_009.csv,233
+3478,Ghul,BaseU_part_009.csv,234
+3479,Ghul,BaseU_part_009.csv,235
+3480,Ghul,BaseU_part_009.csv,236
+3481,Ghulah,BaseU_part_009.csv,237
+3482,Ghulah,BaseU_part_009.csv,238
+3702,Giant Fungus,BaseU_part_010.csv,58
+3703,Giant Fungus,BaseU_part_010.csv,59
+3704,Giant Fungus,BaseU_part_010.csv,60
+3705,Giant Fungus,BaseU_part_010.csv,61
+3706,Giant Fungus,BaseU_part_010.csv,62
+210,Giant Lobster,BaseU_part_001.csv,211
+642,Giant Lobster,BaseU_part_002.csv,223
+741,Giant Mummy,BaseU_part_002.csv,322
+742,Giant Mummy,BaseU_part_002.csv,323
+3320,Giant of the Lost Tribe,BaseU_part_009.csv,76
+3878,Giant of the Lost Tribe,BaseU_part_010.csv,234
+3701,Giant Puff Shroom,BaseU_part_010.csv,57
+410,Giant Rat,BaseU_part_002.csv,11
+2233,Giant Scorpion,BaseU_part_006.csv,200
+2688,Giant Scorpion,BaseU_part_007.csv,244
+2640,Giant Shaman,BaseU_part_007.csv,196
+2641,Giant Sorcerer,BaseU_part_007.csv,197
+782,Giant Spider,BaseU_part_002.csv,363
+2000,Gibbor,BaseU_part_005.csv,367
+1522,Gibodai,BaseU_part_004.csv,295
+1403,Giboleth,BaseU_part_004.csv,176
+3150,Gigante,BaseU_part_008.csv,306
+3109,Gigante Ekdromos,BaseU_part_008.csv,265
+3110,Gigante Hoplite,BaseU_part_008.csv,266
+3140,Gigante Warrior,BaseU_part_008.csv,296
+2007,Gileadite,BaseU_part_005.csv,374
+2061,Gileadite Archer,BaseU_part_006.csv,28
+2002,Gittite Commander,BaseU_part_005.csv,369
+1999,Gittite Soldier,BaseU_part_005.csv,366
+12,Gladiator,BaseU_part_001.csv,13
+3123,Gladiatrix,BaseU_part_008.csv,279
+2363,Gloso,BaseU_part_006.csv,324
+345,Gnome,BaseU_part_001.csv,346
+411,Gnome,BaseU_part_002.csv,12
+3982,Gnome,BaseU_part_010.csv,338
+4132,Gnu,BaseU_part_011.csv,88
+4133,Gnu Clan Cavalry,BaseU_part_011.csv,89
+4134,Gnu Clan Commander,BaseU_part_011.csv,90
+1244,Go-Hatamoto,BaseU_part_004.csv,17
+2227,Goat,BaseU_part_006.csv,194
+1405,Goat Sun,BaseU_part_004.csv,178
+3328,God Block,BaseU_part_009.csv,84
+3951,God Lich,BaseU_part_010.csv,307
+3952,God Lich,BaseU_part_010.csv,308
+3651,God Spider,BaseU_part_010.csv,7
+2498,God Vessel,BaseU_part_007.csv,59
+2499,God Vessel,BaseU_part_007.csv,60
+2500,God Vessel,BaseU_part_007.csv,61
+3058,God-King of the Deep,BaseU_part_008.csv,214
+2140,Gode,BaseU_part_006.csv,107
+2149,Gode,BaseU_part_006.csv,116
+841,Godihuskarl,BaseU_part_003.csv,16
+1307,Godihuskarl,BaseU_part_004.csv,80
+3967,Godihuskarl,BaseU_part_010.csv,323
+2200,Goetic Adept,BaseU_part_006.csv,167
+2428,Goetic Captain,BaseU_part_006.csv,389
+745,Goetic Master,BaseU_part_002.csv,326
+3317,Gog Dog-Father,BaseU_part_009.csv,73
+3315,Gog Reaver,BaseU_part_009.csv,71
+1249,Gokenin,BaseU_part_004.csv,22
+2462,Golden Idol,BaseU_part_007.csv,23
+2958,Golden Lion,BaseU_part_008.csv,114
+334,Golden Naga,BaseU_part_001.csv,335
+2503,Golden Pillar,BaseU_part_007.csv,64
+471,Golem,BaseU_part_002.csv,70
+1474,Golem Crafter,BaseU_part_004.csv,247
+2213,Gore Tide Horror,BaseU_part_006.csv,180
+138,Gorgon,BaseU_part_001.csv,139
+3053,Grand Hierophant,BaseU_part_008.csv,209
+3055,Grand Hydromancer,BaseU_part_008.csv,211
+2335,Grand Lemur,BaseU_part_006.csv,296
+223,Grand Master,BaseU_part_001.csv,224
+320,Grand Saurolich,BaseU_part_001.csv,321
+670,Grand Thaumaturg,BaseU_part_002.csv,251
+977,Grand Thaumaturg,BaseU_part_003.csv,152
+2763,Grandfather Earth,BaseU_part_007.csv,319
+2886,Grandmother,BaseU_part_008.csv,42
+3260,Grandmother Earth,BaseU_part_009.csv,16
+1498,Granite Guardian,BaseU_part_004.csv,271
+690,Grave Consort,BaseU_part_002.csv,271
+3490,Gray Enchantress,BaseU_part_009.csv,246
+1705,Great Ape,BaseU_part_005.csv,78
+3416,Great Archon,BaseU_part_009.csv,172
+694,Great Bear,BaseU_part_002.csv,275
+3003,Great Bear,BaseU_part_008.csv,159
+3258,Great Bear,BaseU_part_009.csv,14
+3686,Great Bear,BaseU_part_010.csv,42
+3882,Great Bear,BaseU_part_010.csv,238
+978,Great Black Bull,BaseU_part_003.csv,153
+1807,Great Boar,BaseU_part_005.csv,180
+2136,Great Boar,BaseU_part_006.csv,103
+1809,Great Boar of Carnutes,BaseU_part_005.csv,182
+3192,Great Camazotz,BaseU_part_008.csv,348
+1381,Great Eagle,BaseU_part_004.csv,154
+1383,Great Eagle,BaseU_part_004.csv,156
+485,Great Enchantress,BaseU_part_002.csv,84
+1951,Great Forest Bear,BaseU_part_005.csv,318
+586,Great Hag,BaseU_part_002.csv,173
+1380,Great Hawk,BaseU_part_004.csv,153
+3379,Great Huntress,BaseU_part_009.csv,135
+628,Great Lion,BaseU_part_002.csv,209
+4107,Great Moose,BaseU_part_011.csv,63
+606,Great Mother,BaseU_part_002.csv,187
+3142,Great Mouflon,BaseU_part_008.csv,298
+3530,Great Mouflon,BaseU_part_009.csv,286
+2492,Great Olm,BaseU_part_007.csv,53
+2528,Great Olm,BaseU_part_007.csv,84
+251,Great Sage,BaseU_part_001.csv,252
+3642,Great Sage,BaseU_part_009.csv,398
+2205,Great Sauromancer,BaseU_part_006.csv,172
+873,Great Seer of the Deeps,BaseU_part_003.csv,48
+2441,Great Seer of the Deeps,BaseU_part_007.csv,2
+2202,Great Siddha,BaseU_part_006.csv,169
+2207,Great Sorcerer,BaseU_part_006.csv,174
+1905,Great Sorceress,BaseU_part_005.csv,272
+884,Great Spider,BaseU_part_003.csv,59
+898,Great Spider,BaseU_part_003.csv,73
+947,Great Spider,BaseU_part_003.csv,122
+3554,Great Spider,BaseU_part_009.csv,310
+3653,Great Spider,BaseU_part_010.csv,9
+3655,Great Spider,BaseU_part_010.csv,11
+3692,Great Stag,BaseU_part_010.csv,48
+486,Great Warlock,BaseU_part_002.csv,85
+2609,Great Warlock,BaseU_part_007.csv,165
+979,Great White Bull,BaseU_part_003.csv,154
+3693,Great White Stag,BaseU_part_010.csv,49
+754,Greater Otherness,BaseU_part_002.csv,335
+376,Green Knight,BaseU_part_001.csv,377
+1983,Green Lion,BaseU_part_005.csv,350
+390,Grey Knight,BaseU_part_001.csv,391
+391,Grey Lord,BaseU_part_001.csv,392
+3204,Grey One,BaseU_part_008.csv,360
+1922,Grid Druzhina,BaseU_part_005.csv,289
+2247,Grieving Dryad,BaseU_part_006.csv,214
+2062,Grigori,BaseU_part_006.csv,29
+2063,Grigori,BaseU_part_006.csv,30
+2064,Grigori,BaseU_part_006.csv,31
+2065,Grigori,BaseU_part_006.csv,32
+2066,Grigori,BaseU_part_006.csv,33
+2067,Grigori,BaseU_part_006.csv,34
+659,Grotesque,BaseU_part_002.csv,240
+702,Grove Guard,BaseU_part_002.csv,283
+2131,Gryphon,BaseU_part_006.csv,98
+3544,Gryphon,BaseU_part_009.csv,300
+368,Gryphon - XXX,BaseU_part_001.csv,369
+612,Gryphon Rider,BaseU_part_002.csv,193
+66,Guardian,BaseU_part_001.csv,67
+3467,Guardian of the Forbidden Chambers,BaseU_part_009.csv,223
+990,Guardian of the Pyre,BaseU_part_003.csv,165
+1582,Guardian of the Tree,BaseU_part_004.csv,355
+2268,Gudu,BaseU_part_006.csv,235
+2949,Gudu,BaseU_part_008.csv,105
+1326,Guhyaka,BaseU_part_004.csv,99
+2542,Guhyaka General,BaseU_part_007.csv,98
+585,Guild Master,BaseU_part_002.csv,172
+1143,Guru,BaseU_part_003.csv,316
+1205,Gutuater,BaseU_part_003.csv,378
+785,Gygja,BaseU_part_002.csv,366
+3397,Gygja,BaseU_part_009.csv,153
+3957,Gygja,BaseU_part_010.csv,313
+1958,Hag,BaseU_part_005.csv,325
+2692,Halach Uinic,BaseU_part_007.csv,248
+220,Halberdier,BaseU_part_001.csv,221
+1014,Halberdier,BaseU_part_003.csv,189
+2111,Halberdier,BaseU_part_006.csv,78
+3855,Halberdier,BaseU_part_010.csv,211
+2861,Haliade,BaseU_part_008.csv,17
+3066,Hamadryad,BaseU_part_008.csv,222
+2114,Hand of Justice,BaseU_part_006.csv,81
+634,Handmaiden of Death,BaseU_part_002.csv,215
+847,Hangadrott,BaseU_part_003.csv,22
+2473,Hangadrottning,BaseU_part_007.csv,34
+1432,Hannya,BaseU_part_004.csv,205
+1003,Harab Elder,BaseU_part_003.csv,178
+252,Harab Seraph,BaseU_part_001.csv,253
+951,Harab Seraph,BaseU_part_003.csv,126
+1663,Harab Seraph,BaseU_part_005.csv,36
+2619,Harab Seraph,BaseU_part_007.csv,175
+557,Harab Seraphine,BaseU_part_002.csv,150
+464,Harbinger,BaseU_part_002.csv,63
+3869,Harbinger of the Choir,BaseU_part_010.csv,225
+239,Harpy,BaseU_part_001.csv,240
+713,Harpy Manikin,BaseU_part_002.csv,294
+614,Harpy Queen,BaseU_part_002.csv,195
+491,Harvester of Sorrows,BaseU_part_002.csv,90
+2057,Hashmal,BaseU_part_006.csv,24
+664,Hastatus,BaseU_part_002.csv,245
+686,Hastatus,BaseU_part_002.csv,267
+1103,Hastatus,BaseU_part_003.csv,278
+1251,Hatamoto,BaseU_part_004.csv,24
+2648,Hatun Runa,BaseU_part_007.csv,204
+1139,Headless Hoburg Hero,BaseU_part_003.csv,312
+747,Heart Companion,BaseU_part_002.csv,328
+1670,Heart Hider,BaseU_part_005.csv,43
+2693,Heavenly Condor,BaseU_part_007.csv,249
+2452,Heavy Axeman,BaseU_part_007.csv,13
+19,Heavy Cavalry,BaseU_part_001.csv,20
+20,Heavy Cavalry,BaseU_part_001.csv,21
+21,Heavy Cavalry,BaseU_part_001.csv,22
+91,Heavy Cavalry,BaseU_part_001.csv,92
+292,Heavy Cavalry,BaseU_part_001.csv,293
+3187,Heavy Cavalry,BaseU_part_008.csv,343
+288,Heavy Crossbowman,BaseU_part_001.csv,289
+928,Heavy Footman,BaseU_part_003.csv,103
+929,Heavy Footman,BaseU_part_003.csv,104
+789,Heavy Horseman,BaseU_part_002.csv,370
+38,Heavy Infantry,BaseU_part_001.csv,39
+39,Heavy Infantry,BaseU_part_001.csv,40
+40,Heavy Infantry,BaseU_part_001.csv,41
+3185,Heavy Infantry,BaseU_part_008.csv,341
+3188,Heavy Infantry,BaseU_part_008.csv,344
+1182,Hedge Wizard,BaseU_part_003.csv,355
+2834,Hekateride,BaseU_part_007.csv,390
+3522,Helhestur,BaseU_part_009.csv,278
+1503,Helhirding,BaseU_part_004.csv,276
+1873,Heliodromus,BaseU_part_005.csv,240
+492,Heliophagus,BaseU_part_002.csv,91
+818,Heliophagus,BaseU_part_002.csv,399
+819,Heliophagus,BaseU_part_002.csv,400
+820,Heliophagus,BaseU_part_002.csv,401
+1502,Helkarl,BaseU_part_004.csv,275
+2967,Hell Spawn,BaseU_part_008.csv,123
+2968,Hell Spawn,BaseU_part_008.csv,124
+2969,Hell Spawn,BaseU_part_008.csv,125
+2970,Hell Spawn,BaseU_part_008.csv,126
+2971,Hell Spawn,BaseU_part_008.csv,127
+2972,Hell Spawn,BaseU_part_008.csv,128
+2973,Hell Spawn,BaseU_part_008.csv,129
+2974,Hell Spawn,BaseU_part_008.csv,130
+3061,Hell Spawn,BaseU_part_008.csv,217
+3062,Hellbred Giant,BaseU_part_008.csv,218
+3063,Hellbred Horite,BaseU_part_008.csv,219
+3132,Helote Archer,BaseU_part_008.csv,288
+3211,Helote Archer,BaseU_part_008.csv,367
+3212,Helote Crossbowman,BaseU_part_008.csv,368
+3103,Helote Ekdromos,BaseU_part_008.csv,259
+3105,Helote Hoplite,BaseU_part_008.csv,261
+3101,Helote Peltast,BaseU_part_008.csv,257
+3134,Helote Soldier,BaseU_part_008.csv,290
+3213,Helote Soldier,BaseU_part_008.csv,369
+3133,Helote Warrior,BaseU_part_008.csv,289
+3176,Herdsman,BaseU_part_008.csv,332
+2276,Heretic,BaseU_part_006.csv,243
+3339,Hermit Sahir,BaseU_part_009.csv,95
+371,Hero,BaseU_part_001.csv,372
+377,Hero,BaseU_part_001.csv,378
+378,Hero,BaseU_part_001.csv,379
+505,Hero,BaseU_part_002.csv,98
+506,Hero,BaseU_part_002.csv,99
+866,Hero,BaseU_part_003.csv,41
+952,Hero,BaseU_part_003.csv,127
+1778,Hero,BaseU_part_005.csv,151
+381,Heroine,BaseU_part_001.csv,382
+507,Heroine,BaseU_part_002.csv,100
+588,Heroine,BaseU_part_002.csv,175
+422,Herse,BaseU_part_002.csv,22
+839,Herse,BaseU_part_003.csv,14
+1605,Herse,BaseU_part_004.csv,378
+2150,Herse,BaseU_part_006.csv,117
+2532,Herse,BaseU_part_007.csv,88
+3160,Hesperide,BaseU_part_008.csv,316
+2797,Hieracosphinx,BaseU_part_007.csv,353
+242,Hiereia,BaseU_part_001.csv,243
+510,Hierodule,BaseU_part_002.csv,103
+587,Hierophant,BaseU_part_002.csv,174
+222,High Inquisitor,BaseU_part_001.csv,223
+2199,High Inquisitor,BaseU_part_006.csv,166
+1804,High King,BaseU_part_005.csv,177
+481,High Magus,BaseU_part_002.csv,80
+241,High Priest,BaseU_part_001.csv,242
+9,High Priest of C'tis,BaseU_part_001.csv,10
+160,High Priest of C'tis,BaseU_part_001.csv,161
+1907,High Priest of the Sky,BaseU_part_005.csv,274
+735,High Priest of the Sun,BaseU_part_002.csv,316
+203,High Seraph,BaseU_part_001.csv,204
+415,High Seraph,BaseU_part_002.csv,15
+2230,Hill Giant,BaseU_part_006.csv,197
+3367,Hinn,BaseU_part_009.csv,123
+1058,Hippocampus,BaseU_part_003.csv,233
+3644,Hippocampus,BaseU_part_009.csv,400
+144,Hirdman,BaseU_part_001.csv,145
+145,Hirdman,BaseU_part_001.csv,146
+1510,Hirdman,BaseU_part_004.csv,283
+2533,Hirdman,BaseU_part_007.csv,89
+3405,Hirdvaetti,BaseU_part_009.csv,161
+272,Hoburg Champion,BaseU_part_001.csv,273
+273,Hoburg Crossbow,BaseU_part_001.csv,274
+3393,Hoburg Defender,BaseU_part_009.csv,149
+548,Hoburg Hero,BaseU_part_002.csv,141
+483,Hoburg Militia,BaseU_part_002.csv,82
+3392,Hoburg Pikeman,BaseU_part_009.csv,148
+1195,Hoburg Priest,BaseU_part_003.csv,368
+3390,Hoburg Slinger,BaseU_part_009.csv,146
+3391,Hoburg Spearman,BaseU_part_009.csv,147
+1237,Hochmeister,BaseU_part_004.csv,10
+1196,Hog Knight,BaseU_part_003.csv,369
+1009,Holy Deep One,BaseU_part_003.csv,184
+2359,Holy Knight,BaseU_part_006.csv,320
+3659,Homunculus,BaseU_part_010.csv,15
+2930,Hooded Spirit,BaseU_part_008.csv,86
+14,Hoplite,BaseU_part_001.csv,15
+3184,Hoplite,BaseU_part_008.csv,340
+13,Hoplite Commander,BaseU_part_001.csv,14
+2018,Horite,BaseU_part_005.csv,385
+2019,Horite Champion,BaseU_part_005.csv,386
+2034,Horite Hunter,BaseU_part_005.csv,401
+2020,Horite Shaman,BaseU_part_005.csv,387
+2450,Horned One,BaseU_part_007.csv,11
+403,Horned Serpent,BaseU_part_002.csv,4
+308,Horror,BaseU_part_001.csv,309
+2209,Horror Mantis,BaseU_part_006.csv,176
+4000,Horse,BaseU_part_010.csv,356
+450,Horse Brother,BaseU_part_002.csv,50
+451,Horse Brother,BaseU_part_002.csv,51
+137,Horse Tribe Cavalry,BaseU_part_001.csv,138
+136,Horse Tribe Chief,BaseU_part_001.csv,137
+3938,Horse Vale Stallion,BaseU_part_010.csv,294
+2090,Horse-face,BaseU_part_006.csv,57
+788,Horseman,BaseU_part_002.csv,369
+1198,Horticulturist,BaseU_part_003.csv,371
+3083,Hound,BaseU_part_008.csv,239
+2796,Hound of Hades,BaseU_part_007.csv,352
+3168,Hound of Twilight,BaseU_part_008.csv,324
+3375,Houri,BaseU_part_009.csv,131
+3466,Houri,BaseU_part_009.csv,222
+3880,Howler,BaseU_part_010.csv,236
+3976,Howler Champion,BaseU_part_010.csv,332
+2697,Huaca,BaseU_part_007.csv,253
+1908,Huli Jing,BaseU_part_005.csv,275
+1909,Huli Jing,BaseU_part_005.csv,276
+1570,Human Dreamer,BaseU_part_004.csv,343
+3436,Human Godihuskarl,BaseU_part_009.csv,192
+3437,Human Godihuskarl,BaseU_part_009.csv,193
+3438,Human Hirdman,BaseU_part_009.csv,194
+1603,Human Huskarl,BaseU_part_004.csv,376
+1604,Human Huskarl,BaseU_part_004.csv,377
+3462,Human Sahir,BaseU_part_009.csv,218
+2004,Human Slave,BaseU_part_005.csv,371
+2003,Human Slinger,BaseU_part_005.csv,370
+2643,Human Warrior,BaseU_part_007.csv,199
+2644,Human Warrior,BaseU_part_007.csv,200
+2645,Human Warrior,BaseU_part_007.csv,201
+2646,Human Warrior,BaseU_part_007.csv,202
+372,Humanbred,BaseU_part_001.csv,373
+983,Humanbred,BaseU_part_003.csv,158
+3006,Humanbred,BaseU_part_008.csv,162
+2764,Hun Balam,BaseU_part_007.csv,320
+2755,Hun Came,BaseU_part_007.csv,311
+1407,Hunter of Heroes,BaseU_part_004.csv,180
+888,Hunter Spider,BaseU_part_003.csv,63
+899,Hunter Spider,BaseU_part_003.csv,74
+2208,Hunter Spider,BaseU_part_006.csv,175
+3555,Hunter Spider,BaseU_part_009.csv,311
+2657,Hurin Priest,BaseU_part_007.csv,213
+142,Huskarl,BaseU_part_001.csv,143
+143,Huskarl,BaseU_part_001.csv,144
+837,Huskarl,BaseU_part_003.csv,12
+838,Huskarl,BaseU_part_003.csv,13
+1508,Huskarl,BaseU_part_004.csv,281
+1509,Huskarl,BaseU_part_004.csv,282
+2531,Huskarl,BaseU_part_007.csv,87
+967,Hybrid,BaseU_part_003.csv,142
+968,Hybrid,BaseU_part_003.csv,143
+969,Hybrid,BaseU_part_003.csv,144
+970,Hybrid,BaseU_part_003.csv,145
+2470,Hybrid Commander,BaseU_part_007.csv,31
+1575,Hybrid Cultist,BaseU_part_004.csv,348
+972,Hybrid Soldier,BaseU_part_003.csv,147
+971,Hybrid Trooper,BaseU_part_003.csv,146
+1831,Hydra,BaseU_part_005.csv,204
+1832,Hydra,BaseU_part_005.csv,205
+1833,Hydra,BaseU_part_005.csv,206
+1834,Hydra,BaseU_part_005.csv,207
+1835,Hydra,BaseU_part_005.csv,208
+1850,Hydra,BaseU_part_005.csv,221
+1851,Hydra,BaseU_part_005.csv,222
+1852,Hydra,BaseU_part_005.csv,223
+1853,Hydra,BaseU_part_005.csv,224
+1854,Hydra,BaseU_part_005.csv,225
+1840,Hydra Hatchling,BaseU_part_005.csv,211
+1841,Hydra Hatchling,BaseU_part_005.csv,212
+1842,Hydra Hatchling,BaseU_part_005.csv,213
+1859,Hydra Hatchling,BaseU_part_005.csv,226
+1860,Hydra Hatchling,BaseU_part_005.csv,227
+1861,Hydra Hatchling,BaseU_part_005.csv,228
+296,Hydra Tamer,BaseU_part_001.csv,297
+3660,Hydra Tamer,BaseU_part_010.csv,16
+103,Hydromancer,BaseU_part_001.csv,104
+3201,Hydrophoros of the East,BaseU_part_008.csv,357
+3202,Hydrophoros of the West,BaseU_part_008.csv,358
+2303,Hyena Clan Warrior,BaseU_part_006.csv,264
+2292,Hyena Clan Witch Doctor,BaseU_part_006.csv,253
+16,Hypaspist,BaseU_part_001.csv,17
+15,Hypaspist Commander,BaseU_part_001.csv,16
+1997,Iassacharite Sage,BaseU_part_005.csv,364
+1995,Iassacharite Scout,BaseU_part_005.csv,362
+2069,Iassacharite Sibyl,BaseU_part_006.csv,36
+1082,Icarid,BaseU_part_003.csv,257
+1083,Icarid Champion,BaseU_part_003.csv,258
+1633,Ice Captain,BaseU_part_005.csv,6
+1283,Ice Crafter,BaseU_part_004.csv,56
+306,Ice Devil,BaseU_part_001.csv,307
+821,Ice Devil,BaseU_part_003.csv,2
+822,Ice Devil,BaseU_part_003.csv,3
+823,Ice Devil,BaseU_part_003.csv,4
+824,Ice Devil,BaseU_part_003.csv,5
+825,Ice Devil,BaseU_part_003.csv,6
+579,Ice Drake,BaseU_part_002.csv,166
+309,Ice Druid,BaseU_part_001.csv,310
+3746,Ice Elemental,BaseU_part_010.csv,102
+3747,Ice Elemental,BaseU_part_010.csv,103
+3748,Ice Elemental,BaseU_part_010.csv,104
+3749,Ice Elemental,BaseU_part_010.csv,105
+3750,Ice Elemental,BaseU_part_010.csv,106
+3751,Ice Elemental,BaseU_part_010.csv,107
+3752,Ice Elemental,BaseU_part_010.csv,108
+3753,Ice Elemental,BaseU_part_010.csv,109
+1628,Ice Guard,BaseU_part_004.csv,401
+1629,Ice Guard,BaseU_part_005.csv,2
+1627,Ice Warrior,BaseU_part_004.csv,400
+132,Iceclad,BaseU_part_001.csv,133
+1285,Iceclad,BaseU_part_004.csv,58
+2576,Iceclad,BaseU_part_007.csv,132
+2592,Iceclad Zhayedan,BaseU_part_007.csv,148
+1408,Ichtycentaur,BaseU_part_004.csv,181
+1409,Ichtycentaur,BaseU_part_004.csv,182
+1410,Ichtycentaur Cataphract,BaseU_part_004.csv,183
+1411,Ichtycentaur Cataphract,BaseU_part_004.csv,184
+2374,Ichtycentaur Commander,BaseU_part_006.csv,335
+2375,Ichtycentaur Commander,BaseU_part_006.csv,336
+2410,Ichtycentaur Commander,BaseU_part_006.csv,371
+2411,Ichtycentaur Commander,BaseU_part_006.csv,372
+974,Ichtyid,BaseU_part_003.csv,149
+976,Ichtyid Lord,BaseU_part_003.csv,151
+2805,Ichtyid Pearl Mage,BaseU_part_007.csv,361
+2804,Ichtyid Shaman,BaseU_part_007.csv,360
+975,Ichtyid Warrior,BaseU_part_003.csv,150
+1041,Ichtysatyr,BaseU_part_003.csv,216
+1042,Ichtysatyr,BaseU_part_003.csv,217
+2376,Ichtysatyr,BaseU_part_006.csv,337
+2377,Ichtysatyr,BaseU_part_006.csv,338
+2404,Ichtysatyr,BaseU_part_006.csv,365
+2405,Ichtysatyr,BaseU_part_006.csv,366
+2406,Ichtysatyr,BaseU_part_006.csv,367
+2407,Ichtysatyr,BaseU_part_006.csv,368
+2372,Ichtysatyr Commander,BaseU_part_006.csv,333
+2373,Ichtysatyr Commander,BaseU_part_006.csv,334
+2370,Ichtysatyr Scout,BaseU_part_006.csv,331
+2371,Ichtysatyr Scout,BaseU_part_006.csv,332
+1043,Ichtysatyr Soldier,BaseU_part_003.csv,218
+1044,Ichtysatyr Soldier,BaseU_part_003.csv,219
+2408,Ichtysatyr Soldier,BaseU_part_006.csv,369
+2409,Ichtysatyr Soldier,BaseU_part_006.csv,370
+2378,Ichtysatyr Warrior,BaseU_part_006.csv,339
+2379,Ichtysatyr Warrior,BaseU_part_006.csv,340
+2380,Ichtytaur,BaseU_part_006.csv,341
+2381,Ichtytaur,BaseU_part_006.csv,342
+2412,Ichtytaur,BaseU_part_006.csv,373
+2413,Ichtytaur,BaseU_part_006.csv,374
+2414,Ichtytaur Warrior,BaseU_part_006.csv,375
+2415,Ichtytaur Warrior,BaseU_part_006.csv,376
+2448,Idol of Beasts,BaseU_part_007.csv,9
+2447,Idol of Men,BaseU_part_007.csv,8
+2449,Idol of Sorcery,BaseU_part_007.csv,10
+3372,Ifrit,BaseU_part_009.csv,128
+3465,Ifrit Sultan,BaseU_part_009.csv,221
+3464,Ifrit Warrior,BaseU_part_009.csv,220
+3388,Ilah of the Moon,BaseU_part_009.csv,144
+3387,Ilah of the Sacred Mountain,BaseU_part_009.csv,143
+3386,Ilah of the Sky,BaseU_part_009.csv,142
+3369,Ilahat of Fate,BaseU_part_009.csv,125
+3370,Ilahat of Might,BaseU_part_009.csv,126
+3754,Illearth,BaseU_part_010.csv,110
+3755,Illearth,BaseU_part_010.csv,111
+3756,Illearth,BaseU_part_010.csv,112
+3757,Illearth,BaseU_part_010.csv,113
+3758,Illearth,BaseU_part_010.csv,114
+3759,Illearth,BaseU_part_010.csv,115
+3760,Illearth,BaseU_part_010.csv,116
+3761,Illearth,BaseU_part_010.csv,117
+331,Illithid,BaseU_part_001.csv,332
+445,Illithid Lord,BaseU_part_002.csv,45
+407,Illithid Soldier,BaseU_part_002.csv,8
+1023,Illuminated One,BaseU_part_003.csv,198
+341,Illusionist,BaseU_part_001.csv,342
+942,Immortal,BaseU_part_003.csv,117
+943,Immortal,BaseU_part_003.csv,118
+2737,Immortal Coya,BaseU_part_007.csv,293
+3650,Immortal Gorgon,BaseU_part_010.csv,6
+303,Imp,BaseU_part_001.csv,304
+3863,Imp Pet,BaseU_part_010.csv,219
+3862,Imp Trainer,BaseU_part_010.csv,218
+1892,Imperial Alchemist,BaseU_part_005.csv,259
+801,Imperial Archer,BaseU_part_002.csv,382
+1900,Imperial City Guard,BaseU_part_005.csv,267
+2117,Imperial Commander,BaseU_part_006.csv,84
+813,Imperial Consort,BaseU_part_002.csv,394
+802,Imperial Crossbowman,BaseU_part_002.csv,383
+799,Imperial Footman,BaseU_part_002.csv,380
+800,Imperial Footman,BaseU_part_002.csv,381
+1893,Imperial Geomancer,BaseU_part_005.csv,260
+798,Imperial Guard,BaseU_part_002.csv,379
+790,Imperial Horseman,BaseU_part_002.csv,371
+2658,Inca,BaseU_part_007.csv,214
+4053,Incubus,BaseU_part_011.csv,9
+67,Infantry of Ulm,BaseU_part_001.csv,68
+71,Infantry of Ulm,BaseU_part_001.csv,72
+73,Infantry of Ulm,BaseU_part_001.csv,74
+75,Infantry of Ulm,BaseU_part_001.csv,76
+77,Infantry of Ulm,BaseU_part_001.csv,78
+1015,Infantry of Ulm,BaseU_part_003.csv,190
+225,Initiate,BaseU_part_001.csv,226
+102,Initiate of the Deep,BaseU_part_001.csv,103
+3486,Initiate of the Hidden Order,BaseU_part_009.csv,242
+149,Inquisitor,BaseU_part_001.csv,150
+2198,Inquisitor,BaseU_part_006.csv,165
+2234,Irminsul,BaseU_part_006.csv,201
+1440,Iron Ancestor,BaseU_part_004.csv,213
+1975,Iron Angel,BaseU_part_005.csv,342
+1808,Iron Boar,BaseU_part_005.csv,181
+3214,Iron Bound,BaseU_part_008.csv,370
+1439,Iron Corpse,BaseU_part_004.csv,212
+1281,Iron Crafter,BaseU_part_004.csv,54
+1279,Iron Crow,BaseU_part_004.csv,52
+531,Iron Dragon,BaseU_part_002.csv,124
+3232,Iron Fly,BaseU_part_008.csv,388
+3831,Iron Gryphon,BaseU_part_010.csv,187
+3216,Iron Guard,BaseU_part_008.csv,372
+2548,Iron Hail Archer,BaseU_part_007.csv,104
+924,Iron Pig,BaseU_part_003.csv,99
+1156,Iron Warrior,BaseU_part_003.csv,329
+2180,Ishib,BaseU_part_006.csv,147
+2950,Ishib,BaseU_part_008.csv,106
+931,Ivy King,BaseU_part_003.csv,106
+905,Jade Emperor,BaseU_part_003.csv,80
+1364,Jade Lizard,BaseU_part_004.csv,137
+3533,Jade Lizard,BaseU_part_009.csv,289
+370,Jade Maiden,BaseU_part_001.csv,371
+353,Jade Priestess,BaseU_part_001.csv,354
+1889,Jade Serpent,BaseU_part_005.csv,256
+352,Jade Sorceress,BaseU_part_001.csv,353
+858,Jaguar,BaseU_part_003.csv,33
+859,Jaguar,BaseU_part_003.csv,34
+2683,Jaguar,BaseU_part_007.csv,239
+2752,Jaguar,BaseU_part_007.csv,308
+1359,Jaguar Toad,BaseU_part_004.csv,132
+1612,Jaguar Tribe Priest,BaseU_part_004.csv,385
+1610,Jaguar Tribe Slinger,BaseU_part_004.csv,383
+1611,Jaguar Tribe Warrior,BaseU_part_004.csv,384
+727,Jaguar Warrior,BaseU_part_002.csv,308
+2631,Jahi,BaseU_part_007.csv,187
+3343,Jann Emir,BaseU_part_009.csv,99
+3342,Jann Guard,BaseU_part_009.csv,98
+2139,Jarl,BaseU_part_006.csv,106
+3398,Jarnvidja,BaseU_part_009.csv,154
+2760,Jaundice Demon,BaseU_part_007.csv,316
+3602,Jentil,BaseU_part_009.csv,358
+2089,Jigami,BaseU_part_006.csv,56
+490,Jinn,BaseU_part_002.csv,89
+3353,Jinn,BaseU_part_009.csv,109
+3389,Jinn Block,BaseU_part_009.csv,145
+3469,Jinn Emir,BaseU_part_009.csv,225
+3468,Jinn Sahir,BaseU_part_009.csv,224
+3354,Jinn Warrior,BaseU_part_009.csv,110
+3463,Jinn Warrior,BaseU_part_009.csv,219
+3262,Jorogumo,BaseU_part_009.csv,18
+3263,Jorogumo,BaseU_part_009.csv,19
+279,Jotun Axeman,BaseU_part_001.csv,280
+3422,Jotun Axeman,BaseU_part_009.csv,178
+277,Jotun Bondi,BaseU_part_001.csv,278
+1302,Jotun Bondi,BaseU_part_004.csv,75
+3962,Jotun Bondi,BaseU_part_010.csv,318
+3193,Jotun Draug,BaseU_part_008.csv,349
+3194,Jotun Draug,BaseU_part_008.csv,350
+275,Jotun Gode,BaseU_part_001.csv,276
+1300,Jotun Gode,BaseU_part_004.csv,73
+3956,Jotun Gode,BaseU_part_010.csv,312
+3409,Jotun Gygja,BaseU_part_009.csv,165
+437,Jotun Herse,BaseU_part_002.csv,37
+1301,Jotun Herse,BaseU_part_004.csv,74
+3954,Jotun Herse,BaseU_part_010.csv,310
+842,Jotun Hirdman,BaseU_part_003.csv,17
+1308,Jotun Hirdman,BaseU_part_004.csv,81
+3968,Jotun Hirdman,BaseU_part_010.csv,324
+300,Jotun Hurler,BaseU_part_001.csv,301
+1305,Jotun Hurler,BaseU_part_004.csv,78
+3421,Jotun Hurler,BaseU_part_009.csv,177
+3965,Jotun Hurler,BaseU_part_010.csv,321
+840,Jotun Huskarl,BaseU_part_003.csv,15
+1306,Jotun Huskarl,BaseU_part_004.csv,79
+3966,Jotun Huskarl,BaseU_part_010.csv,322
+274,Jotun Jarl,BaseU_part_001.csv,275
+375,Jotun Jarl,BaseU_part_001.csv,376
+436,Jotun Jarl,BaseU_part_002.csv,36
+1299,Jotun Jarl,BaseU_part_004.csv,72
+3955,Jotun Jarl,BaseU_part_010.csv,311
+276,Jotun Javelinist,BaseU_part_001.csv,277
+786,Jotun Scout,BaseU_part_002.csv,367
+3953,Jotun Scout,BaseU_part_010.csv,309
+3442,Jotun Skinshifter,BaseU_part_009.csv,198
+553,Jotun Skratti,BaseU_part_002.csv,146
+3429,Jotun Skratti,BaseU_part_009.csv,185
+3432,Jotun Skratti,BaseU_part_009.csv,188
+278,Jotun Spearman,BaseU_part_001.csv,279
+1303,Jotun Warrior,BaseU_part_004.csv,76
+1304,Jotun Warrior,BaseU_part_004.csv,77
+3963,Jotun Warrior,BaseU_part_010.csv,319
+3964,Jotun Warrior,BaseU_part_010.csv,320
+1651,Jotun Werewolf,BaseU_part_005.csv,24
+1652,Jotun Werewolf,BaseU_part_005.csv,25
+3430,Jotun Werewolf,BaseU_part_009.csv,186
+3433,Jotun Werewolf,BaseU_part_009.csv,189
+3443,Jotun Werewolf,BaseU_part_009.csv,199
+1309,Jotun Wolf,BaseU_part_004.csv,82
+1653,Jotun Wolf,BaseU_part_005.csv,26
+3431,Jotun Wolf,BaseU_part_009.csv,187
+3434,Jotun Wolf,BaseU_part_009.csv,190
+1645,Judge,BaseU_part_005.csv,18
+781,Juggernaut,BaseU_part_002.csv,362
+2871,Kabeiride,BaseU_part_008.csv,27
+2872,Kabeiride,BaseU_part_008.csv,28
+2835,Kabeiros,BaseU_part_007.csv,391
+3460,Kahin,BaseU_part_009.csv,216
+2106,Kaijin,BaseU_part_006.csv,73
+1735,Kala-Mukha,BaseU_part_005.csv,108
+1763,Kala-Mukha Warrior,BaseU_part_005.csv,136
+1933,Kalendologist,BaseU_part_005.csv,300
+2466,Kamadhenu,BaseU_part_007.csv,27
+3074,Kami of Storms,BaseU_part_008.csv,230
+3073,Kami of the Moon,BaseU_part_008.csv,229
+3072,Kami of the Sun,BaseU_part_008.csv,228
+1258,Kannushi,BaseU_part_004.csv,31
+1482,Kappa,BaseU_part_004.csv,255
+1550,Kappa,BaseU_part_004.csv,323
+1531,Kappa Chief,BaseU_part_004.csv,304
+1530,Kappa Mage,BaseU_part_004.csv,303
+2599,Karapan,BaseU_part_007.csv,155
+1478,Karasu Tengu,BaseU_part_004.csv,251
+3358,Karib,BaseU_part_009.csv,114
+2558,Kavi Archer,BaseU_part_007.csv,114
+1379,Keeper of the Bridge,BaseU_part_004.csv,152
+1095,Keeper of the Tombs,BaseU_part_003.csv,270
+703,Keeper of Traditions,BaseU_part_002.csv,284
+3164,Keledone,BaseU_part_008.csv,320
+3646,Kelpie,BaseU_part_010.csv,2
+3647,Kelpie,BaseU_part_010.csv,3
+2096,Kenzoku,BaseU_part_006.csv,63
+3127,Ker,BaseU_part_008.csv,283
+2899,Kernou Cavalry,BaseU_part_008.csv,55
+2900,Kernou Chieftain,BaseU_part_008.csv,56
+2901,Kernou Druid,BaseU_part_008.csv,57
+2898,Kernou Noble Warrior,BaseU_part_008.csv,54
+2897,Kernou Warrior,BaseU_part_008.csv,53
+3171,Khalkotauros,BaseU_part_008.csv,327
+930,Khan,BaseU_part_003.csv,105
+1921,Khlyst,BaseU_part_005.csv,288
+2226,Killer Mantis,BaseU_part_006.csv,193
+3665,Kimpurusha,BaseU_part_010.csv,21
+3396,King in Yellow,BaseU_part_009.csv,152
+909,King of Banefires,BaseU_part_003.csv,84
+3046,King of Both Worlds,BaseU_part_008.csv,202
+3047,King of Both Worlds,BaseU_part_008.csv,203
+906,King of Deeper Earth,BaseU_part_003.csv,81
+631,King of Flames,BaseU_part_002.csv,212
+2852,King of Frozen Bones,BaseU_part_008.csv,8
+933,King of Legends,BaseU_part_003.csv,108
+910,King of Magma,BaseU_part_003.csv,85
+469,King of Mountains,BaseU_part_002.csv,68
+3122,King of Pallene,BaseU_part_008.csv,278
+1420,King of Rain,BaseU_part_004.csv,193
+2430,King of the City,BaseU_part_006.csv,391
+322,King of the Deep,BaseU_part_001.csv,323
+3230,King of the Gigantes,BaseU_part_008.csv,386
+3321,King of the Lost Tribe,BaseU_part_009.csv,77
+3879,King of the Lost Tribe,BaseU_part_010.csv,235
+623,King of the World,BaseU_part_002.csv,204
+953,King Triumphant,BaseU_part_003.csv,128
+1331,Kinnara,BaseU_part_004.csv,104
+514,Kithaironic Lion,BaseU_part_002.csv,107
+1433,Kitsune,BaseU_part_004.csv,206
+1434,Kitsune,BaseU_part_004.csv,207
+3247,Kitsune,BaseU_part_009.csv,3
+3248,Kitsune,BaseU_part_009.csv,4
+1634,Kivigtok,BaseU_part_005.csv,7
+22,Knight,BaseU_part_001.csv,23
+23,Knight Commander,BaseU_part_001.csv,24
+2128,Knight Commander of Avalon,BaseU_part_006.csv,95
+2931,Knight Commander of Ys,BaseU_part_008.csv,87
+2932,Knight Commander of Ys,BaseU_part_008.csv,88
+696,Knight Illusion,BaseU_part_002.csv,277
+64,Knight of Avalon,BaseU_part_001.csv,65
+57,Knight of Man,BaseU_part_001.csv,58
+135,Knight of the Chalice,BaseU_part_001.csv,136
+1059,Knight of the Deeps,BaseU_part_003.csv,234
+58,Knight of the Stone,BaseU_part_001.csv,59
+184,Knight of the Unholy Sepulchre,BaseU_part_001.csv,185
+2910,Knight of Ys,BaseU_part_008.csv,66
+2911,Knight of Ys,BaseU_part_008.csv,67
+1917,Knyaz,BaseU_part_005.csv,284
+1260,Ko-Oni,BaseU_part_004.csv,33
+1836,Ko-Oni,BaseU_part_005.csv,209
+1986,Kohen,BaseU_part_005.csv,353
+2029,Kohen,BaseU_part_005.csv,396
+2033,Kohen,BaseU_part_005.csv,400
+1987,Kohen Gadol,BaseU_part_005.csv,354
+1477,Kokythiad,BaseU_part_004.csv,250
+1479,Konoha Tengu,BaseU_part_004.csv,252
+2837,Korybant,BaseU_part_007.csv,393
+2839,Kourete,BaseU_part_007.csv,395
+438,Kraken,BaseU_part_002.csv,38
+639,Kraken King,BaseU_part_002.csv,220
+3113,Kryptes,BaseU_part_008.csv,269
+2521,Ktonian Alchemist,BaseU_part_007.csv,77
+1438,Ktonian Necromancer,BaseU_part_004.csv,211
+2456,Ktonian Reanimator,BaseU_part_007.csv,17
+3092,Kuliltu Queen,BaseU_part_008.csv,248
+3089,Kulullu,BaseU_part_008.csv,245
+3093,Kulullu Commander,BaseU_part_008.csv,249
+3094,Kulullu King,BaseU_part_008.csv,250
+3091,Kulullu Sage,BaseU_part_008.csv,247
+3090,Kulullu Soldier,BaseU_part_008.csv,246
+3169,Kuon Argyreos,BaseU_part_008.csv,325
+3170,Kuon Khryseos,BaseU_part_008.csv,326
+2647,Kuraka,BaseU_part_007.csv,203
+1268,Kuro-Oni,BaseU_part_004.csv,41
+1274,Kuro-Oni,BaseU_part_004.csv,47
+3068,Kusarikku,BaseU_part_008.csv,224
+1227,Kydnid,BaseU_part_003.csv,400
+3359,Lady Archer,BaseU_part_009.csv,115
+3808,Lady at Arms,BaseU_part_010.csv,164
+3812,Lady Commander,BaseU_part_010.csv,168
+3311,Lady Knight,BaseU_part_009.csv,67
+3809,Lady Knight,BaseU_part_010.csv,165
+1956,Lady Midday,BaseU_part_005.csv,323
+946,Lady of Spiders,BaseU_part_003.csv,121
+3310,Lady Warrior,BaseU_part_009.csv,66
+3227,Laestrygonian,BaseU_part_008.csv,383
+3226,Laestrygonian Tyrant,BaseU_part_008.csv,382
+2891,Lakam Ha' Batab,BaseU_part_008.csv,47
+2887,Lakam Ha' Warrior,BaseU_part_008.csv,43
+2888,Lakam Ha' Warrior,BaseU_part_008.csv,44
+2889,Lakam Ha' Warrior,BaseU_part_008.csv,45
+2890,Lakam Ha' Warrior,BaseU_part_008.csv,46
+394,Lamia,BaseU_part_001.csv,395
+609,Lamia Queen,BaseU_part_002.csv,190
+393,Lammashta,BaseU_part_001.csv,394
+3210,Lampad,BaseU_part_008.csv,366
+1167,Lancer,BaseU_part_003.csv,340
+3275,Landless Knight,BaseU_part_009.csv,31
+3087,Lar,BaseU_part_008.csv,243
+1087,Large Ant,BaseU_part_003.csv,262
+2218,Large Beetle,BaseU_part_006.csv,185
+3699,Large Boulder,BaseU_part_010.csv,55
+2858,Large Fish,BaseU_part_008.csv,14
+2273,Large Lobster,BaseU_part_006.csv,240
+2232,Large Scorpion,BaseU_part_006.csv,199
+2687,Large Scorpion,BaseU_part_007.csv,243
+2369,Large Shrimp,BaseU_part_006.csv,330
+2223,Large Spider,BaseU_part_006.csv,190
+3698,Large Stone,BaseU_part_010.csv,54
+1794,Last Partholonian,BaseU_part_005.csv,167
+3257,Last Perkunu,BaseU_part_009.csv,13
+4092,Lauma,BaseU_part_011.csv,48
+90,Lava Warrior,BaseU_part_001.csv,91
+2510,Lava-born,BaseU_part_007.csv,71
+2511,Lava-born Commander,BaseU_part_007.csv,72
+1896,Lawgiver,BaseU_part_005.csv,263
+2955,Leader of the Closed Council,BaseU_part_008.csv,111
+1385,Legatus Legionis,BaseU_part_004.csv,158
+1386,Legatus Legionis,BaseU_part_004.csv,159
+2501,Legion of Gods,BaseU_part_007.csv,62
+2333,Lemur Acolyte,BaseU_part_006.csv,294
+678,Lemur Centurion,BaseU_part_002.csv,259
+679,Lemur Consul,BaseU_part_002.csv,260
+680,Lemur Senator,BaseU_part_002.csv,261
+2334,Lemur Thaumaturg,BaseU_part_006.csv,295
+1872,Leo,BaseU_part_005.csv,239
+1063,Leocampus,BaseU_part_003.csv,238
+2132,Leogryph,BaseU_part_006.csv,99
+1949,Leshiy,BaseU_part_005.csv,316
+1950,Leshiy,BaseU_part_005.csv,317
+307,Lesser Horror,BaseU_part_001.csv,308
+756,Lesser Otherness,BaseU_part_002.csv,337
+1100,Leve,BaseU_part_003.csv,275
+1235,Leviathan,BaseU_part_004.csv,8
+1236,Leviathan,BaseU_part_004.csv,9
+1984,Levite Priest,BaseU_part_005.csv,351
+1989,Levite Zealot,BaseU_part_005.csv,356
+178,Lich,BaseU_part_001.csv,179
+3941,Lich,BaseU_part_010.csv,297
+3943,Lich,BaseU_part_010.csv,299
+3945,Lich,BaseU_part_010.csv,301
+3947,Lich,BaseU_part_010.csv,303
+3948,Lich,BaseU_part_010.csv,304
+3949,Lich,BaseU_part_010.csv,305
+3950,Lich,BaseU_part_010.csv,306
+3942,Lich Hag,BaseU_part_010.csv,298
+3944,Lich Hag,BaseU_part_010.csv,300
+4021,Lich Oracle,BaseU_part_010.csv,377
+395,Lich Queen,BaseU_part_001.csv,396
+259,Lictor,BaseU_part_001.csv,260
+1654,Lictor,BaseU_part_005.csv,27
+2116,Lieutenant,BaseU_part_006.csv,83
+2453,Light Archer,BaseU_part_007.csv,14
+1130,Light Bandar Archer,BaseU_part_003.csv,305
+1351,Light Bandar Warrior,BaseU_part_004.csv,124
+24,Light Cavalry,BaseU_part_001.csv,25
+25,Light Cavalry,BaseU_part_001.csv,26
+26,Light Cavalry,BaseU_part_001.csv,27
+28,Light Infantry,BaseU_part_001.csv,29
+29,Light Infantry,BaseU_part_001.csv,30
+3402,Light Vaetti Infantry,BaseU_part_009.csv,158
+3417,Light Vaetti Infantry,BaseU_part_009.csv,173
+1952,Likho,BaseU_part_005.csv,319
+2071,Lilot,BaseU_part_006.csv,38
+1863,Limitane,BaseU_part_005.csv,230
+1864,Limitane Primani,BaseU_part_005.csv,231
+1865,Limitane Solaris,BaseU_part_005.csv,232
+2152,Limitane Standard,BaseU_part_006.csv,119
+2801,Linnormr,BaseU_part_007.csv,357
+2803,Linnormr,BaseU_part_007.csv,359
+2290,Lion Clan Commander,BaseU_part_006.csv,251
+2305,Lion Clan Warrior,BaseU_part_006.csv,266
+2296,Lion King,BaseU_part_006.csv,257
+3363,Lion of Strange Color,BaseU_part_009.csv,119
+3364,Lion of Strange Color,BaseU_part_009.csv,120
+3365,Lion of Strange Color,BaseU_part_009.csv,121
+3366,Lion of Strange Color,BaseU_part_009.csv,122
+2297,Lion Queen,BaseU_part_006.csv,258
+1601,Lion Tribe Archer,BaseU_part_004.csv,374
+1600,Lion Tribe Warrior,BaseU_part_004.csv,373
+1602,Lion Tribe Witch Doctor,BaseU_part_004.csv,375
+2309,Lion Warrior,BaseU_part_006.csv,270
+2133,Lioness,BaseU_part_006.csv,100
+3075,Little Soulless,BaseU_part_008.csv,231
+3762,Living Mercury,BaseU_part_010.csv,118
+3763,Living Mercury,BaseU_part_010.csv,119
+3764,Living Mercury,BaseU_part_010.csv,120
+3765,Living Mercury,BaseU_part_010.csv,121
+3766,Living Mercury,BaseU_part_010.csv,122
+3767,Living Mercury,BaseU_part_010.csv,123
+1690,Living Pillar,BaseU_part_005.csv,63
+474,Living Statue,BaseU_part_002.csv,73
+1106,Lizard Auxiliare,BaseU_part_003.csv,281
+3568,Lizard Chariot,BaseU_part_009.csv,324
+1365,Lizard Charioteer,BaseU_part_004.csv,138
+1366,Lizard Heir,BaseU_part_004.csv,139
+379,Lizard Hero,BaseU_part_001.csv,380
+380,Lizard Hero,BaseU_part_001.csv,381
+177,Lizard King,BaseU_part_001.csv,178
+328,Lizard King,BaseU_part_001.csv,329
+162,Lizard Lord,BaseU_part_001.csv,163
+170,Lizard Shaman,BaseU_part_001.csv,171
+321,Lizard Shaman,BaseU_part_001.csv,322
+1514,Lizard Shaman,BaseU_part_004.csv,287
+423,Lizard Warrior,BaseU_part_002.csv,23
+337,Lobo Guard,BaseU_part_001.csv,338
+211,Lobster Rider,BaseU_part_001.csv,212
+3111,Lochos,BaseU_part_008.csv,267
+3149,Lochos,BaseU_part_008.csv,305
+2129,Logrian Cavalry,BaseU_part_006.csv,96
+1,Logrian Slinger,BaseU_part_001.csv,2
+53,Logrian Warrior,BaseU_part_001.csv,54
+2439,Logrian Wise Man,BaseU_part_006.csv,400
+1805,Long Handed,BaseU_part_005.csv,178
+55,Longbowman,BaseU_part_001.csv,56
+59,Longbowman,BaseU_part_001.csv,60
+2455,Longbowman,BaseU_part_007.csv,16
+191,Longdead,BaseU_part_001.csv,192
+192,Longdead,BaseU_part_001.csv,193
+193,Longdead,BaseU_part_001.csv,194
+194,Longdead,BaseU_part_001.csv,195
+195,Longdead,BaseU_part_001.csv,196
+196,Longdead,BaseU_part_001.csv,197
+2120,Longdead,BaseU_part_006.csv,87
+2121,Longdead,BaseU_part_006.csv,88
+2123,Longdead,BaseU_part_006.csv,90
+2124,Longdead,BaseU_part_006.csv,91
+2451,Longdead,BaseU_part_007.csv,12
+3360,Longdead,BaseU_part_009.csv,116
+3361,Longdead,BaseU_part_009.csv,117
+4112,Longdead,BaseU_part_011.csv,68
+4113,Longdead,BaseU_part_011.csv,69
+4114,Longdead,BaseU_part_011.csv,70
+613,Longdead Admiral,BaseU_part_002.csv,194
+535,Longdead Archer,BaseU_part_002.csv,128
+3005,Longdead Archer,BaseU_part_008.csv,161
+1719,Longdead Bandar,BaseU_part_005.csv,92
+1720,Longdead Bandar,BaseU_part_005.csv,93
+1721,Longdead Bandar Warrior,BaseU_part_005.csv,94
+1722,Longdead Bandar Warrior,BaseU_part_005.csv,95
+2241,Longdead Boatswain,BaseU_part_006.csv,208
+536,Longdead Buccaneer,BaseU_part_002.csv,129
+2240,Longdead Captain,BaseU_part_006.csv,207
+316,Longdead Giant,BaseU_part_001.csv,317
+1976,Longdead Giant,BaseU_part_005.csv,343
+2484,Longdead Giant,BaseU_part_007.csv,45
+2122,Longdead Hoplite,BaseU_part_006.csv,89
+189,Longdead Horseman,BaseU_part_001.csv,190
+187,Longdead Legionnaire,BaseU_part_001.csv,188
+1732,Longdead Markata,BaseU_part_005.csv,105
+615,Longdead of C'tis,BaseU_part_002.csv,196
+616,Longdead of C'tis,BaseU_part_002.csv,197
+617,Longdead of C'tis,BaseU_part_002.csv,198
+1810,Longdead Partholonian,BaseU_part_005.csv,183
+1658,Longdead Principe,BaseU_part_005.csv,31
+1723,Longdead Raja,BaseU_part_005.csv,96
+2040,Longdead Rephaite,BaseU_part_006.csv,7
+2041,Longdead Rephaite,BaseU_part_006.csv,8
+2042,Longdead Rephaite,BaseU_part_006.csv,9
+2043,Longdead Rephaite,BaseU_part_006.csv,10
+2044,Longdead Rephaite,BaseU_part_006.csv,11
+1657,Longdead Triarius,BaseU_part_005.csv,30
+1727,Longdead Vanara,BaseU_part_005.csv,100
+1730,Longdead Vanara Commander,BaseU_part_005.csv,103
+1728,Longdead Vanara Warrior,BaseU_part_005.csv,101
+1729,Longdead Vanara Warrior,BaseU_part_005.csv,102
+186,Longdead Velite,BaseU_part_001.csv,187
+618,Longdead Warrior,BaseU_part_002.csv,199
+619,Longdead Warrior,BaseU_part_002.csv,200
+3871,Longdead Zotz,BaseU_part_010.csv,227
+3872,Longdead Zotz,BaseU_part_010.csv,228
+62,Longspear,BaseU_part_001.csv,63
+113,Lord Guardian,BaseU_part_001.csv,114
+900,Lord of Corruption,BaseU_part_003.csv,75
+964,Lord of Fertility,BaseU_part_003.csv,139
+965,Lord of Fertility,BaseU_part_003.csv,140
+810,Lord of Hell,BaseU_part_002.csv,391
+2894,Lord of the Deep,BaseU_part_008.csv,50
+957,Lord of The Desert Sun,BaseU_part_003.csv,132
+1378,Lord of the Forest,BaseU_part_004.csv,151
+780,Lord of the Hunt,BaseU_part_002.csv,361
+446,Lord of the Plague Wind,BaseU_part_002.csv,46
+1097,Lord of The Summer Plague,BaseU_part_003.csv,272
+1233,Lord of the Waves,BaseU_part_004.csv,6
+812,Lord of the Wild,BaseU_part_002.csv,393
+212,Lord Warden,BaseU_part_001.csv,213
+1666,Lord Warden,BaseU_part_005.csv,39
+479,Lore Master,BaseU_part_002.csv,78
+3815,Loremistress,BaseU_part_010.csv,171
+4110,Lost Knight,BaseU_part_011.csv,66
+476,Lumber Construct,BaseU_part_002.csv,75
+286,Maceman,BaseU_part_001.csv,287
+879,Machaka Archer,BaseU_part_003.csv,54
+881,Machaka Chief,BaseU_part_003.csv,56
+883,Machaka Commander,BaseU_part_003.csv,58
+882,Machaka Hoplite,BaseU_part_003.csv,57
+878,Machaka Militia,BaseU_part_003.csv,53
+2298,Machaka Militia,BaseU_part_006.csv,259
+2288,Machaka Scout,BaseU_part_006.csv,249
+3939,Machaka War Elephant,BaseU_part_010.csv,295
+880,Machaka Warrior,BaseU_part_003.csv,55
+1599,Machaka Warrior,BaseU_part_004.csv,372
+2300,Machaka Warrior,BaseU_part_006.csv,261
+3024,Machimos,BaseU_part_008.csv,180
+3025,Machimos Commander,BaseU_part_008.csv,181
+1564,Mad Cultist,BaseU_part_004.csv,337
+1007,Mad Deep One,BaseU_part_003.csv,182
+1576,Mad Hybrid,BaseU_part_004.csv,349
+1567,Mad Merman,BaseU_part_004.csv,340
+1568,Mad Merman,BaseU_part_004.csv,341
+1566,Mad One,BaseU_part_004.csv,339
+963,Mad Priest,BaseU_part_003.csv,138
+1569,Mad Triton,BaseU_part_004.csv,342
+962,Madman,BaseU_part_003.csv,137
+435,Maenad,BaseU_part_002.csv,35
+1606,Mage Engineer,BaseU_part_004.csv,379
+2545,Mage of Autumn,BaseU_part_007.csv,101
+2543,Mage of Spring,BaseU_part_007.csv,99
+2544,Mage of Summer,BaseU_part_007.csv,100
+1692,Mage of the Deep,BaseU_part_005.csv,65
+3096,Mage of the Deep,BaseU_part_008.csv,252
+2546,Mage of Winter,BaseU_part_007.csv,102
+2263,Mage Pilot,BaseU_part_006.csv,230
+3151,Mage Pilot,BaseU_part_008.csv,307
+1644,Magister,BaseU_part_005.csv,17
+1646,Magister Arcane,BaseU_part_005.csv,19
+1871,Magister Militum,BaseU_part_005.csv,238
+1643,Magister of Theology,BaseU_part_005.csv,16
+3059,Magister Supreme,BaseU_part_008.csv,215
+3924,Magistrate Magus,BaseU_part_010.csv,280
+640,Magma Child,BaseU_part_002.csv,221
+3318,Magog Bitch-Mother,BaseU_part_009.csv,74
+3316,Magog Flesh-Hunter,BaseU_part_009.csv,72
+480,Magus,BaseU_part_002.csv,79
+2549,Maharishi,BaseU_part_007.csv,105
+2953,Maiden of the Moon,BaseU_part_008.csv,109
+3599,Mairu Champion,BaseU_part_009.csv,355
+3598,Mairu Hurler,BaseU_part_009.csv,354
+3597,Mairu Warrior,BaseU_part_009.csv,353
+2560,Mairya Ahu,BaseU_part_007.csv,116
+2559,Mairya Warrior,BaseU_part_007.csv,115
+1583,Maker of Heroes,BaseU_part_004.csv,356
+1271,Maker of Ruins,BaseU_part_004.csv,44
+1073,Maker of the Maze,BaseU_part_003.csv,248
+1923,Malaia Druzhina,BaseU_part_005.csv,290
+2056,Malakh,BaseU_part_006.csv,23
+2039,Malik,BaseU_part_006.csv,6
+2046,Malik,BaseU_part_006.csv,13
+3341,Malikah,BaseU_part_009.csv,97
+2660,Mallqui,BaseU_part_007.csv,216
+2662,Mallqui Priest,BaseU_part_007.csv,218
+2661,Mallqui Priestess,BaseU_part_007.csv,217
+3542,Mammoth,BaseU_part_009.csv,298
+4015,Mammoth Archer,BaseU_part_010.csv,371
+419,Mammoth Rider,BaseU_part_002.csv,19
+133,Man at Arms,BaseU_part_001.csv,134
+1589,Man Eater,BaseU_part_004.csv,362
+2788,Man-Eater,BaseU_part_007.csv,344
+1748,Mandeha,BaseU_part_005.csv,121
+3635,Mandeha,BaseU_part_009.csv,391
+3636,Mandeha,BaseU_part_009.csv,392
+314,Mandragora,BaseU_part_001.csv,315
+1177,Manflayer,BaseU_part_003.csv,350
+313,Manikin,BaseU_part_001.csv,314
+2130,Manticore,BaseU_part_006.csv,97
+2551,Manushya Raksharani,BaseU_part_007.csv,107
+1740,Manushya Rakshasi,BaseU_part_005.csv,113
+3065,Marble Lion,BaseU_part_008.csv,221
+1499,Marble Oracle,BaseU_part_004.csv,272
+3374,Marid,BaseU_part_009.csv,130
+3376,Marid,BaseU_part_009.csv,132
+1116,Markata,BaseU_part_003.csv,291
+1118,Markata,BaseU_part_003.csv,293
+1120,Markata Archer,BaseU_part_003.csv,295
+4057,Markata Mystic,BaseU_part_011.csv,13
+1119,Markata Scout,BaseU_part_003.csv,294
+937,Marshmaster,BaseU_part_003.csv,112
+3667,Marut,BaseU_part_010.csv,23
+1213,Marverni Bare Chested Warrior,BaseU_part_003.csv,386
+1215,Marverni Chieftain,BaseU_part_003.csv,388
+1210,Marverni Horn Blower,BaseU_part_003.csv,383
+1212,Marverni Javelineer,BaseU_part_003.csv,385
+1214,Marverni Noble Warrior,BaseU_part_003.csv,387
+1209,Marverni Scout,BaseU_part_003.csv,382
+1211,Marverni Slinger,BaseU_part_003.csv,384
+2952,Mashmashu,BaseU_part_008.csv,108
+1848,Mason of the Underworld,BaseU_part_005.csv,219
+3060,Master,BaseU_part_008.csv,216
+550,Master Alchemist,BaseU_part_002.csv,143
+245,Master Enchanter,BaseU_part_001.csv,246
+268,Master Enchanter,BaseU_part_001.csv,269
+179,Master Lich,BaseU_part_001.csv,180
+3889,Master Lich,BaseU_part_010.csv,245
+748,Master Mason,BaseU_part_002.csv,329
+2530,Master of Alchemical Secrets,BaseU_part_007.csv,86
+3860,Master of Mirrors,BaseU_part_010.csv,216
+1936,Master of Names,BaseU_part_005.csv,303
+806,Master of the Dead,BaseU_part_002.csv,387
+940,Master of the Five Elements,BaseU_part_003.csv,115
+37,Master of the Games,BaseU_part_001.csv,38
+3488,Master of the Hidden Order,BaseU_part_009.csv,244
+1672,Master of the Shadow Blossom,BaseU_part_005.csv,45
+4023,Master of the Sword,BaseU_part_010.csv,379
+808,Master of the Way,BaseU_part_002.csv,389
+3935,Master of the Way,BaseU_part_010.csv,291
+1255,Master Shugenja,BaseU_part_004.csv,28
+325,Master Smith,BaseU_part_001.csv,326
+2978,Master Sorcerer,BaseU_part_008.csv,134
+944,Master With The Iron Crutch,BaseU_part_003.csv,119
+3082,Matrona of the Healing Spring,BaseU_part_008.csv,238
+2072,Mazzik,BaseU_part_006.csv,39
+532,Mechanical Man,BaseU_part_002.csv,125
+1901,Medium Footman,BaseU_part_005.csv,268
+1904,Medium Footman,BaseU_part_005.csv,271
+2833,Melia,BaseU_part_007.csv,389
+3197,Melissa,BaseU_part_008.csv,353
+2031,Melqart,BaseU_part_005.csv,398
+2267,Melqart,BaseU_part_006.csv,234
+2315,Melqart,BaseU_part_006.csv,276
+2494,Member of the Closed Council,BaseU_part_007.csv,55
+2495,Member of the Closed Council,BaseU_part_007.csv,56
+2496,Member of the Closed Council,BaseU_part_007.csv,57
+1012,Member of the Second Tier,BaseU_part_003.csv,187
+1024,Member of the Third Tier,BaseU_part_003.csv,199
+3125,Member of the Third Tier,BaseU_part_008.csv,281
+3126,Member of the Third Tier,BaseU_part_008.csv,282
+2084,Merciful Mother,BaseU_part_006.csv,51
+2419,Mermage,BaseU_part_006.csv,380
+2420,Mermage,BaseU_part_006.csv,381
+2815,Mermage,BaseU_part_007.csv,371
+2816,Mermage,BaseU_part_007.csv,372
+3034,Mermage,BaseU_part_008.csv,190
+3035,Mermage,BaseU_part_008.csv,191
+1046,Merman,BaseU_part_003.csv,221
+1047,Merman,BaseU_part_003.csv,222
+1065,Merman,BaseU_part_003.csv,240
+1066,Merman,BaseU_part_003.csv,241
+1067,Merman Captain,BaseU_part_003.csv,242
+1068,Merman Captain,BaseU_part_003.csv,243
+2825,Merman Commander,BaseU_part_007.csv,381
+2826,Merman Commander,BaseU_part_007.csv,382
+1572,Merman Dreamer,BaseU_part_004.csv,345
+1573,Merman Dreamer,BaseU_part_004.csv,346
+2821,Merman Hoplite,BaseU_part_007.csv,377
+2822,Merman Hoplite,BaseU_part_007.csv,378
+2388,Merman Net Thrower,BaseU_part_006.csv,349
+2389,Merman Net Thrower,BaseU_part_006.csv,350
+1696,Merman Priest,BaseU_part_005.csv,69
+1697,Merman Priest,BaseU_part_005.csv,70
+2417,Merman Priest,BaseU_part_006.csv,378
+2418,Merman Priest,BaseU_part_006.csv,379
+1050,Merman Scout,BaseU_part_003.csv,225
+1051,Merman Scout,BaseU_part_003.csv,226
+1045,Mermidon,BaseU_part_003.csv,220
+1295,Mermidon,BaseU_part_004.csv,68
+2903,Merrow,BaseU_part_008.csv,59
+2904,Merrow,BaseU_part_008.csv,60
+2905,Merrow Chieftain,BaseU_part_008.csv,61
+2906,Merrow Druid,BaseU_part_008.csv,62
+2902,Merrow Militia,BaseU_part_008.csv,58
+424,Meteorite Guard,BaseU_part_002.csv,24
+731,Mictlan Priest,BaseU_part_002.csv,312
+1189,Mictlan Priest,BaseU_part_003.csv,362
+1783,Milesian Champion,BaseU_part_005.csv,156
+1781,Milesian Longspear,BaseU_part_005.csv,154
+3887,Milesian Mage,BaseU_part_010.csv,243
+3631,Milesian Man at Arms,BaseU_part_009.csv,387
+1784,Milesian Monk,BaseU_part_005.csv,157
+1789,Milesian Scout,BaseU_part_005.csv,162
+1779,Milesian Slinger,BaseU_part_005.csv,152
+1780,Milesian Spearman,BaseU_part_005.csv,153
+1782,Milesian Swordsman,BaseU_part_005.csv,155
+1862,Milite,BaseU_part_005.csv,229
+18,Militia,BaseU_part_001.csv,19
+30,Militia,BaseU_part_001.csv,31
+31,Militia,BaseU_part_001.csv,32
+168,Militia,BaseU_part_001.csv,169
+1521,Mind Lord,BaseU_part_004.csv,294
+1691,Mind Lord,BaseU_part_005.csv,64
+2211,Mind Slime Horror,BaseU_part_006.csv,178
+1894,Minister of Magic,BaseU_part_005.csv,261
+804,Minister of Rituals,BaseU_part_002.csv,385
+1903,Ministry Footman,BaseU_part_005.csv,270
+1902,Ministry Guardsman,BaseU_part_005.csv,269
+3713,Ministry Guardsman,BaseU_part_010.csv,69
+234,Minotaur,BaseU_part_001.csv,235
+701,Minotaur Commander,BaseU_part_002.csv,282
+236,Minotaur Lord,BaseU_part_001.csv,237
+1534,Minotaur Lord,BaseU_part_004.csv,307
+1005,Minotaur Manikin,BaseU_part_003.csv,180
+700,Minotaur Soldier,BaseU_part_002.csv,281
+1533,Minotaur Warrior,BaseU_part_004.csv,306
+3280,Mirror Guard,BaseU_part_009.csv,36
+3859,Mirror Mage,BaseU_part_010.csv,215
+1661,Misbred,BaseU_part_005.csv,34
+1033,Missionary,BaseU_part_003.csv,208
+120,Moloch,BaseU_part_001.csv,121
+60,Monk,BaseU_part_001.csv,61
+2537,Monk,BaseU_part_007.csv,93
+2098,Monk of the Fivefold Path,BaseU_part_006.csv,65
+657,Monolith,BaseU_part_002.csv,238
+1910,Monster Boar,BaseU_part_005.csv,277
+1664,Monster Fish,BaseU_part_005.csv,37
+1089,Monster in the Maze,BaseU_part_003.csv,264
+2277,Monster of Fraud,BaseU_part_006.csv,244
+1358,Monster Toad,BaseU_part_004.csv,131
+159,Monument,BaseU_part_001.csv,160
+342,Moon Mage,BaseU_part_001.csv,343
+734,Moon Priest,BaseU_part_002.csv,315
+1192,Moon Priest,BaseU_part_003.csv,365
+1882,Moon Warrior,BaseU_part_005.csv,249
+1883,Moon Warrior,BaseU_part_005.csv,250
+3999,Moonvine Enchanter,BaseU_part_010.csv,355
+1084,Moose,BaseU_part_003.csv,259
+3551,Moose,BaseU_part_009.csv,307
+1085,Moose Rider,BaseU_part_003.csv,260
+3415,Moose Rider,BaseU_part_009.csv,171
+4109,Moose Vedun,BaseU_part_011.csv,65
+2917,Morgen Champion,BaseU_part_008.csv,73
+2918,Morgen Champion,BaseU_part_008.csv,74
+2922,Morgen High Queen,BaseU_part_008.csv,78
+2919,Morgen Princess,BaseU_part_008.csv,75
+2920,Morgen Princess,BaseU_part_008.csv,76
+2926,Morgen Queen,BaseU_part_008.csv,82
+2927,Morgen Queen,BaseU_part_008.csv,83
+2921,Morgen Sorceress,BaseU_part_008.csv,77
+2093,Mori-no-kami,BaseU_part_006.csv,60
+2094,Mori-no-kami,BaseU_part_006.csv,61
+1821,Morrigan,BaseU_part_005.csv,194
+3076,Morrigna,BaseU_part_008.csv,232
+3077,Morrigna,BaseU_part_008.csv,233
+3078,Morrigna,BaseU_part_008.csv,234
+3980,Morvarc'h,BaseU_part_010.csv,336
+3981,Morvarc'h,BaseU_part_010.csv,337
+2915,Morvarc'h Knight,BaseU_part_008.csv,71
+2916,Morvarc'h Knight,BaseU_part_008.csv,72
+3484,Mother Ghul,BaseU_part_009.csv,240
+3485,Mother Ghul,BaseU_part_009.csv,241
+209,Mother Guard,BaseU_part_001.csv,210
+4024,Mother Mandragora,BaseU_part_010.csv,380
+2895,Mother of All Waters,BaseU_part_008.csv,51
+152,Mother of Avalon,BaseU_part_001.csv,153
+157,Mother of Monsters,BaseU_part_001.csv,158
+3632,Mother of Storms,BaseU_part_009.csv,388
+1693,Mother of the Deep,BaseU_part_005.csv,66
+956,Mother of Tuathas,BaseU_part_003.csv,131
+3215,Mouflon Cataphract,BaseU_part_008.csv,371
+439,Mound Fiend,BaseU_part_002.csv,39
+188,Mound King,BaseU_part_001.csv,189
+190,Mound King,BaseU_part_001.csv,191
+2541,Mountain King,BaseU_part_007.csv,97
+1942,Mountain Vila,BaseU_part_005.csv,309
+1155,Mountain Warrior,BaseU_part_003.csv,328
+44,Mounted Commander,BaseU_part_001.csv,45
+45,Mounted Commander,BaseU_part_001.csv,46
+46,Mounted Commander,BaseU_part_001.csv,47
+1250,Mounted Gokenin,BaseU_part_004.csv,23
+1504,Mounted Hirdman,BaseU_part_004.csv,277
+1771,Mounted Scout,BaseU_part_005.csv,144
+1703,Mournful,BaseU_part_005.csv,76
+3272,Mujina,BaseU_part_009.csv,28
+3273,Mujina,BaseU_part_009.csv,29
+3357,Mukarrib,BaseU_part_009.csv,113
+398,Mummy,BaseU_part_001.csv,399
+625,Mummy,BaseU_part_002.csv,206
+743,Mummy,BaseU_part_002.csv,324
+2962,Mushussu,BaseU_part_008.csv,118
+3571,Mushussu,BaseU_part_009.csv,327
+2964,Mushussu - replaced,BaseU_part_008.csv,120
+2963,Mushussu Charioteer,BaseU_part_008.csv,119
+3971,Muspel Giant,BaseU_part_010.csv,327
+3959,Muspel Gode,BaseU_part_010.csv,315
+3958,Muspel Herse,BaseU_part_010.csv,314
+3970,Muspel Hirdman,BaseU_part_010.csv,326
+3969,Muspel Huskarl,BaseU_part_010.csv,325
+3961,Muspel Jarl,BaseU_part_010.csv,317
+3972,Muspeldottir,BaseU_part_010.csv,328
+3960,Muspelgygja,BaseU_part_010.csv,316
+2715,Muuch Ajaw,BaseU_part_007.csv,271
+2728,Muuch Batab,BaseU_part_007.csv,284
+2722,Muuch Dart Thrower,BaseU_part_007.csv,278
+2727,Muuch Jungle Warrior,BaseU_part_007.csv,283
+2716,Muuch K'uhul,BaseU_part_007.csv,272
+2721,Muuch Militia,BaseU_part_007.csv,277
+2720,Muuch Scout,BaseU_part_007.csv,276
+2723,Muuch Warrior,BaseU_part_007.csv,279
+2724,Muuch Warrior,BaseU_part_007.csv,280
+2725,Muuch Warrior,BaseU_part_007.csv,281
+2726,Muuch Warrior,BaseU_part_007.csv,282
+2790,Myrmecoleon,BaseU_part_007.csv,346
+1077,Myrmidon,BaseU_part_003.csv,252
+1076,Myrmidon Champion,BaseU_part_003.csv,251
+1876,Mystes,BaseU_part_005.csv,243
+311,Mystic,BaseU_part_001.csv,312
+382,Mystic,BaseU_part_001.csv,383
+3039,Mystic,BaseU_part_008.csv,195
+3333,Nabaean Camel Rider,BaseU_part_009.csv,89
+3332,Nabaean Desert Warrior,BaseU_part_009.csv,88
+3356,Nabaean Light Infantry,BaseU_part_009.csv,112
+3347,Nabaean Scout,BaseU_part_009.csv,103
+3338,Nabaean Soldier,BaseU_part_009.csv,94
+1985,Nabi,BaseU_part_005.csv,352
+2946,Naditu,BaseU_part_008.csv,102
+1318,Naga,BaseU_part_004.csv,91
+2476,Naga Chief,BaseU_part_007.csv,37
+1319,Naga Warrior,BaseU_part_004.csv,92
+1320,Nagaraja,BaseU_part_004.csv,93
+1323,Nagaraja,BaseU_part_004.csv,96
+1321,Nagarishi,BaseU_part_004.csv,94
+1324,Nagarishi,BaseU_part_004.csv,97
+3874,Nagasiddha,BaseU_part_010.csv,230
+3875,Nagasiddha,BaseU_part_010.csv,231
+4010,Nagasiddha,BaseU_part_010.csv,366
+4011,Nagasiddha,BaseU_part_010.csv,367
+1322,Nagini,BaseU_part_004.csv,95
+1325,Nagini,BaseU_part_004.csv,98
+1361,Nahualli,BaseU_part_004.csv,134
+1226,Naiad,BaseU_part_003.csv,399
+3069,Namanari,BaseU_part_008.csv,225
+1993,Naphtali Spearman,BaseU_part_005.csv,360
+499,Nataraja,BaseU_part_002.csv,92
+869,Navigator,BaseU_part_003.csv,44
+2701,Nazcan Longdead,BaseU_part_007.csv,257
+2702,Nazcan Longdead,BaseU_part_007.csv,258
+3451,Necrodai,BaseU_part_009.csv,207
+3452,Necrodai,BaseU_part_009.csv,208
+310,Necromancer,BaseU_part_001.csv,311
+1791,Nemedian Champion,BaseU_part_005.csv,164
+1793,Nemedian Queen,BaseU_part_005.csv,166
+1792,Nemedian Sorceress,BaseU_part_005.csv,165
+1790,Nemedian Warrior,BaseU_part_005.csv,163
+3108,Neodamode Commander,BaseU_part_008.csv,264
+3104,Neodamode Ekdromos,BaseU_part_008.csv,260
+3106,Neodamode Hoplite,BaseU_part_008.csv,262
+3102,Neodamode Peltast,BaseU_part_008.csv,258
+3199,Neokoros,BaseU_part_008.csv,355
+2075,Nephil,BaseU_part_006.csv,42
+294,Nerid,BaseU_part_001.csv,295
+388,Neter of Chaos,BaseU_part_001.csv,389
+384,Neter of Crafts,BaseU_part_001.csv,385
+2446,Neter of Kings,BaseU_part_007.csv,7
+2464,Neter of the Moon,BaseU_part_007.csv,25
+386,Neter of the Sun,BaseU_part_001.csv,387
+2445,Neter of the Underworld,BaseU_part_007.csv,6
+385,Neteret of Joy,BaseU_part_001.csv,386
+387,Neteret of Many Names,BaseU_part_001.csv,388
+991,Newt,BaseU_part_003.csv,166
+3669,Nidadrott,BaseU_part_010.csv,25
+3670,Nidajarl,BaseU_part_010.csv,26
+3677,Nidbathed,BaseU_part_010.csv,33
+3685,Nidhere,BaseU_part_010.csv,41
+3671,Nidherse,BaseU_part_010.csv,27
+3678,Nidylva,BaseU_part_010.csv,34
+845,Niefel Giant,BaseU_part_003.csv,20
+844,Niefel Jarl,BaseU_part_003.csv,19
+2201,Niefel Shaman,BaseU_part_006.csv,168
+3561,Nightmare,BaseU_part_009.csv,317
+369,Nightmare Rider,BaseU_part_001.csv,370
+2944,Nin,BaseU_part_008.csv,100
+1257,Ninja,BaseU_part_004.csv,30
+3528,Nisean War Horse,BaseU_part_009.csv,284
+2142,Nithing,BaseU_part_006.csv,109
+927,Noble,BaseU_part_003.csv,102
+2538,Noble,BaseU_part_007.csv,94
+2539,Noble,BaseU_part_007.csv,95
+1665,Noble Commander,BaseU_part_005.csv,38
+3040,Nomarch,BaseU_part_008.csv,196
+3041,Nomarch,BaseU_part_008.csv,197
+1436,Noppera-bo,BaseU_part_004.csv,209
+281,Norna,BaseU_part_001.csv,282
+3441,Norna of the Future,BaseU_part_009.csv,197
+3439,Norna of the Past,BaseU_part_009.csv,195
+3440,Norna of the Present,BaseU_part_009.csv,196
+2249,Nun,BaseU_part_006.csv,216
+1431,Nushi,BaseU_part_004.csv,204
+1339,Nyorai,BaseU_part_004.csv,112
+1399,O-bakemono,BaseU_part_004.csv,172
+1243,O-ban,BaseU_part_004.csv,16
+2349,Oath-Bound,BaseU_part_006.csv,310
+2743,Obsidian Warrior,BaseU_part_007.csv,299
+1934,Occultist,BaseU_part_005.csv,301
+2135,Ogre,BaseU_part_006.csv,102
+1185,Oiorpata,BaseU_part_003.csv,358
+3264,Okami,BaseU_part_009.csv,20
+624,Old King,BaseU_part_002.csv,205
+1232,Old Man of the Sea,BaseU_part_004.csv,5
+2493,Olm Sage,BaseU_part_007.csv,54
+2527,Olm Sage,BaseU_part_007.csv,83
+1772,Olm Spawn,BaseU_part_005.csv,145
+3269,Omukade,BaseU_part_009.csv,25
+1360,Onaqui,BaseU_part_004.csv,133
+2736,Onaqui,BaseU_part_007.csv,292
+2085,Once and Future Queen,BaseU_part_006.csv,52
+1262,Oni,BaseU_part_004.csv,35
+1272,Oni,BaseU_part_004.csv,45
+2203,Oni Kunshu,BaseU_part_006.csv,170
+1276,Oni Shugo,BaseU_part_004.csv,49
+1261,Oni spirit,BaseU_part_004.csv,34
+1263,Oni Spirit,BaseU_part_004.csv,36
+1265,Oni Spirit,BaseU_part_004.csv,38
+1267,Oni Spirit,BaseU_part_004.csv,40
+1269,Oni Spirit,BaseU_part_004.csv,42
+1273,Oni Spirit,BaseU_part_004.csv,46
+1275,Oni Spirit,BaseU_part_004.csv,48
+1277,Oni Spirit,BaseU_part_004.csv,50
+1317,Oni Spirit,BaseU_part_004.csv,90
+1837,Oni spirit,BaseU_part_005.csv,210
+2204,Oni Spirit,BaseU_part_006.csv,171
+3085,Oni Spirit,BaseU_part_008.csv,241
+2979,Onmyo Hakase,BaseU_part_008.csv,135
+1259,Onmyo-ji,BaseU_part_004.csv,32
+1846,Onyx Oracle,BaseU_part_005.csv,217
+356,Onyx Priestess,BaseU_part_001.csv,357
+355,Onyx Sorceress,BaseU_part_001.csv,356
+2051,Ophan,BaseU_part_006.csv,18
+3228,Oppressor Archon,BaseU_part_008.csv,384
+3222,Oppressor General,BaseU_part_008.csv,378
+158,Oracle,BaseU_part_001.csv,159
+1467,Oracle of Subterranean Fires,BaseU_part_004.csv,240
+1457,Oracle of Subterranean Waters,BaseU_part_004.csv,230
+1459,Oracle of the Ancients,BaseU_part_004.csv,232
+1468,Oracle of the Dead,BaseU_part_004.csv,241
+3510,Orchard of Souls,BaseU_part_009.csv,266
+1650,Oreiad,BaseU_part_005.csv,23
+3159,Orichalcum Guard,BaseU_part_008.csv,315
+3323,Orionde Crossbowman,BaseU_part_009.csv,79
+3326,Orionde King,BaseU_part_009.csv,82
+3325,Orionde Knight,BaseU_part_009.csv,81
+3324,Orionde Warrior,BaseU_part_009.csv,80
+2800,Ormr,BaseU_part_007.csv,356
+3128,Orphic Mystic,BaseU_part_008.csv,284
+755,Otherness,BaseU_part_002.csv,336
+2091,Ox-head,BaseU_part_006.csv,58
+1356,Ozelotl,BaseU_part_004.csv,129
+2579,Paighan,BaseU_part_007.csv,135
+2597,Paighan-Salar,BaseU_part_007.csv,153
+2636,Pairika,BaseU_part_007.csv,192
+2113,Palace Guard,BaseU_part_006.csv,80
+440,Paladin,BaseU_part_002.csv,40
+1747,Palankasha,BaseU_part_005.csv,120
+1868,Palatine,BaseU_part_005.csv,235
+1465,Pale One,BaseU_part_004.csv,238
+1471,Pale One Captain,BaseU_part_004.csv,244
+1463,Pale One Commander,BaseU_part_004.csv,236
+1452,Pale One Militia,BaseU_part_004.csv,225
+1466,Pale One Scout,BaseU_part_004.csv,239
+1472,Pale One Soldier,BaseU_part_004.csv,245
+1453,Pale One Warrior,BaseU_part_004.csv,226
+1464,Pale One Warrior,BaseU_part_004.csv,237
+238,Pan,BaseU_part_001.csv,239
+706,Pan,BaseU_part_002.csv,287
+1535,Pan,BaseU_part_004.csv,308
+3200,Panageis,BaseU_part_008.csv,356
+516,Pandemoniac,BaseU_part_002.csv,109
+709,Panic Apostate,BaseU_part_002.csv,290
+2665,Paqo of the Earth Mother,BaseU_part_007.csv,221
+2664,Paqo of the Mountain Spirits,BaseU_part_007.csv,220
+1795,Partholonian Sorceress,BaseU_part_005.csv,168
+584,Patriarch,BaseU_part_002.csv,171
+1962,Patriarch,BaseU_part_005.csv,329
+2395,Pearl Clan Priest,BaseU_part_006.csv,356
+2422,Pearl Clan Priest,BaseU_part_006.csv,383
+2387,Pearl Guard,BaseU_part_006.csv,348
+2397,Pearl King,BaseU_part_006.csv,358
+2396,Pearl Mage,BaseU_part_006.csv,357
+2423,Pearl Mage,BaseU_part_006.csv,384
+3038,Pearl Mage,BaseU_part_008.csv,194
+1565,Peasant,BaseU_part_004.csv,338
+3821,Peasant,BaseU_part_010.csv,177
+3556,Pegasus,BaseU_part_009.csv,312
+367,Pegasus Rider,BaseU_part_001.csv,368
+1069,Pelagian Captain,BaseU_part_003.csv,244
+2390,Pelagian Captain,BaseU_part_006.csv,351
+2813,Pelagian Explorer,BaseU_part_007.csv,369
+2814,Pelagian Explorer,BaseU_part_007.csv,370
+1415,Pelagian Mermage,BaseU_part_004.csv,188
+1416,Pelagian Mermage,BaseU_part_004.csv,189
+1056,Pelagian Militia,BaseU_part_003.csv,231
+2384,Pelagian Militia,BaseU_part_006.csv,345
+2823,Pelagian Mystic,BaseU_part_007.csv,379
+2824,Pelagian Mystic,BaseU_part_007.csv,380
+2811,Pelagian Shore Commander,BaseU_part_007.csv,367
+2812,Pelagian Shore Commander,BaseU_part_007.csv,368
+2807,Pelagian Shore Fighter,BaseU_part_007.csv,363
+2808,Pelagian Shore Fighter,BaseU_part_007.csv,364
+1057,Pelagian Soldier,BaseU_part_003.csv,232
+2385,Pelagian Soldier,BaseU_part_006.csv,346
+201,Peltast,BaseU_part_001.csv,202
+2497,Penumbral,BaseU_part_007.csv,58
+3100,Perioeci Peltast,BaseU_part_008.csv,256
+3107,Perioeci Scout,BaseU_part_008.csv,263
+2999,Perkunu,BaseU_part_008.csv,155
+1927,Peshtsi Axeman,BaseU_part_005.csv,294
+1926,Peshtsi City Guard,BaseU_part_005.csv,293
+1928,Peshtsi Spearman,BaseU_part_005.csv,295
+3144,Phaeacian Archer,BaseU_part_008.csv,300
+3154,Phaeacian Captain,BaseU_part_008.csv,310
+3147,Phaeacian Heavy Infantry,BaseU_part_008.csv,303
+3146,Phaeacian Infantry,BaseU_part_008.csv,302
+3145,Phaeacian Light Infantry,BaseU_part_008.csv,301
+3143,Phaeacian Militia,BaseU_part_008.csv,299
+3166,Phaeacian Priest,BaseU_part_008.csv,322
+3174,Phaeacian Princess,BaseU_part_008.csv,330
+3153,Phaeacian Scout,BaseU_part_008.csv,309
+1551,Phalangite,BaseU_part_004.csv,324
+1552,Phalangite Commander,BaseU_part_004.csv,325
+3626,Phantasmal Beast,BaseU_part_009.csv,382
+3986,Phantasmal Hippocampus,BaseU_part_010.csv,342
+3627,Phantasmal Knight,BaseU_part_009.csv,383
+3985,Phantasmal Knight,BaseU_part_010.csv,341
+3983,Phantasmal Sea Dog,BaseU_part_010.csv,339
+3628,Phantasmal Steed,BaseU_part_009.csv,384
+3984,Phantasmal Triton,BaseU_part_010.csv,340
+3624,Phantasmal Warrior,BaseU_part_009.csv,380
+3625,Phantasmal Wolf,BaseU_part_009.csv,381
+1228,Pharmakeia,BaseU_part_003.csv,401
+1070,Philosopher,BaseU_part_003.csv,245
+3219,Phlegran Cataphract Commander,BaseU_part_008.csv,375
+3217,Phlegran Commander,BaseU_part_008.csv,373
+3221,Phlegran Oppressor,BaseU_part_008.csv,377
+3218,Phlegran Priest,BaseU_part_008.csv,374
+3139,Phlegran Tyrant,BaseU_part_008.csv,295
+608,Phoenix,BaseU_part_002.csv,189
+3800,Piconye Arch Bishop,BaseU_part_010.csv,156
+3799,Piconye Bishop,BaseU_part_010.csv,155
+3794,Piconye Bishop General,BaseU_part_010.csv,150
+3362,Piconye Castellan,BaseU_part_009.csv,118
+3785,Piconye Crossbowman,BaseU_part_010.csv,141
+3788,Piconye Defender,BaseU_part_010.csv,144
+3306,Piconye King,BaseU_part_009.csv,62
+3783,Piconye Militia,BaseU_part_010.csv,139
+3302,Piconye Peasant,BaseU_part_009.csv,58
+3801,Piconye Pope,BaseU_part_010.csv,157
+3797,Piconye Sage,BaseU_part_010.csv,153
+3798,Piconye Sage-Priest,BaseU_part_010.csv,154
+3322,Piconye Scholar,BaseU_part_009.csv,78
+3802,Piconye Scout,BaseU_part_010.csv,158
+3303,Piconye Slinger,BaseU_part_009.csv,59
+3784,Piconye Slinger,BaseU_part_010.csv,140
+3305,Piconye Soldier,BaseU_part_009.csv,61
+3787,Piconye Soldier,BaseU_part_010.csv,143
+3304,Piconye Spearman,BaseU_part_009.csv,60
+3786,Piconye Spearman,BaseU_part_010.csv,142
+79,Pikeneer,BaseU_part_001.csv,80
+221,Pikeneer,BaseU_part_001.csv,222
+289,Pikeneer,BaseU_part_001.csv,290
+1013,Pikeneer,BaseU_part_003.csv,188
+2110,Pikeneer,BaseU_part_006.csv,77
+2331,Pilgrim,BaseU_part_006.csv,292
+871,Pirate,BaseU_part_003.csv,46
+1715,Pisacha,BaseU_part_005.csv,88
+2535,Plague Cult Leader,BaseU_part_007.csv,91
+3419,Plague Doctor,BaseU_part_009.csv,175
+959,Pocket Knight,BaseU_part_003.csv,134
+960,Pocket Lich,BaseU_part_003.csv,135
+1099,Poison Golem,BaseU_part_003.csv,274
+503,Poison Slinger,BaseU_part_002.csv,96
+3112,Polemarch,BaseU_part_008.csv,268
+1401,Polypal Mother,BaseU_part_004.csv,174
+1402,Polypal Queen,BaseU_part_004.csv,175
+1404,Polypal Spawn,BaseU_part_004.csv,177
+1110,Pontifex,BaseU_part_003.csv,285
+1586,Pontifex Maximus,BaseU_part_004.csv,359
+865,Pontifex Serpentus,BaseU_part_003.csv,40
+1765,Possessed Corpse,BaseU_part_005.csv,138
+3691,Praefectus Equitum,BaseU_part_010.csv,47
+667,Praetorian Guard,BaseU_part_002.csv,248
+2338,Praetorian Spectre,BaseU_part_006.csv,299
+1742,Praghasa,BaseU_part_005.csv,115
+3923,Presbyter Magistrate,BaseU_part_010.csv,279
+3377,Prester King,BaseU_part_009.csv,133
+3795,Prester King,BaseU_part_010.csv,151
+240,Priest,BaseU_part_001.csv,241
+732,Priest King,BaseU_part_002.csv,313
+935,Priest King,BaseU_part_003.csv,110
+1190,Priest King,BaseU_part_003.csv,363
+1884,Priest King,BaseU_part_005.csv,251
+1886,Priest King,BaseU_part_005.csv,253
+2892,Priest of All Waters,BaseU_part_008.csv,48
+1982,Priest Smith,BaseU_part_005.csv,349
+1866,Primani Solaris,BaseU_part_005.csv,233
+1587,Primate,BaseU_part_004.csv,360
+3289,Primate King,BaseU_part_009.csv,45
+3158,Prince Consort,BaseU_part_008.csv,314
+793,Prince General,BaseU_part_002.csv,374
+383,Prince of Death,BaseU_part_001.csv,384
+2278,Prince of Lust,BaseU_part_006.csv,245
+3042,Prince of the Setting Sun,BaseU_part_008.csv,198
+3043,Prince of the Setting Sun,BaseU_part_008.csv,199
+3044,Princess of the Setting Sun,BaseU_part_008.csv,200
+3045,Princess of the Setting Sun,BaseU_part_008.csv,201
+665,Principe,BaseU_part_002.csv,246
+687,Principe,BaseU_part_002.csv,268
+1104,Principe,BaseU_part_003.csv,279
+10,Projection,BaseU_part_001.csv,11
+2847,Protogenos of the Sea,BaseU_part_008.csv,3
+3380,Protopope,BaseU_part_009.csv,136
+2126,Pygmy,BaseU_part_006.csv,93
+98,Pyromancer,BaseU_part_001.csv,99
+3619,Pyrènian Bishop,BaseU_part_009.csv,375
+3614,Pyrènian Castellan,BaseU_part_009.csv,370
+4041,Pyrènian Castellan,BaseU_part_010.csv,397
+3607,Pyrènian Crossbowman,BaseU_part_009.csv,363
+4034,Pyrènian Crossbowman,BaseU_part_010.csv,390
+3609,Pyrènian Footman,BaseU_part_009.csv,365
+4036,Pyrènian Footman,BaseU_part_010.csv,392
+3612,Pyrènian Knight,BaseU_part_009.csv,368
+4039,Pyrènian Knight,BaseU_part_010.csv,395
+3610,Pyrènian Man at Arms,BaseU_part_009.csv,366
+4037,Pyrènian Man at Arms,BaseU_part_010.csv,393
+3615,Pyrènian Marquess,BaseU_part_009.csv,371
+4042,Pyrènian Marquess,BaseU_part_010.csv,398
+3617,Pyrènian Monk,BaseU_part_009.csv,373
+4043,Pyrènian Monk,BaseU_part_010.csv,399
+3618,Pyrènian Priest,BaseU_part_009.csv,374
+4044,Pyrènian Priest,BaseU_part_010.csv,400
+4040,Pyrènian Scout,BaseU_part_010.csv,396
+3608,Pyrènian Spearman,BaseU_part_009.csv,364
+4035,Pyrènian Spearman,BaseU_part_010.csv,391
+3611,Pyrènian Swordsman,BaseU_part_009.csv,367
+4038,Pyrènian Swordsman,BaseU_part_010.csv,394
+3471,Qarin,BaseU_part_009.csv,227
+2016,Qedesim,BaseU_part_005.csv,383
+2017,Qedesot,BaseU_part_005.csv,384
+374,Queen Mother,BaseU_part_001.csv,375
+912,Queen of Clouds,BaseU_part_003.csv,87
+3048,Queen of Land and Water,BaseU_part_008.csv,204
+3049,Queen of Land and Water,BaseU_part_008.csv,205
+3385,Queen of Na'Ba,BaseU_part_009.csv,141
+563,Queen of Storms,BaseU_part_002.csv,156
+2875,Queen of the City,BaseU_part_008.csv,31
+2876,Queen of the City,BaseU_part_008.csv,32
+907,Queen of the Deeps,BaseU_part_003.csv,82
+908,Queen of the Lake,BaseU_part_003.csv,83
+2924,Queen of the North,BaseU_part_008.csv,80
+2925,Queen of the North,BaseU_part_008.csv,81
+359,Queen of the Sea,BaseU_part_001.csv,360
+911,Queen of Thunder,BaseU_part_003.csv,86
+3997,Queen of Winter,BaseU_part_010.csv,353
+539,Rage Lord,BaseU_part_002.csv,132
+1168,Raider,BaseU_part_003.csv,341
+733,Rain Priest,BaseU_part_002.csv,314
+1191,Rain Priest,BaseU_part_003.csv,364
+1421,Rain Priest,BaseU_part_004.csv,194
+1423,Rain Warrior,BaseU_part_004.csv,196
+1738,Raksharaja,BaseU_part_005.csv,111
+2550,Raksharani,BaseU_part_007.csv,106
+1736,Rakshasa,BaseU_part_005.csv,109
+1737,Rakshasa Warrior,BaseU_part_005.csv,110
+1739,Rakshasi,BaseU_part_005.csv,112
+1733,Raktapata,BaseU_part_005.csv,106
+4105,Ram,BaseU_part_011.csv,61
+779,Rams-Headed Serpent,BaseU_part_002.csv,360
+1018,Ranger Captain,BaseU_part_003.csv,193
+1017,Ranger of Ulm,BaseU_part_003.csv,192
+205,Raptor,BaseU_part_001.csv,206
+1707,Raptorian Militia,BaseU_part_005.csv,80
+2571,Raptorian Militia,BaseU_part_007.csv,127
+1278,Raptorian Warrior,BaseU_part_004.csv,51
+2561,Raptorian Warrior,BaseU_part_007.csv,117
+2572,Raptorian Warrior,BaseU_part_007.csv,128
+2573,Raptorian Warrior,BaseU_part_007.csv,129
+2574,Raptorian Warrior,BaseU_part_007.csv,130
+3240,Raven,BaseU_part_008.csv,396
+949,Raven Guard,BaseU_part_003.csv,124
+2313,Raven Lord,BaseU_part_006.csv,274
+2789,Raven of the Underworld,BaseU_part_007.csv,345
+1660,Reassembled Prince,BaseU_part_005.csv,33
+1387,Reborn,BaseU_part_004.csv,160
+2314,Reborn,BaseU_part_006.csv,275
+2224,Red Ant,BaseU_part_006.csv,191
+3177,Red Cattle,BaseU_part_008.csv,333
+1579,Red Devil,BaseU_part_004.csv,352
+3261,Red Face,BaseU_part_009.csv,17
+791,Red Guard,BaseU_part_002.csv,372
+4059,Red Mistress,BaseU_part_011.csv,15
+1915,Red Tengu,BaseU_part_005.csv,282
+1682,Reef Dweller,BaseU_part_005.csv,55
+1620,Reef Warrior,BaseU_part_004.csv,393
+2523,Released King,BaseU_part_007.csv,79
+2525,Released One,BaseU_part_007.csv,81
+2522,Released Sage,BaseU_part_007.csv,78
+2524,Released Warrior,BaseU_part_007.csv,80
+1877,Renata,BaseU_part_005.csv,244
+1878,Renatus,BaseU_part_005.csv,245
+2618,Renegade Harab Seraph,BaseU_part_007.csv,174
+2009,Rephaite Commander,BaseU_part_005.csv,376
+2060,Rephaite Sage,BaseU_part_006.csv,27
+2235,Rephaite Scholar,BaseU_part_006.csv,202
+2030,Rephaite Warrior,BaseU_part_005.csv,397
+11,Retiarius,BaseU_part_001.csv,12
+2896,Returned,BaseU_part_008.csv,52
+1994,Reubenite Archer,BaseU_part_005.csv,361
+708,Reveler,BaseU_part_002.csv,289
+1880,Reveler,BaseU_part_005.csv,247
+396,Revenant,BaseU_part_001.csv,397
+2289,Rhino Clan Commander,BaseU_part_006.csv,250
+2304,Rhino Clan Warrior,BaseU_part_006.csv,265
+1754,Ri,BaseU_part_005.csv,127
+3513,Riding Horse,BaseU_part_009.csv,269
+3406,Rimvaetti,BaseU_part_009.csv,162
+3420,Rimvaetti,BaseU_part_009.csv,176
+1581,Risen Oracle,BaseU_part_004.csv,354
+1144,Rishi,BaseU_part_003.csv,317
+1270,Ronin,BaseU_part_004.csv,43
+1102,Rorarus,BaseU_part_003.csv,277
+3861,Royal Alchemist,BaseU_part_010.csv,217
+767,Royal Chariot,BaseU_part_002.csv,348
+3905,Royal Fay Steed,BaseU_part_010.csv,261
+56,Royal Forester,BaseU_part_001.csv,57
+134,Royal Guard,BaseU_part_001.csv,135
+2115,Royal Guard,BaseU_part_006.csv,82
+2663,Royal Mallqui,BaseU_part_007.csv,219
+1032,Royal Navigator,BaseU_part_003.csv,207
+1134,Royal Swordsman,BaseU_part_003.csv,309
+766,Royal Tomb Chariot,BaseU_part_002.csv,347
+3910,Royal Unseelie Steed,BaseU_part_010.csv,266
+1906,Rudra,BaseU_part_005.csv,273
+2666,Runancha,BaseU_part_007.csv,222
+173,Runner,BaseU_part_001.csv,174
+1954,Rusalka,BaseU_part_005.csv,321
+2985,Rusian Chieftain,BaseU_part_008.csv,141
+3008,Rusian Chieftain,BaseU_part_008.csv,164
+2989,Rusian Hunter,BaseU_part_008.csv,145
+2986,Rusian Priest,BaseU_part_008.csv,142
+2990,Rusian Warrior,BaseU_part_008.csv,146
+2991,Rusian Warrior,BaseU_part_008.csv,147
+2987,Rusian Wizard,BaseU_part_008.csv,143
+2104,Ryujin,BaseU_part_006.csv,71
+2105,Ryujin,BaseU_part_006.csv,72
+2186,Sacred Crocodile,BaseU_part_006.csv,153
+3876,Sacred Geyser,BaseU_part_010.csv,232
+3545,Sacred Gryphon,BaseU_part_009.csv,301
+3645,Sacred Hippocampus,BaseU_part_009.csv,401
+4091,Sacred Moose,BaseU_part_011.csv,47
+3623,Sacred Mouflon,BaseU_part_009.csv,379
+556,Sacred One,BaseU_part_002.csv,149
+2690,Sacred Scorpion,BaseU_part_007.csv,246
+295,Sacred Serpent,BaseU_part_001.csv,296
+3829,Sacred Skeletal Horse,BaseU_part_010.csv,185
+3940,Sacred Stag,BaseU_part_010.csv,296
+3549,Sacred Tiger,BaseU_part_009.csv,305
+478,Sage,BaseU_part_002.csv,77
+3816,Sage-Queen,BaseU_part_010.csv,172
+1093,Sagittarian Carcass,BaseU_part_003.csv,268
+3340,Sahir,BaseU_part_009.csv,96
+3384,Sahira,BaseU_part_009.csv,140
+2744,Sak Muuch Dart Thrower,BaseU_part_007.csv,300
+2745,Sak Muuch Warrior,BaseU_part_007.csv,301
+2746,Sak Muuch Warrior,BaseU_part_007.csv,302
+2179,Sal-Me,BaseU_part_006.csv,146
+213,Salamander,BaseU_part_001.csv,214
+3658,Salamander Asp,BaseU_part_010.csv,14
+1744,Samanishada,BaseU_part_005.csv,117
+1240,Samurai,BaseU_part_004.csv,13
+1241,Samurai,BaseU_part_004.csv,14
+1242,Samurai,BaseU_part_004.csv,15
+1239,Samurai Archer,BaseU_part_004.csv,12
+1246,Samurai Cavalry,BaseU_part_004.csv,19
+1743,Sandhyabala,BaseU_part_005.csv,116
+1091,Sanguine Acolyte,BaseU_part_003.csv,266
+1092,Sanguine Anathemant,BaseU_part_003.csv,267
+2838,Saos,BaseU_part_007.csv,394
+2695,Sapa Inca,BaseU_part_007.csv,251
+749,Sapper,BaseU_part_002.csv,330
+1288,Sastar,BaseU_part_004.csv,61
+228,Satyr,BaseU_part_001.csv,229
+229,Satyr,BaseU_part_001.csv,230
+1881,Satyr,BaseU_part_005.csv,248
+2118,Satyr Commander,BaseU_part_006.csv,85
+2154,Satyr Commander,BaseU_part_006.csv,121
+2485,Satyr Commander,BaseU_part_007.csv,46
+230,Satyr Hoplite,BaseU_part_001.csv,231
+697,Satyr Hoplite,BaseU_part_002.csv,278
+712,Satyr Manikin,BaseU_part_002.csv,293
+3307,Satyr Slave,BaseU_part_009.csv,63
+227,Satyr Sneak,BaseU_part_001.csv,228
+2478,Satyr Sniper,BaseU_part_007.csv,39
+1532,Satyr Warrior,BaseU_part_004.csv,305
+3946,Saurolich,BaseU_part_010.csv,302
+161,Sauromancer,BaseU_part_001.csv,162
+1036,Sauromancer,BaseU_part_003.csv,211
+1669,Sauromatian Amazon,BaseU_part_005.csv,42
+1184,Sauromatian Archer,BaseU_part_003.csv,357
+1172,Sauromatian Cataphract,BaseU_part_003.csv,345
+1170,Sauromatian Lancer,BaseU_part_003.csv,343
+1173,Sauromatian Manflayer,BaseU_part_003.csv,346
+1171,Sauromatian Raider,BaseU_part_003.csv,344
+2584,Savaran Cataphract,BaseU_part_007.csv,140
+2585,Savaran Guard,BaseU_part_007.csv,141
+2244,Scelerian Cultist,BaseU_part_006.csv,211
+1071,Sceptic,BaseU_part_003.csv,246
+524,Scorpion Beast,BaseU_part_002.csv,117
+655,Scorpion King,BaseU_part_002.csv,236
+1649,Scorpion Man,BaseU_part_005.csv,22
+426,Scout,BaseU_part_002.csv,26
+431,Scout,BaseU_part_002.csv,31
+432,Scout,BaseU_part_002.csv,32
+729,Scout,BaseU_part_002.csv,310
+1680,Scout,BaseU_part_005.csv,53
+2353,Scout,BaseU_part_006.csv,314
+2984,Scout,BaseU_part_008.csv,140
+4081,Scout,BaseU_part_011.csv,37
+868,Scythe Wielder,BaseU_part_003.csv,43
+2074,Se'ir,BaseU_part_006.csv,41
+1064,Sea Dog,BaseU_part_003.csv,239
+2440,Sea Dragon,BaseU_part_006.csv,401
+529,Sea Father,BaseU_part_002.csv,122
+580,Sea King,BaseU_part_002.csv,167
+565,Sea Serpent,BaseU_part_002.csv,158
+1062,Sea Stag,BaseU_part_003.csv,237
+564,Sea Troll,BaseU_part_002.csv,157
+1456,Seal Guard,BaseU_part_004.csv,229
+1617,Seal Hunter,BaseU_part_004.csv,390
+3768,Seaweed,BaseU_part_010.csv,124
+3769,Seaweed,BaseU_part_010.csv,125
+3770,Seaweed,BaseU_part_010.csv,126
+3771,Seaweed,BaseU_part_010.csv,127
+3772,Seaweed,BaseU_part_010.csv,128
+3773,Seaweed,BaseU_part_010.csv,129
+2048,Second Son of Anak,BaseU_part_006.csv,15
+2271,Seeker of Truths,BaseU_part_006.csv,238
+558,Seer King,BaseU_part_002.csv,151
+2146,Seithberender,BaseU_part_006.csv,113
+3830,Seithberender Apprentice,BaseU_part_010.csv,186
+280,Seithkona,BaseU_part_001.csv,281
+2147,Seithmathr,BaseU_part_006.csv,114
+3881,Seithmathr Bear,BaseU_part_010.csv,237
+3885,Seithmathr Crow,BaseU_part_010.csv,241
+3883,Seithmathr Wolf,BaseU_part_010.csv,239
+2471,Self Proclaimed Prince,BaseU_part_007.csv,32
+4083,Seniunas,BaseU_part_011.csv,39
+1496,Sentinel,BaseU_part_004.csv,269
+1500,Sepulchral,BaseU_part_004.csv,273
+1225,Sequani Stargazer,BaseU_part_003.csv,398
+1368,Seraph,BaseU_part_004.csv,141
+204,Seraphine,BaseU_part_001.csv,205
+416,Seraphine,BaseU_part_002.csv,16
+2001,Seren,BaseU_part_005.csv,368
+3975,Serene Master,BaseU_part_010.csv,331
+3974,Serene One,BaseU_part_010.csv,330
+3004,Serf Defender,BaseU_part_008.csv,160
+1679,Serf Warrior,BaseU_part_005.csv,52
+4,Serpent,BaseU_part_001.csv,5
+1179,Serpent,BaseU_part_003.csv,352
+3535,Serpent,BaseU_part_009.csv,291
+830,Serpent Acolyte,BaseU_part_003.csv,11
+1879,Serpent Assassin,BaseU_part_005.csv,246
+3977,Serpent Carcass,BaseU_part_010.csv,333
+3,Serpent Cataphract,BaseU_part_001.csv,4
+763,Serpent Cataphract,BaseU_part_002.csv,344
+783,Serpent Dancer,BaseU_part_002.csv,364
+526,Serpent Fiend,BaseU_part_002.csv,119
+653,Serpent King,BaseU_part_002.csv,234
+654,Serpent King,BaseU_part_002.csv,235
+5,Serpent Lord,BaseU_part_001.csv,6
+765,Serpent Lord,BaseU_part_002.csv,346
+2793,Serpent of Chaos,BaseU_part_007.csv,349
+3894,Serpent of Heavenly Fires,BaseU_part_010.csv,250
+3394,Serpent of the Underworld,BaseU_part_009.csv,150
+761,Serpent Priest,BaseU_part_002.csv,342
+610,Serpent Queen,BaseU_part_002.csv,191
+764,Serpent XXX,BaseU_part_002.csv,345
+1443,Servant of the Oracles,BaseU_part_004.csv,216
+3161,Shackled Mage,BaseU_part_008.csv,317
+3220,Shackled Mage,BaseU_part_008.csv,376
+676,Shade,BaseU_part_002.csv,257
+442,Shade Beast,BaseU_part_002.csv,42
+945,Shade King,BaseU_part_003.csv,120
+843,Shade Lord,BaseU_part_003.csv,18
+2125,Shadow,BaseU_part_006.csv,92
+2287,Shadow Imp,BaseU_part_006.csv,248
+106,Shadow Seer,BaseU_part_001.csv,107
+434,Shadow Servant,BaseU_part_002.csv,34
+675,Shadow Soldier,BaseU_part_002.csv,256
+2340,Shadow Soldier,BaseU_part_006.csv,301
+3520,Shadow Steed,BaseU_part_009.csv,276
+681,Shadow Tribune,BaseU_part_002.csv,262
+2339,Shadow Triton,BaseU_part_006.csv,300
+809,Shadow Vestal,BaseU_part_002.csv,390
+4131,Shah of Horses,BaseU_part_011.csv,87
+1160,Shaman,BaseU_part_003.csv,333
+206,Shambler,BaseU_part_001.csv,207
+1683,Shambler,BaseU_part_005.csv,56
+207,Shambler Chief,BaseU_part_001.csv,208
+1700,Shambler Chief,BaseU_part_005.csv,73
+2862,Shambler Guard,BaseU_part_008.csv,18
+1688,Shambler of the Deep,BaseU_part_005.csv,61
+425,Shambler Thrall,BaseU_part_002.csv,25
+2508,Shard Guard,BaseU_part_007.csv,69
+2509,Shard Wight,BaseU_part_007.csv,70
+816,Shark,BaseU_part_002.csv,397
+3656,Shark,BaseU_part_010.csv,12
+545,Shark Knight,BaseU_part_002.csv,138
+2472,Shark Tribe Brigand,BaseU_part_007.csv,33
+2383,Shark Tribe Triton,BaseU_part_006.csv,344
+2103,Shark Warrior,BaseU_part_006.csv,70
+3373,Shaytan,BaseU_part_009.csv,129
+3472,Shaytan,BaseU_part_009.csv,228
+2073,Shed,BaseU_part_006.csv,40
+661,Shedu,BaseU_part_002.csv,242
+3334,Sheikh,BaseU_part_009.csv,90
+2025,Sheshai Anakite,BaseU_part_005.csv,392
+1165,Shield Maiden,BaseU_part_003.csv,338
+2092,Shikigami,BaseU_part_006.csv,59
+2100,Shikome,BaseU_part_006.csv,67
+2101,Shrimp Soldier,BaseU_part_006.csv,68
+3012,Shrimp Soul Vessel,BaseU_part_008.csv,168
+3696,Shrub,BaseU_part_010.csv,52
+1254,Shugenja,BaseU_part_004.csv,27
+1256,Shura,BaseU_part_004.csv,29
+1549,Shuten-doji,BaseU_part_004.csv,322
+3483,Si'lat,BaseU_part_009.csv,239
+1557,Sibyl,BaseU_part_004.csv,330
+2070,Sibyl of Hermon,BaseU_part_006.csv,37
+1337,Siddha,BaseU_part_004.csv,110
+2809,Sideraspist,BaseU_part_007.csv,365
+2810,Sideraspist,BaseU_part_007.csv,366
+850,Sidhe Champion,BaseU_part_003.csv,25
+1752,Sidhe Champion,BaseU_part_005.csv,125
+848,Sidhe Lord,BaseU_part_003.csv,23
+1759,Sidhe Lord,BaseU_part_005.csv,132
+1751,Sidhe Warrior,BaseU_part_005.csv,124
+760,Siege Golem,BaseU_part_002.csv,341
+1947,Simargl,BaseU_part_005.csv,314
+3237,Sinister Hawk,BaseU_part_008.csv,393
+3238,Sinister Wolf,BaseU_part_008.csv,394
+1054,Siren,BaseU_part_003.csv,229
+1055,Siren,BaseU_part_003.csv,230
+1945,Sirin,BaseU_part_005.csv,312
+1347,Sirrush,BaseU_part_004.csv,120
+2248,Sister,BaseU_part_006.csv,215
+3562,Skeletal Beast,BaseU_part_009.csv,318
+3558,Skeletal Horse,BaseU_part_009.csv,314
+3559,Skeletal War Horse,BaseU_part_009.csv,315
+409,Skeletal Wolf,BaseU_part_002.csv,10
+400,Skinshifter,BaseU_part_001.csv,401
+853,Skinshifter,BaseU_part_003.csv,28
+1920,Skopets,BaseU_part_005.csv,287
+500,Skratti,BaseU_part_002.csv,93
+3893,Sky Metal Adept,BaseU_part_010.csv,249
+1888,Sky Priest,BaseU_part_005.csv,255
+720,Slave,BaseU_part_002.csv,301
+336,Slave Guardian,BaseU_part_001.csv,337
+1524,Slave Guardian,BaseU_part_004.csv,297
+1525,Slave Guardian,BaseU_part_004.csv,298
+1526,Slave Guardian,BaseU_part_004.csv,299
+1619,Slave Guardian,BaseU_part_004.csv,392
+1518,Slave Mage,BaseU_part_004.csv,291
+1519,Slave Mage,BaseU_part_004.csv,292
+993,Slave of Belphegor,BaseU_part_003.csv,168
+1527,Slave Priest,BaseU_part_004.csv,300
+1528,Slave Priest,BaseU_part_004.csv,301
+1523,Slave Prince,BaseU_part_004.csv,296
+1151,Slave to Unreason,BaseU_part_003.csv,324
+1529,Slave Troll,BaseU_part_004.csv,302
+335,Slave Trooper,BaseU_part_001.csv,336
+1515,Slave Trooper,BaseU_part_004.csv,288
+1516,Slave Trooper,BaseU_part_004.csv,289
+1517,Slave Trooper,BaseU_part_004.csv,290
+171,Slave Warrior,BaseU_part_001.csv,172
+429,Slayer,BaseU_part_002.csv,29
+867,Slayer,BaseU_part_003.csv,42
+1966,Slayer Anathemant,BaseU_part_005.csv,333
+1968,Slayer Dragon,BaseU_part_005.csv,335
+1964,Slayer Newt,BaseU_part_005.csv,331
+1967,Slayer Sanguine,BaseU_part_005.csv,334
+1965,Slayer Worm,BaseU_part_005.csv,332
+559,Sleeper,BaseU_part_002.csv,152
+2086,Sleeping Pillar,BaseU_part_006.csv,53
+50,Slinger,BaseU_part_001.csv,51
+3989,Small Animated Shrub,BaseU_part_010.csv,345
+3700,Small Boulder,BaseU_part_010.csv,56
+815,Small Shark,BaseU_part_002.csv,396
+3697,Small Shrub,BaseU_part_010.csv,53
+857,Smoking Mirror,BaseU_part_003.csv,32
+1656,Smoulderghost,BaseU_part_005.csv,29
+1971,Smoulderghost,BaseU_part_005.csv,338
+4098,Snail,BaseU_part_011.csv,54
+1632,Snow Captain,BaseU_part_005.csv,5
+1625,Snow Warrior,BaseU_part_004.csv,398
+1626,Snow Warrior,BaseU_part_004.csv,399
+2238,Sobek General,BaseU_part_006.csv,205
+2272,Sobek High Priest,BaseU_part_006.csv,239
+2237,Sobek Sacred Guard,BaseU_part_006.csv,204
+2394,Sobek Sauromancer,BaseU_part_006.csv,355
+2236,Sobek Warrior,BaseU_part_006.csv,203
+1247,Sohei,BaseU_part_004.csv,20
+1384,Solar Disc,BaseU_part_004.csv,157
+2785,Solar Eagle,BaseU_part_007.csv,341
+2792,Solar Serpent,BaseU_part_007.csv,348
+2860,Soldier of the Deep,BaseU_part_008.csv,16
+2360,Soldier of the Faith,BaseU_part_006.csv,321
+3051,Soldier of the Setting Sun,BaseU_part_008.csv,207
+3052,Soldier of the Setting Sun,BaseU_part_008.csv,208
+3282,Soldier Priest,BaseU_part_009.csv,38
+3789,Soldier Priest,BaseU_part_010.csv,145
+2081,Son of Arakiel,BaseU_part_006.csv,48
+2076,Son of Azazel,BaseU_part_006.csv,43
+2078,Son of Ezekiel,BaseU_part_006.csv,45
+1229,Son of Fenrer,BaseU_part_004.csv,2
+3000,Son of Heaven,BaseU_part_008.csv,156
+2080,Son of Kokabel,BaseU_part_006.csv,47
+605,Son of Niefel,BaseU_part_002.csv,186
+2077,Son of Semyaza,BaseU_part_006.csv,44
+2079,Son of Shamshiel,BaseU_part_006.csv,46
+1584,Son of Steel,BaseU_part_004.csv,357
+3234,Son of the Bear,BaseU_part_008.csv,390
+3235,Son of the Bear,BaseU_part_008.csv,391
+1580,Son of the Dragon King,BaseU_part_004.csv,353
+2082,Son of the Fallen,BaseU_part_006.csv,49
+2856,Son of the Sea,BaseU_part_008.csv,12
+954,Son of Titans,BaseU_part_003.csv,129
+1188,Soothsayer,BaseU_part_003.csv,361
+339,Sorcerer,BaseU_part_001.csv,340
+893,Sorcerer,BaseU_part_003.csv,68
+1315,Sorcerer,BaseU_part_004.csv,88
+2245,Sorcerer of the Sands,BaseU_part_006.csv,212
+343,Sorceress,BaseU_part_001.csv,344
+3603,Sorgina,BaseU_part_009.csv,359
+3620,Sorgina,BaseU_part_009.csv,376
+4046,Sorgina,BaseU_part_011.csv,2
+197,Soulless,BaseU_part_001.csv,198
+317,Soulless,BaseU_part_001.csv,318
+1716,Soulless Bandar,BaseU_part_005.csv,89
+1717,Soulless Bandar Warrior,BaseU_part_005.csv,90
+1718,Soulless Bandar Warrior,BaseU_part_005.csv,91
+2274,Soulless Bandar Warrior,BaseU_part_006.csv,241
+318,Soulless Deep One,BaseU_part_001.csv,319
+2981,Soulless Enkidu,BaseU_part_008.csv,137
+315,Soulless Giant,BaseU_part_001.csv,316
+1731,Soulless Markata,BaseU_part_005.csv,104
+2707,Soulless Nazcan,BaseU_part_007.csv,263
+2708,Soulless Nazcan Warrior,BaseU_part_007.csv,264
+2709,Soulless Nazcan Warrior,BaseU_part_007.csv,265
+2710,Soulless Nazcan Warrior,BaseU_part_007.csv,266
+2711,Soulless Nazcan Warrior,BaseU_part_007.csv,267
+319,Soulless of C'tis,BaseU_part_001.csv,320
+2364,Soulless Shambler,BaseU_part_006.csv,325
+1724,Soulless Vanara,BaseU_part_005.csv,97
+1725,Soulless Vanara Warrior,BaseU_part_005.csv,98
+1726,Soulless Vanara Warrior,BaseU_part_005.csv,99
+2365,Soulless War Shambler,BaseU_part_006.csv,326
+2366,Soulless War Shambler,BaseU_part_006.csv,327
+2367,Soulless War Shambler,BaseU_part_006.csv,328
+914,Soulless Warrior,BaseU_part_003.csv,89
+915,Soulless Warrior,BaseU_part_003.csv,90
+916,Soulless Warrior,BaseU_part_003.csv,91
+917,Soulless Warrior,BaseU_part_003.csv,92
+918,Soulless Warrior,BaseU_part_003.csv,93
+919,Soulless Warrior,BaseU_part_003.csv,94
+920,Soulless Warrior,BaseU_part_003.csv,95
+921,Soulless Warrior,BaseU_part_003.csv,96
+922,Soulless Warrior,BaseU_part_003.csv,97
+2119,Soulless Warrior,BaseU_part_006.csv,86
+2242,Soulless Warrior,BaseU_part_006.csv,209
+2243,Soulless Warrior,BaseU_part_006.csv,210
+2982,Soulless Warrior,BaseU_part_008.csv,138
+2983,Soulless Warrior,BaseU_part_008.csv,139
+3896,Soulless Warrior,BaseU_part_010.csv,252
+3873,Soulless Zotz,BaseU_part_010.csv,229
+2212,Soultorn,BaseU_part_006.csv,179
+3119,Spartae,BaseU_part_008.csv,275
+61,Spearman,BaseU_part_001.csv,62
+285,Spearman,BaseU_part_001.csv,286
+254,Spectator,BaseU_part_001.csv,255
+2840,Spectral Archer,BaseU_part_007.csv,396
+2844,Spectral Commander,BaseU_part_007.csv,400
+673,Spectral Hastatus,BaseU_part_002.csv,254
+2842,Spectral Hoplite,BaseU_part_007.csv,398
+2843,Spectral Kourete,BaseU_part_007.csv,399
+3067,Spectral Lictor,BaseU_part_008.csv,223
+329,Spectral Mage,BaseU_part_001.csv,330
+2841,Spectral Peltast,BaseU_part_007.csv,397
+2846,Spectral Philosopher,BaseU_part_008.csv,2
+2336,Spectral Principe,BaseU_part_006.csv,297
+682,Spectral Standard,BaseU_part_002.csv,263
+2337,Spectral Triarius,BaseU_part_006.csv,298
+672,Spectral Velite,BaseU_part_002.csv,253
+2555,Spenta Mainyu,BaseU_part_007.csv,111
+1376,Spenta of Animals,BaseU_part_004.csv,149
+1377,Spenta of Fire,BaseU_part_004.csv,150
+1492,Spenta of Plants,BaseU_part_004.csv,265
+1375,Spenta of Sky and Metals,BaseU_part_004.csv,148
+1494,Spenta of the Earth,BaseU_part_004.csv,267
+1493,Spenta of Waters,BaseU_part_004.csv,266
+2138,Sphinx,BaseU_part_006.csv,105
+3097,Spider Archer,BaseU_part_008.csv,253
+2301,Spider Clan Archer,BaseU_part_006.csv,262
+2295,Spider Clan Sorcerer,BaseU_part_006.csv,256
+2302,Spider Clan Warrior,BaseU_part_006.csv,263
+2403,Spider Clan Witch Doctor,BaseU_part_006.csv,364
+886,Spider Knight,BaseU_part_003.csv,61
+887,Spider Lord,BaseU_part_003.csv,62
+885,Spider Rider,BaseU_part_003.csv,60
+2308,Spider Rider,BaseU_part_006.csv,269
+891,Spider Sorceress,BaseU_part_003.csv,66
+876,Spider Warrior,BaseU_part_003.csv,51
+638,Spine Devil,BaseU_part_002.csv,219
+3712,Spine Frog,BaseU_part_010.csv,68
+2214,Spine Membrane Horror,BaseU_part_006.csv,181
+128,Spire Horn Archer,BaseU_part_001.csv,129
+2565,Spire Horn Archer,BaseU_part_007.csv,121
+2593,Spire Horn Archer,BaseU_part_007.csv,149
+129,Spire Horn Militia,BaseU_part_001.csv,130
+2564,Spire Horn Militia,BaseU_part_007.csv,120
+1284,Spire Horn Seraph,BaseU_part_004.csv,57
+2569,Spire Horn Seraph,BaseU_part_007.csv,125
+131,Spire Horn Warrior,BaseU_part_001.csv,132
+2566,Spire Horn Warrior,BaseU_part_007.csv,122
+2594,Spire Horn Warrior,BaseU_part_007.csv,150
+1180,Spirit Guide,BaseU_part_003.csv,353
+4067,Spirit Horse,BaseU_part_011.csv,23
+1710,Spirit Master,BaseU_part_005.csv,83
+513,Spring Hawk,BaseU_part_002.csv,106
+592,Sprite,BaseU_part_002.csv,179
+427,Spy,BaseU_part_002.csv,27
+1591,Spy,BaseU_part_004.csv,364
+2762,Stabbing Demon,BaseU_part_007.csv,318
+3778,Stalagmite,BaseU_part_010.csv,134
+3779,Stalagmite,BaseU_part_010.csv,135
+629,Stalker,BaseU_part_002.csv,210
+2,Standard,BaseU_part_001.csv,3
+668,Standard,BaseU_part_002.csv,249
+689,Standard,BaseU_part_002.csv,270
+2475,Standard,BaseU_part_007.csv,36
+443,Star Child,BaseU_part_002.csv,43
+1937,Starets,BaseU_part_005.csv,304
+560,Stargazer,BaseU_part_002.csv,153
+332,Starspawn,BaseU_part_001.csv,333
+333,Starspawn,BaseU_part_001.csv,334
+3857,Starspawn,BaseU_part_010.csv,213
+3858,Starspawn,BaseU_part_010.csv,214
+3344,Statue of Beginnings,BaseU_part_009.csv,100
+2460,Statue of Fertility,BaseU_part_007.csv,21
+472,Statue of Order,BaseU_part_002.csv,71
+2461,Statue of the Bloody Mother,BaseU_part_007.csv,22
+2850,Statue of the Underworld,BaseU_part_008.csv,6
+2463,Statue of War,BaseU_part_007.csv,24
+2465,Statue of War,BaseU_part_007.csv,26
+1164,Steel Maiden,BaseU_part_003.csv,337
+1157,Steel Warrior,BaseU_part_003.csv,330
+3573,Steppe Horse,BaseU_part_009.csv,329
+3577,Steppe Horse,BaseU_part_009.csv,333
+2696,Stone Huaca,BaseU_part_007.csv,252
+542,Stone Monstra,BaseU_part_002.csv,135
+2264,Storm Caller,BaseU_part_006.csv,231
+632,Storm Demon,BaseU_part_002.csv,213
+3991,Storm Drake,BaseU_part_010.csv,347
+3711,Storm Father,BaseU_part_010.csv,67
+418,Storm General,BaseU_part_002.csv,18
+421,Storm Guard,BaseU_part_002.csv,21
+3327,Strange Bird,BaseU_part_009.csv,83
+2832,Strategis,BaseU_part_007.csv,388
+746,Strategos,BaseU_part_002.csv,327
+3937,Student of the Five Elements,BaseU_part_010.csv,293
+4022,Student of the Sword,BaseU_part_010.csv,378
+3936,Student of the Way,BaseU_part_010.csv,292
+1924,Styag,BaseU_part_005.csv,291
+2155,Stymphalian Bird,BaseU_part_006.csv,122
+811,Succubus,BaseU_part_002.csv,392
+515,Summer Lion,BaseU_part_002.csv,108
+2653,Sun Guard,BaseU_part_007.csv,209
+2672,Sun Guide,BaseU_part_007.csv,228
+1193,Sun Priest,BaseU_part_003.csv,366
+1424,Sun Priest,BaseU_part_004.csv,197
+725,Sun Warrior,BaseU_part_002.csv,306
+2700,Supaya,BaseU_part_007.csv,256
+1010,Svartalf,BaseU_part_003.csv,185
+2802,Svartalf Mastersmith,BaseU_part_007.csv,358
+2196,Swamp Drake,BaseU_part_006.csv,163
+3707,Swamp Flower,BaseU_part_010.csv,63
+164,Swamp Guard,BaseU_part_001.csv,165
+1435,Swamp Serpent,BaseU_part_004.csv,208
+2929,Swan,BaseU_part_008.csv,85
+2928,Swanherd,BaseU_part_008.csv,84
+2761,Sweeping Demon,BaseU_part_007.csv,317
+219,Swordsman,BaseU_part_001.csv,220
+287,Swordsman,BaseU_part_001.csv,288
+2112,Swordsman,BaseU_part_006.csv,79
+562,Sylph,BaseU_part_002.csv,155
+4090,Sylvan Knight,BaseU_part_011.csv,46
+3826,Table,BaseU_part_010.csv,182
+3512,Tainted Soul,BaseU_part_009.csv,268
+2028,Talmai Elder,BaseU_part_005.csv,395
+3265,Tanuki,BaseU_part_009.csv,21
+3266,Tanuki,BaseU_part_009.csv,22
+925,Tarrasque,BaseU_part_003.csv,100
+3605,Tartalo,BaseU_part_009.csv,361
+771,Tartarian Cyclops,BaseU_part_002.csv,352
+772,Tartarian Cyclops,BaseU_part_002.csv,353
+777,Tartarian Monstra,BaseU_part_002.csv,358
+776,Tartarian Monstrum,BaseU_part_002.csv,357
+773,Tartarian Spirit,BaseU_part_002.csv,354
+774,Tartarian Titan,BaseU_part_002.csv,355
+775,Tartarian Titan,BaseU_part_002.csv,356
+169,Taskmaster,BaseU_part_001.csv,170
+2270,Tathagata,BaseU_part_006.csv,237
+2099,Tatsu,BaseU_part_006.csv,66
+473,Telestic Animate,BaseU_part_002.csv,72
+2873,Telkhine,BaseU_part_008.csv,29
+2874,Telkhine,BaseU_part_008.csv,30
+2877,Telkhine,BaseU_part_008.csv,33
+2878,Telkhine,BaseU_part_008.csv,34
+2879,Telkhine,BaseU_part_008.csv,35
+2880,Telkhine,BaseU_part_008.csv,36
+2881,Telkhine God-King,BaseU_part_008.csv,37
+2882,Telkhine God-King,BaseU_part_008.csv,38
+1287,Tempest Warrior,BaseU_part_004.csv,60
+358,Temple Guard,BaseU_part_001.csv,359
+3491,Tenebrous Enchantress,BaseU_part_009.csv,247
+3246,Tengu King,BaseU_part_009.csv,2
+1481,Tengu Warrior,BaseU_part_004.csv,254
+1631,Tent Owner,BaseU_part_005.csv,4
+603,Teotl of Rain,BaseU_part_002.csv,184
+604,Teotl of the Night,BaseU_part_002.csv,185
+2443,Teotl of the Sky,BaseU_part_007.csv,4
+2444,Teotl of the Underworld,BaseU_part_007.csv,5
+2442,Teotl of War,BaseU_part_007.csv,3
+2134,Terracotta Soldier,BaseU_part_006.csv,101
+3500,Test Gygja,BaseU_part_009.csv,256
+3501,Test Soldier,BaseU_part_009.csv,257
+2434,Teteo Inan,BaseU_part_006.csv,395
+669,Thaumaturg,BaseU_part_002.csv,250
+2827,Therodian Archer,BaseU_part_007.csv,383
+2831,Therodian Commander,BaseU_part_007.csv,387
+2829,Therodian Hoplite,BaseU_part_007.csv,385
+2828,Therodian Peltast,BaseU_part_007.csv,384
+2830,Therodian Scout,BaseU_part_007.csv,386
+42,Theurg,BaseU_part_001.csv,43
+1874,Theurg,BaseU_part_005.csv,241
+43,Theurg Acolyte,BaseU_part_001.csv,44
+538,Theurg Communicant,BaseU_part_002.csv,131
+3163,Theurg Tyrant,BaseU_part_008.csv,319
+750,Thing From Beyond,BaseU_part_002.csv,331
+753,Thing From The Void,BaseU_part_002.csv,334
+758,Thing Of Many Eyes,BaseU_part_002.csv,339
+751,Thing That Should Not Be,BaseU_part_002.csv,332
+2049,Third Son of Anak,BaseU_part_006.csv,16
+1022,Thrall,BaseU_part_003.csv,197
+2784,Thrice Horned Boar,BaseU_part_007.csv,340
+3399,Thrymsgode,BaseU_part_009.csv,155
+3400,Thrymshirding,BaseU_part_009.csv,156
+2988,Thunder Priest,BaseU_part_008.csv,144
+3018,Thyreophorite,BaseU_part_008.csv,174
+3019,Thyreophorite,BaseU_part_008.csv,175
+1140,Tiger,BaseU_part_003.csv,313
+3547,Tiger,BaseU_part_009.csv,303
+1141,Tiger Rider,BaseU_part_003.csv,314
+4025,Titan Mandragora,BaseU_part_010.csv,381
+3205,Titan of Crossroads,BaseU_part_008.csv,361
+3206,Titan of Crossroads,BaseU_part_008.csv,362
+3207,Titan of Crossroads,BaseU_part_008.csv,363
+1371,Titan of Death and Rebirth,BaseU_part_004.csv,144
+3124,Titan of Forethought,BaseU_part_008.csv,280
+3209,Titan of Growth,BaseU_part_008.csv,365
+602,Titan of Heaven,BaseU_part_002.csv,183
+1343,Titan of Love,BaseU_part_004.csv,116
+1342,Titan of Rivers,BaseU_part_004.csv,115
+1348,Titan of Serpents and Medicine,BaseU_part_004.csv,121
+1230,Titan of the Forge,BaseU_part_004.csv,3
+3203,Titan of the Hunt,BaseU_part_008.csv,359
+961,Titan of the Sea,BaseU_part_003.csv,136
+3208,Titan of the Spring,BaseU_part_008.csv,364
+2431,Titan of the Underworld,BaseU_part_006.csv,392
+600,Titan of War and Wisdom,BaseU_part_002.csv,181
+2851,Titan of Winds and Waves,BaseU_part_008.csv,7
+1340,Tiwaz of War,BaseU_part_004.csv,113
+1558,Tlahuelpuchi,BaseU_part_004.csv,331
+1484,Tlaloque of the East,BaseU_part_004.csv,257
+1487,Tlaloque of the North,BaseU_part_004.csv,260
+1485,Tlaloque of the South,BaseU_part_004.csv,258
+1486,Tlaloque of the West,BaseU_part_004.csv,259
+1614,Toad Tribe Shaman,BaseU_part_004.csv,387
+1613,Toad Tribe Warrior,BaseU_part_004.csv,386
+3569,Tomb Chariot,BaseU_part_009.csv,325
+1659,Tomb Charioteer,BaseU_part_005.csv,32
+3850,Tomb Flame Wielder,BaseU_part_010.csv,206
+1166,Tomb Guard,BaseU_part_003.csv,339
+692,Tomb King,BaseU_part_002.csv,273
+1476,Tomb Oracle,BaseU_part_004.csv,249
+691,Tomb Priest,BaseU_part_002.csv,272
+693,Tomb Wyrm,BaseU_part_002.csv,274
+63,Tower Guard,BaseU_part_001.csv,64
+1642,Tower Guard,BaseU_part_005.csv,15
+1641,Tower Knight,BaseU_part_005.csv,14
+1844,Trainer of Heroes,BaseU_part_005.csv,215
+622,Traitor King,BaseU_part_002.csv,203
+444,Traitor Prince,BaseU_part_002.csv,44
+4004,Tree,BaseU_part_010.csv,360
+4005,Tree,BaseU_part_010.csv,361
+4006,Tree,BaseU_part_010.csv,362
+3511,Tree of Tainted Fruits,BaseU_part_009.csv,267
+621,Treelord,BaseU_part_002.csv,202
+980,Treelord,BaseU_part_003.csv,155
+666,Triarius,BaseU_part_002.csv,247
+688,Triarius,BaseU_part_002.csv,269
+1105,Triarius,BaseU_part_003.csv,280
+730,Tribal King,BaseU_part_002.csv,311
+1870,Tribuni,BaseU_part_005.csv,237
+1413,Trident Lord,BaseU_part_004.csv,186
+1414,Trident Lord,BaseU_part_004.csv,187
+3175,Triple-Headed,BaseU_part_008.csv,331
+174,Triton,BaseU_part_001.csv,175
+176,Triton,BaseU_part_001.csv,177
+406,Triton Commander,BaseU_part_002.csv,7
+1574,Triton Dreamer,BaseU_part_004.csv,347
+175,Triton Guard,BaseU_part_001.csv,176
+3015,Triton Hoplite,BaseU_part_008.csv,171
+1088,Triton King,BaseU_part_003.csv,263
+1060,Triton Knight,BaseU_part_003.csv,235
+3016,Triton Knight,BaseU_part_008.csv,172
+3013,Triton Militia,BaseU_part_008.csv,169
+3017,Triton Noble,BaseU_part_008.csv,173
+3050,Triton Priest,BaseU_part_008.csv,206
+1061,Triton Prince,BaseU_part_003.csv,236
+2391,Triton Rider,BaseU_part_006.csv,352
+3014,Triton Soldier,BaseU_part_008.csv,170
+577,Triton Trooper,BaseU_part_002.csv,164
+447,Troglodyte,BaseU_part_002.csv,47
+1461,Troglodyte Lord,BaseU_part_004.csv,234
+2482,Troglodyte Slave,BaseU_part_007.csv,43
+2483,Troglodyte Trainer,BaseU_part_007.csv,44
+518,Troll,BaseU_part_002.csv,111
+648,Troll Archer,BaseU_part_002.csv,229
+1425,Troll Guard,BaseU_part_004.csv,198
+519,Troll King,BaseU_part_002.csv,112
+649,Troll Mage,BaseU_part_002.csv,230
+1086,Troll Moose Knight,BaseU_part_003.csv,261
+646,Troll Raider,BaseU_part_002.csv,227
+2221,Troll Seithberender,BaseU_part_006.csv,188
+2220,Troll Shaman,BaseU_part_006.csv,187
+3129,Trophimos Commander,BaseU_part_008.csv,285
+3162,Trophimos Oppressor,BaseU_part_008.csv,318
+3130,Trophimos Priest,BaseU_part_008.csv,286
+3131,Trophimos Sage,BaseU_part_008.csv,287
+2107,Troubadour,BaseU_part_006.csv,74
+856,Tuatha,BaseU_part_003.csv,31
+1773,Tuatha Sorceress,BaseU_part_005.csv,146
+1753,Tuatha Warrior,BaseU_part_005.csv,126
+3461,Tubba,BaseU_part_009.csv,217
+1623,Tungalik,BaseU_part_004.csv,396
+1624,Tupilak,BaseU_part_004.csv,397
+3978,Tupilak Mount,BaseU_part_010.csv,334
+2607,Turan Athravan,BaseU_part_007.csv,163
+2583,Turan Cavalry,BaseU_part_007.csv,139
+2586,Turan Elephant Rider,BaseU_part_007.csv,142
+2628,Turan Gryphon,BaseU_part_007.csv,184
+3546,Turan Gryphon,BaseU_part_009.csv,302
+2581,Turan Heavy Infantry,BaseU_part_007.csv,137
+2582,Turan Horse Archer,BaseU_part_007.csv,138
+2580,Turan Infantry,BaseU_part_007.csv,136
+2605,Turan Shah,BaseU_part_007.csv,161
+2601,Turan Sorcerer,BaseU_part_007.csv,157
+2588,Turan Spahbed,BaseU_part_007.csv,144
+2598,Turan Usij,BaseU_part_007.csv,154
+1362,Turkey,BaseU_part_004.csv,135
+1293,Turtle Chief,BaseU_part_004.csv,66
+1294,Turtle Chief,BaseU_part_004.csv,67
+2382,Turtle Tribe Triton,BaseU_part_006.csv,343
+1291,Turtle Warrior,BaseU_part_004.csv,64
+1292,Turtle Warrior,BaseU_part_004.csv,65
+1483,Tzitzimitl,BaseU_part_004.csv,256
+1429,Uba,BaseU_part_004.csv,202
+3470,Ubaran Archer,BaseU_part_009.csv,226
+3454,Ubaran Camel Rider,BaseU_part_009.csv,210
+3458,Ubaran Commander,BaseU_part_009.csv,214
+3453,Ubaran Desert Warrior,BaseU_part_009.csv,209
+3457,Ubaran Scout,BaseU_part_009.csv,213
+3459,Ubaran Sheikh,BaseU_part_009.csv,215
+3455,Ubaran Soldier,BaseU_part_009.csv,211
+3095,Ugallu,BaseU_part_008.csv,251
+2095,Ujigami,BaseU_part_006.csv,62
+1310,Ulfhedin,BaseU_part_004.csv,83
+1490,Umbral,BaseU_part_004.csv,263
+2966,Umu-apkallu,BaseU_part_008.csv,122
+1803,Uncursed,BaseU_part_005.csv,176
+360,Undine,BaseU_part_001.csv,361
+3424,Undying,BaseU_part_009.csv,180
+997,Unfettered,BaseU_part_003.csv,172
+1203,Unfrozen,BaseU_part_003.csv,376
+1201,Unfrozen Lord,BaseU_part_003.csv,374
+1200,Unfrozen Mage,BaseU_part_003.csv,373
+1202,Unfrozen Warrior,BaseU_part_003.csv,375
+3524,Unicorn,BaseU_part_009.csv,280
+3899,Unicorn,BaseU_part_010.csv,255
+1817,Unmarked,BaseU_part_005.csv,190
+1818,Unmarked Champion,BaseU_part_005.csv,191
+4117,Unseelie Archer,BaseU_part_011.csv,73
+4126,Unseelie Cat,BaseU_part_011.csv,82
+4125,Unseelie Cat Knight,BaseU_part_011.csv,81
+4118,Unseelie Folk,BaseU_part_011.csv,74
+4119,Unseelie Folk,BaseU_part_011.csv,75
+4120,Unseelie Folk,BaseU_part_011.csv,76
+4121,Unseelie Folk,BaseU_part_011.csv,77
+4122,Unseelie Folk,BaseU_part_011.csv,78
+3907,Unseelie Knight,BaseU_part_010.csv,263
+4124,Unseelie Musician,BaseU_part_011.csv,80
+3909,Unseelie Prince,BaseU_part_010.csv,265
+4130,Unseelie Raven,BaseU_part_011.csv,86
+4129,Unseelie Raven Knight,BaseU_part_011.csv,85
+3906,Unseelie Soldier,BaseU_part_010.csv,262
+3998,Unseelie Sprite,BaseU_part_010.csv,354
+4123,Unseelie Stablehand,BaseU_part_011.csv,79
+3908,Unseelie Steed,BaseU_part_010.csv,264
+3820,Unseen One,BaseU_part_010.csv,176
+2087,Unsleeping,BaseU_part_006.csv,54
+2088,Unsleeping Consort,BaseU_part_006.csv,55
+1454,Unused Ancient One,BaseU_part_004.csv,227
+1674,Unwinged,BaseU_part_005.csv,47
+2175,Ur-Guard,BaseU_part_006.csv,142
+2137,Urmahlullu,BaseU_part_006.csv,104
+2980,Uttervast,BaseU_part_008.csv,136
+541,Vaetti,BaseU_part_002.csv,134
+3401,Vaetti Archer,BaseU_part_009.csv,157
+3423,Vaetti Archer,BaseU_part_009.csv,179
+4012,Vaetti Archer,BaseU_part_010.csv,368
+3404,Vaetti Berserker,BaseU_part_009.csv,160
+3412,Vaetti Crossbowman,BaseU_part_009.csv,168
+3411,Vaetti Gode,BaseU_part_009.csv,167
+3408,Vaetti Gygja,BaseU_part_009.csv,164
+913,Vaetti Hag,BaseU_part_003.csv,88
+3407,Vaetti Hag,BaseU_part_009.csv,163
+3435,Vaetti Herse,BaseU_part_009.csv,191
+3410,Vaetti Jarl,BaseU_part_009.csv,166
+3403,Vaetti Spearman,BaseU_part_009.csv,159
+3927,Vahana,BaseU_part_010.csv,283
+261,Valkyrie,BaseU_part_001.csv,262
+855,Valkyrie,BaseU_part_003.csv,30
+405,Vampire,BaseU_part_002.csv,6
+1019,Vampire Count,BaseU_part_003.csv,194
+3251,Vampire Count,BaseU_part_009.csv,7
+3253,Vampire Count,BaseU_part_009.csv,9
+3274,Vampire Count,BaseU_part_009.csv,30
+3245,Vampire Countess,BaseU_part_008.csv,401
+404,Vampire Lord,BaseU_part_002.csv,5
+3254,Vampire Lord,BaseU_part_009.csv,10
+862,Vampire Queen,BaseU_part_003.csv,37
+262,Van,BaseU_part_001.csv,263
+1512,Van Scout,BaseU_part_004.csv,285
+2342,Vanabog,BaseU_part_006.csv,303
+1511,Vanadis,BaseU_part_004.csv,284
+590,Vanadrott,BaseU_part_002.csv,177
+948,Vanadrott,BaseU_part_003.csv,123
+1117,Vanara,BaseU_part_003.csv,292
+1123,Vanara Archer,BaseU_part_003.csv,298
+1128,Vanara Captain,BaseU_part_003.csv,303
+1124,Vanara Chakram Thrower,BaseU_part_003.csv,299
+1125,Vanara Infantry,BaseU_part_003.csv,300
+1126,Vanara Swordsman,BaseU_part_003.csv,301
+2343,Vanarusian Archer,BaseU_part_006.csv,304
+3071,Vanarusian Berserker,BaseU_part_008.csv,227
+2356,Vanarusian Gode,BaseU_part_006.csv,317
+2354,Vanarusian Herse,BaseU_part_006.csv,315
+2346,Vanarusian Hirdman,BaseU_part_006.csv,307
+2347,Vanarusian Hirdman,BaseU_part_006.csv,308
+2348,Vanarusian Hirdman,BaseU_part_006.csv,309
+2344,Vanarusian Huskarl,BaseU_part_006.csv,305
+2345,Vanarusian Huskarl,BaseU_part_006.csv,306
+2355,Vanarusian Jarl,BaseU_part_006.csv,316
+2341,Vanarusian Sage,BaseU_part_006.csv,302
+1513,Vanhere,BaseU_part_004.csv,286
+263,Vanherse,BaseU_part_001.csv,264
+1505,Vanherse,BaseU_part_004.csv,278
+264,Vanjarl,BaseU_part_001.csv,265
+1506,Vanjarl,BaseU_part_004.csv,279
+3259,Varyag,BaseU_part_009.csv,15
+762,Vastness,BaseU_part_002.csv,343
+4085,Vedun,BaseU_part_011.csv,41
+4088,Vedun Mage Smith,BaseU_part_011.csv,44
+3489,Veiled Enchantress,BaseU_part_009.csv,245
+3819,Veiled One,BaseU_part_010.csv,175
+1916,Veliki Knyaz,BaseU_part_005.csv,283
+155,Velite,BaseU_part_001.csv,156
+662,Velite,BaseU_part_002.csv,243
+684,Velite,BaseU_part_002.csv,265
+1206,Vergobret,BaseU_part_003.csv,379
+3931,Vermilion Bird of the South,BaseU_part_010.csv,287
+1766,Vetala,BaseU_part_005.csv,139
+3291,Viceroy Primate,BaseU_part_009.csv,47
+3668,Vidyadhara,BaseU_part_010.csv,24
+757,Vile Thing,BaseU_part_002.csv,338
+482,Villain,BaseU_part_002.csv,81
+361,Vine Man,BaseU_part_001.csv,362
+362,Vine Ogre,BaseU_part_001.csv,363
+3296,Vintefolei Horseman,BaseU_part_009.csv,52
+4066,Vintefolei Shaman Chief,BaseU_part_011.csv,22
+2685,Viracocha,BaseU_part_007.csv,241
+215,Virtue,BaseU_part_001.csv,216
+1406,Visitor,BaseU_part_004.csv,179
+3252,Vivisectionist,BaseU_part_009.csv,8
+1953,Vodyanoy,BaseU_part_005.csv,320
+1931,Voi Archer,BaseU_part_005.csv,298
+1930,Voi Axeman,BaseU_part_005.csv,297
+1929,Voi Spearman,BaseU_part_005.csv,296
+2291,Voice of Lion,BaseU_part_006.csv,252
+2310,Voice of Spider,BaseU_part_006.csv,271
+890,Voice of the Hunters,BaseU_part_003.csv,65
+897,Voice of the Lord,BaseU_part_003.csv,72
+1563,Void Cultist,BaseU_part_004.csv,336
+3852,Void Dreamer,BaseU_part_010.csv,208
+3990,Void Flame,BaseU_part_010.csv,346
+3853,Void Herald,BaseU_part_010.csv,209
+652,Void Lord,BaseU_part_002.csv,233
+546,Void Lurker,BaseU_part_002.csv,139
+1562,Void Spectre,BaseU_part_004.csv,335
+1918,Voivode,BaseU_part_005.csv,285
+1370,Volla of the Bountiful Forest,BaseU_part_004.csv,143
+1939,Vyedma,BaseU_part_005.csv,306
+1938,Vyedun,BaseU_part_005.csv,305
+950,Völva,BaseU_part_003.csv,125
+2799,Wadjet,BaseU_part_007.csv,355
+255,Wailing Lady,BaseU_part_001.csv,256
+1588,Wanderer,BaseU_part_004.csv,361
+3793,War Bird,BaseU_part_010.csv,149
+3570,War Cart,BaseU_part_009.csv,326
+2153,War Dog,BaseU_part_006.csv,120
+3540,War Elephant,BaseU_part_009.csv,296
+3541,War Elephant,BaseU_part_009.csv,297
+3996,War Hog,BaseU_part_010.csv,352
+3514,War Horse,BaseU_part_009.csv,270
+3515,War Horse,BaseU_part_009.csv,271
+3690,War Horse,BaseU_part_010.csv,46
+2306,War Lion,BaseU_part_006.csv,267
+118,War Master,BaseU_part_001.csv,119
+235,War Minotaur,BaseU_part_001.csv,236
+208,War Shambler,BaseU_part_001.csv,209
+1684,War Shambler,BaseU_part_005.csv,57
+1037,War Troll,BaseU_part_003.csv,212
+1972,Warbred,BaseU_part_005.csv,339
+1648,Warden,BaseU_part_005.csv,21
+65,Warden of Avalon,BaseU_part_001.csv,66
+89,Warlock,BaseU_part_001.csv,90
+1538,Warlock,BaseU_part_004.csv,311
+1667,Warlock,BaseU_part_005.csv,40
+923,Warlock Apprentice,BaseU_part_003.csv,98
+1542,Warlock Apprentice,BaseU_part_004.csv,315
+119,Warlord,BaseU_part_001.csv,120
+721,Warrior,BaseU_part_002.csv,302
+722,Warrior,BaseU_part_002.csv,303
+723,Warrior,BaseU_part_002.csv,304
+724,Warrior,BaseU_part_002.csv,305
+1153,Warrior,BaseU_part_003.csv,326
+1545,Warrior,BaseU_part_004.csv,318
+1546,Warrior,BaseU_part_004.csv,319
+1547,Warrior,BaseU_part_004.csv,320
+1158,Warrior Chief,BaseU_part_003.csv,331
+297,Warrior Illusion,BaseU_part_001.csv,298
+650,Warrior Mage,BaseU_part_002.csv,231
+875,Warrior Mage,BaseU_part_003.csv,50
+1163,Warrior Maiden,BaseU_part_003.csv,336
+1689,Warrior of the Deep,BaseU_part_005.csv,62
+2893,Warrior of the Deep,BaseU_part_008.csv,49
+1544,Warrior of the Five Elements,BaseU_part_004.csv,317
+1174,Warrior Priestess,BaseU_part_003.csv,347
+1175,Warrior Queen,BaseU_part_003.csv,348
+2279,Warrior Scout,BaseU_part_006.csv,246
+1159,Warrior Smith,BaseU_part_003.csv,332
+1186,Warrior Sorceress,BaseU_part_003.csv,359
+768,Watcher,BaseU_part_002.csv,349
+3730,Water Elemental,BaseU_part_010.csv,86
+3731,Water Elemental,BaseU_part_010.csv,87
+3732,Water Elemental,BaseU_part_010.csv,88
+3733,Water Elemental,BaseU_part_010.csv,89
+3734,Water Elemental,BaseU_part_010.csv,90
+3735,Water Elemental,BaseU_part_010.csv,91
+3736,Water Elemental,BaseU_part_010.csv,92
+3737,Water Elemental,BaseU_part_010.csv,93
+3911,Water Kobold,BaseU_part_010.csv,267
+1052,Wave Lord,BaseU_part_003.csv,227
+1053,Wave Lord,BaseU_part_003.csv,228
+1048,Wave Warrior,BaseU_part_003.csv,223
+1049,Wave Warrior,BaseU_part_003.csv,224
+2682,Way,BaseU_part_007.csv,238
+2751,Way,BaseU_part_007.csv,307
+3683,Weaver of Nightmares,BaseU_part_010.csv,39
+3654,Weaver of Tales,BaseU_part_010.csv,10
+728,Were Jaguar,BaseU_part_002.csv,309
+2351,Werebear,BaseU_part_006.csv,312
+2996,Werebear,BaseU_part_008.csv,152
+2998,Werebear,BaseU_part_008.csv,154
+3256,Werebear,BaseU_part_009.csv,12
+4080,Werebear,BaseU_part_011.csv,36
+2294,Werehyena,BaseU_part_006.csv,255
+2427,Werehyena,BaseU_part_006.csv,388
+399,Werewolf,BaseU_part_001.csv,400
+633,Werewolf,BaseU_part_002.csv,214
+852,Werewolf,BaseU_part_003.csv,27
+854,Werewolf,BaseU_part_003.csv,29
+2143,Werewolf,BaseU_part_006.csv,110
+2145,Werewolf,BaseU_part_006.csv,112
+4078,Werewolf,BaseU_part_011.csv,34
+1489,Wet One,BaseU_part_004.csv,262
+1491,Wet One,BaseU_part_004.csv,264
+1635,Wet One,BaseU_part_005.csv,8
+1636,Wet One,BaseU_part_005.csv,9
+1637,Wet One Captain,BaseU_part_005.csv,10
+1638,Wet One Captain,BaseU_part_005.csv,11
+363,Whisperwood Enchantress,BaseU_part_001.csv,364
+769,White Centaur,BaseU_part_002.csv,350
+540,White Minotaur,BaseU_part_002.csv,133
+1142,White One,BaseU_part_003.csv,315
+770,White Satyr,BaseU_part_002.csv,351
+3928,White Tiger of the West,BaseU_part_010.csv,284
+2474,White Wolf,BaseU_part_007.csv,35
+533,Wight,BaseU_part_002.csv,126
+3444,Wight Hag,BaseU_part_009.csv,200
+3449,Wight Hag,BaseU_part_009.csv,205
+4100,Wight Hag,BaseU_part_011.csv,56
+4102,Wight Hag,BaseU_part_011.csv,58
+299,Wight Mage,BaseU_part_001.csv,300
+3180,Wight Mage,BaseU_part_008.csv,336
+3181,Wight Mage,BaseU_part_008.csv,337
+3195,Wight Mage,BaseU_part_008.csv,351
+3196,Wight Mage,BaseU_part_008.csv,352
+3445,Wight Mage,BaseU_part_009.csv,201
+3446,Wight Mage,BaseU_part_009.csv,202
+3447,Wight Mage,BaseU_part_009.csv,203
+3448,Wight Mage,BaseU_part_009.csv,204
+3450,Wight Mage,BaseU_part_009.csv,206
+4103,Wight Mage,BaseU_part_011.csv,59
+3179,Wight Murmurer,BaseU_part_008.csv,335
+3189,Wight Oracle,BaseU_part_008.csv,345
+3178,Wight Shaman,BaseU_part_008.csv,334
+4101,Wight Spider,BaseU_part_011.csv,57
+527,Will o' the Wisp,BaseU_part_002.csv,120
+3152,Wind Caller,BaseU_part_008.csv,308
+1075,Wind Lord,BaseU_part_003.csv,250
+93,Wind Master,BaseU_part_001.csv,94
+1074,Wind Rider,BaseU_part_003.csv,249
+1199,Winged Monkey,BaseU_part_003.csv,372
+414,Wingless,BaseU_part_002.csv,14
+511,Winter Wolf,BaseU_part_002.csv,104
+154,Witch,BaseU_part_001.csv,155
+892,Witch Doctor,BaseU_part_003.csv,67
+224,Witch Hunter,BaseU_part_001.csv,225
+589,Witch Hunter General,BaseU_part_002.csv,176
+1178,Witch King,BaseU_part_003.csv,351
+2859,Witness of the Deep,BaseU_part_008.csv,15
+3499,Wizard of Dark Arts,BaseU_part_009.csv,255
+3493,Wizard of Fire and Flame,BaseU_part_009.csv,249
+302,Wizard of High Magics,BaseU_part_001.csv,303
+312,Wizard of High Magics,BaseU_part_001.csv,313
+3495,Wizard of Ice and Water,BaseU_part_009.csv,251
+3498,Wizard of Many Colors,BaseU_part_009.csv,254
+3496,Wizard of Storms and Thunder,BaseU_part_009.csv,252
+999,Wizard of the Crescent Moon,BaseU_part_003.csv,174
+3494,Wizard of the Earth,BaseU_part_009.csv,250
+3497,Wizard of the Stars,BaseU_part_009.csv,253
+3492,Wizard's Apprentice,BaseU_part_009.csv,248
+3509,Wizard's Apprentice,BaseU_part_009.csv,265
+2729,Wo' Muuch,BaseU_part_007.csv,285
+2747,Wo' Muuch,BaseU_part_007.csv,303
+284,Wolf,BaseU_part_001.csv,285
+3532,Wolf,BaseU_part_009.csv,288
+3687,Wolf,BaseU_part_010.csv,43
+3884,Wolf,BaseU_part_010.csv,240
+3413,Wolf Brother,BaseU_part_009.csv,169
+3674,Wolf Clan Reaver,BaseU_part_010.csv,30
+3680,Wolf Clan Seithberender,BaseU_part_010.csv,36
+298,Wolf Illusion,BaseU_part_001.csv,299
+508,Wolf Lord,BaseU_part_002.csv,101
+282,Wolf Rider,BaseU_part_001.csv,283
+3418,Wolf Rider,BaseU_part_009.csv,174
+123,Wolf Tribe Archer,BaseU_part_001.csv,124
+1596,Wolf Tribe Shaman,BaseU_part_004.csv,369
+124,Wolf Tribe Warrior,BaseU_part_001.csv,125
+1028,Wolfherd,BaseU_part_003.csv,203
+2806,Wondrous,BaseU_part_007.csv,362
+3345,Wooden Colossus,BaseU_part_009.csv,101
+105,Woodhenge Druid,BaseU_part_001.csv,106
+932,Woodland Spirit,BaseU_part_003.csv,107
+126,Woodsman,BaseU_part_001.csv,127
+125,Woodsman Blowpipe,BaseU_part_001.csv,126
+2217,Worm Mage,BaseU_part_006.csv,184
+2975,Worm Mage,BaseU_part_008.csv,131
+4032,Worm Soul,BaseU_part_010.csv,388
+4033,Worm Soul,BaseU_part_010.csv,389
+2358,Wormwood Witch,BaseU_part_006.csv,319
+183,Wraith King,BaseU_part_001.csv,184
+181,Wraith Lord,BaseU_part_001.csv,182
+182,Wraith Lord,BaseU_part_001.csv,183
+269,Wyrm,BaseU_part_001.csv,270
+520,Wyvern,BaseU_part_002.csv,113
+2670,Xibalban Dart Thrower,BaseU_part_007.csv,226
+2671,Xibalban Guard,BaseU_part_007.csv,227
+2689,Xibalban Scorpion,BaseU_part_007.csv,245
+2691,Xibalban Scorpion Trainer,BaseU_part_007.csv,247
+2673,Xibalban Scout,BaseU_part_007.csv,229
+2668,Xibalban Warrior,BaseU_part_007.csv,224
+2669,Xibalban Warrior,BaseU_part_007.csv,225
+2488,XXX,BaseU_part_007.csv,49
+3309,XXX,BaseU_part_009.csv,65
+1080,XXX - Archerless Chariot,BaseU_part_003.csv,255
+2322,XXX - Shark,BaseU_part_006.csv,283
+2638,XXX - Turan Gryphon,BaseU_part_007.csv,194
+1329,Yaksha,BaseU_part_004.csv,102
+1330,Yakshini,BaseU_part_004.csv,103
+2097,Yama-no-kami,BaseU_part_006.csv,64
+1248,Yamabushi,BaseU_part_004.csv,21
+2633,Yata,BaseU_part_007.csv,189
+1327,Yavana,BaseU_part_004.csv,100
+1328,Yavana Archer,BaseU_part_004.csv,101
+1607,Yazad,BaseU_part_004.csv,380
+2578,Yazad King,BaseU_part_007.csv,134
+2620,Yazad of Fire,BaseU_part_007.csv,176
+2621,Yazad of Justice,BaseU_part_007.csv,177
+2625,Yazad of the Earth,BaseU_part_007.csv,181
+2623,Yazad of the Sky,BaseU_part_007.csv,179
+2622,Yazad of the Stars,BaseU_part_007.csv,178
+2624,Yazad of Water,BaseU_part_007.csv,180
+1988,Yeddeoni,BaseU_part_005.csv,355
+2231,Yeti,BaseU_part_006.csv,198
+2642,Yeti Shaman,BaseU_part_007.csv,198
+3382,Yllerion,BaseU_part_009.csv,138
+3383,Yllerion,BaseU_part_009.csv,139
+1145,Yogi,BaseU_part_003.csv,318
+1734,Yogini,BaseU_part_005.csv,107
+2913,Ysian Commander,BaseU_part_008.csv,69
+2914,Ysian Druid,BaseU_part_008.csv,70
+2923,Ysian Infantry,BaseU_part_008.csv,79
+2909,Ysian Man at Arms,BaseU_part_008.csv,65
+2907,Ysian Militia,BaseU_part_008.csv,63
+2912,Ysian Scout,BaseU_part_008.csv,68
+2908,Ysian Spearman,BaseU_part_008.csv,64
+2011,Zamzummite,BaseU_part_005.csv,378
+2603,Zaotar,BaseU_part_007.csv,159
+2050,Zebulunite Horn Blower,BaseU_part_006.csv,17
+1992,Zebulunite Soldier,BaseU_part_005.csv,359
+4068,Zemaite Archer,BaseU_part_011.csv,24
+4076,Zemaite Castle Guard,BaseU_part_011.csv,32
+4082,Zemaite Chieftain,BaseU_part_011.csv,38
+4079,Zemaite Chud Skinshifter,BaseU_part_011.csv,35
+4073,Zemaite Chud Warrior,BaseU_part_011.csv,29
+4074,Zemaite Crossbowman,BaseU_part_011.csv,30
+4072,Zemaite Heavy Infantry,BaseU_part_011.csv,28
+4071,Zemaite Infantry,BaseU_part_011.csv,27
+4075,Zemaite Pikeneer,BaseU_part_011.csv,31
+4077,Zemaite Skinshifter,BaseU_part_011.csv,33
+4069,Zemaite Warrior,BaseU_part_011.csv,25
+4070,Zemaite Warrior,BaseU_part_011.csv,26
+2587,Zhayedan,BaseU_part_007.csv,143
+2629,Zhayedan Spahbed,BaseU_part_007.csv,185
+1388,Ziz,BaseU_part_004.csv,161
+1940,Zmey,BaseU_part_005.csv,307
+2504,Zotz,BaseU_part_007.csv,65
+2733,Zotz Batab,BaseU_part_007.csv,289
+2740,Zotz Dart Thrower,BaseU_part_007.csv,296
+2741,Zotz Guard,BaseU_part_007.csv,297
+2742,Zotz Guard,BaseU_part_007.csv,298
+2734,Zotz Warrior,BaseU_part_007.csv,290
+2735,Zotz Warrior,BaseU_part_007.csv,291
+2738,Zotz Warrior,BaseU_part_007.csv,294
+2739,Zotz Warrior,BaseU_part_007.csv,295
+1034,Zweihander,BaseU_part_003.csv,209
